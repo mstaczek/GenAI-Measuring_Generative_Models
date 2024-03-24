@@ -1,0 +1,251 @@
+,image_path,prediction_position,label,score
+0,/content/DALLE3/dalle_cars_zipped.zip/car_img0.png,0,"sports car, sport car",0.41
+1,/content/DALLE3/dalle_cars_zipped.zip/car_img0.png,1,convertible,0.29
+2,/content/DALLE3/dalle_cars_zipped.zip/car_img0.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+3,/content/DALLE3/dalle_cars_zipped.zip/car_img0.png,3,car wheel,0.02
+4,/content/DALLE3/dalle_cars_zipped.zip/car_img0.png,4,"grille, radiator grille",0.01
+5,/content/DALLE3/dalle_cars_zipped.zip/car_img1.png,0,convertible,0.48
+6,/content/DALLE3/dalle_cars_zipped.zip/car_img1.png,1,"grille, radiator grille",0.18
+7,/content/DALLE3/dalle_cars_zipped.zip/car_img1.png,2,"cab, hack, taxi, taxicab",0.12
+8,/content/DALLE3/dalle_cars_zipped.zip/car_img1.png,3,car wheel,0.03
+9,/content/DALLE3/dalle_cars_zipped.zip/car_img1.png,4,"sports car, sport car",0.02
+10,/content/DALLE3/dalle_cars_zipped.zip/car_img10.png,0,"recreational vehicle, RV, R.V.",0.43
+11,/content/DALLE3/dalle_cars_zipped.zip/car_img10.png,1,"golfcart, golf cart",0.24
+12,/content/DALLE3/dalle_cars_zipped.zip/car_img10.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+13,/content/DALLE3/dalle_cars_zipped.zip/car_img10.png,3,"limousine, limo",0.02
+14,/content/DALLE3/dalle_cars_zipped.zip/car_img10.png,4,"fire engine, fire truck",0.01
+15,/content/DALLE3/dalle_cars_zipped.zip/car_img11.png,0,minibus,0.67
+16,/content/DALLE3/dalle_cars_zipped.zip/car_img11.png,1,canoe,0.04
+17,/content/DALLE3/dalle_cars_zipped.zip/car_img11.png,2,"cab, hack, taxi, taxicab",0.03
+18,/content/DALLE3/dalle_cars_zipped.zip/car_img11.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+19,/content/DALLE3/dalle_cars_zipped.zip/car_img11.png,4,"lakeside, lakeshore",0.03
+20,/content/DALLE3/dalle_cars_zipped.zip/car_img12.png,0,"traffic light, traffic signal, stoplight",0.15
+21,/content/DALLE3/dalle_cars_zipped.zip/car_img12.png,1,"sports car, sport car",0.13
+22,/content/DALLE3/dalle_cars_zipped.zip/car_img12.png,2,convertible,0.1
+23,/content/DALLE3/dalle_cars_zipped.zip/car_img12.png,3,"cab, hack, taxi, taxicab",0.07
+24,/content/DALLE3/dalle_cars_zipped.zip/car_img12.png,4,car wheel,0.06
+25,/content/DALLE3/dalle_cars_zipped.zip/car_img13.png,0,fountain,0.25
+26,/content/DALLE3/dalle_cars_zipped.zip/car_img13.png,1,"theater curtain, theatre curtain",0.08
+27,/content/DALLE3/dalle_cars_zipped.zip/car_img13.png,2,"limousine, limo",0.04
+28,/content/DALLE3/dalle_cars_zipped.zip/car_img13.png,3,altar,0.04
+29,/content/DALLE3/dalle_cars_zipped.zip/car_img13.png,4,school bus,0.03
+30,/content/DALLE3/dalle_cars_zipped.zip/car_img14.png,0,"cab, hack, taxi, taxicab",0.87
+31,/content/DALLE3/dalle_cars_zipped.zip/car_img14.png,1,"traffic light, traffic signal, stoplight",0.02
+32,/content/DALLE3/dalle_cars_zipped.zip/car_img14.png,2,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.0
+33,/content/DALLE3/dalle_cars_zipped.zip/car_img14.png,3,ambulance,0.0
+34,/content/DALLE3/dalle_cars_zipped.zip/car_img14.png,4,library,0.0
+35,/content/DALLE3/dalle_cars_zipped.zip/car_img15.png,0,"pickup, pickup truck",0.85
+36,/content/DALLE3/dalle_cars_zipped.zip/car_img15.png,1,"grocery store, grocery, food market, market",0.02
+37,/content/DALLE3/dalle_cars_zipped.zip/car_img15.png,2,orange,0.0
+38,/content/DALLE3/dalle_cars_zipped.zip/car_img15.png,3,"tow truck, tow car, wrecker",0.0
+39,/content/DALLE3/dalle_cars_zipped.zip/car_img15.png,4,banana,0.0
+40,/content/DALLE3/dalle_cars_zipped.zip/car_img16.png,0,comic book,0.08
+41,/content/DALLE3/dalle_cars_zipped.zip/car_img16.png,1,"mouse, computer mouse",0.07
+42,/content/DALLE3/dalle_cars_zipped.zip/car_img16.png,2,"sports car, sport car",0.06
+43,/content/DALLE3/dalle_cars_zipped.zip/car_img16.png,3,wing,0.06
+44,/content/DALLE3/dalle_cars_zipped.zip/car_img16.png,4,"traffic light, traffic signal, stoplight",0.04
+45,/content/DALLE3/dalle_cars_zipped.zip/car_img17.png,0,convertible,0.86
+46,/content/DALLE3/dalle_cars_zipped.zip/car_img17.png,1,"grille, radiator grille",0.02
+47,/content/DALLE3/dalle_cars_zipped.zip/car_img17.png,2,"sports car, sport car",0.01
+48,/content/DALLE3/dalle_cars_zipped.zip/car_img17.png,3,"pickup, pickup truck",0.01
+49,/content/DALLE3/dalle_cars_zipped.zip/car_img17.png,4,car wheel,0.01
+50,/content/DALLE3/dalle_cars_zipped.zip/car_img18.png,0,"limousine, limo",0.72
+51,/content/DALLE3/dalle_cars_zipped.zip/car_img18.png,1,"cab, hack, taxi, taxicab",0.09
+52,/content/DALLE3/dalle_cars_zipped.zip/car_img18.png,2,"theater curtain, theatre curtain",0.03
+53,/content/DALLE3/dalle_cars_zipped.zip/car_img18.png,3,stage,0.02
+54,/content/DALLE3/dalle_cars_zipped.zip/car_img18.png,4,"grille, radiator grille",0.01
+55,/content/DALLE3/dalle_cars_zipped.zip/car_img19.png,0,"tow truck, tow car, wrecker",0.83
+56,/content/DALLE3/dalle_cars_zipped.zip/car_img19.png,1,stretcher,0.01
+57,/content/DALLE3/dalle_cars_zipped.zip/car_img19.png,2,comic book,0.0
+58,/content/DALLE3/dalle_cars_zipped.zip/car_img19.png,3,"cab, hack, taxi, taxicab",0.0
+59,/content/DALLE3/dalle_cars_zipped.zip/car_img19.png,4,crane,0.0
+60,/content/DALLE3/dalle_cars_zipped.zip/car_img2.png,0,"cab, hack, taxi, taxicab",0.36
+61,/content/DALLE3/dalle_cars_zipped.zip/car_img2.png,1,vault,0.06
+62,/content/DALLE3/dalle_cars_zipped.zip/car_img2.png,2,"sports car, sport car",0.04
+63,/content/DALLE3/dalle_cars_zipped.zip/car_img2.png,3,comic book,0.02
+64,/content/DALLE3/dalle_cars_zipped.zip/car_img2.png,4,library,0.01
+65,/content/DALLE3/dalle_cars_zipped.zip/car_img20.png,0,"seat belt, seatbelt",0.22
+66,/content/DALLE3/dalle_cars_zipped.zip/car_img20.png,1,convertible,0.19
+67,/content/DALLE3/dalle_cars_zipped.zip/car_img20.png,2,"paddle, boat paddle",0.06
+68,/content/DALLE3/dalle_cars_zipped.zip/car_img20.png,3,"sunglasses, dark glasses, shades",0.05
+69,/content/DALLE3/dalle_cars_zipped.zip/car_img20.png,4,maillot,0.04
+70,/content/DALLE3/dalle_cars_zipped.zip/car_img21.png,0,"jeep, landrover",0.25
+71,/content/DALLE3/dalle_cars_zipped.zip/car_img21.png,1,"snowplow, snowplough",0.23
+72,/content/DALLE3/dalle_cars_zipped.zip/car_img21.png,2,"church, church building",0.09
+73,/content/DALLE3/dalle_cars_zipped.zip/car_img21.png,3,"pickup, pickup truck",0.04
+74,/content/DALLE3/dalle_cars_zipped.zip/car_img21.png,4,"limousine, limo",0.01
+75,/content/DALLE3/dalle_cars_zipped.zip/car_img22.png,0,"traffic light, traffic signal, stoplight",0.53
+76,/content/DALLE3/dalle_cars_zipped.zip/car_img22.png,1,"jeep, landrover",0.15
+77,/content/DALLE3/dalle_cars_zipped.zip/car_img22.png,2,"cab, hack, taxi, taxicab",0.07
+78,/content/DALLE3/dalle_cars_zipped.zip/car_img22.png,3,"racer, race car, racing car",0.01
+79,/content/DALLE3/dalle_cars_zipped.zip/car_img22.png,4,"spotlight, spot",0.01
+80,/content/DALLE3/dalle_cars_zipped.zip/car_img23.png,0,"cab, hack, taxi, taxicab",0.56
+81,/content/DALLE3/dalle_cars_zipped.zip/car_img23.png,1,"traffic light, traffic signal, stoplight",0.12
+82,/content/DALLE3/dalle_cars_zipped.zip/car_img23.png,2,minibus,0.02
+83,/content/DALLE3/dalle_cars_zipped.zip/car_img23.png,3,minivan,0.01
+84,/content/DALLE3/dalle_cars_zipped.zip/car_img23.png,4,ambulance,0.01
+85,/content/DALLE3/dalle_cars_zipped.zip/car_img24.png,0,Model T,0.69
+86,/content/DALLE3/dalle_cars_zipped.zip/car_img24.png,1,car wheel,0.04
+87,/content/DALLE3/dalle_cars_zipped.zip/car_img24.png,2,"pickup, pickup truck",0.03
+88,/content/DALLE3/dalle_cars_zipped.zip/car_img24.png,3,"tow truck, tow car, wrecker",0.01
+89,/content/DALLE3/dalle_cars_zipped.zip/car_img24.png,4,"racer, race car, racing car",0.0
+90,/content/DALLE3/dalle_cars_zipped.zip/car_img25.png,0,"racer, race car, racing car",0.41
+91,/content/DALLE3/dalle_cars_zipped.zip/car_img25.png,1,"maze, labyrinth",0.07
+92,/content/DALLE3/dalle_cars_zipped.zip/car_img25.png,2,castle,0.06
+93,/content/DALLE3/dalle_cars_zipped.zip/car_img25.png,3,alp,0.04
+94,/content/DALLE3/dalle_cars_zipped.zip/car_img25.png,4,"sports car, sport car",0.03
+95,/content/DALLE3/dalle_cars_zipped.zip/car_img26.png,0,fountain,0.45
+96,/content/DALLE3/dalle_cars_zipped.zip/car_img26.png,1,"sports car, sport car",0.15
+97,/content/DALLE3/dalle_cars_zipped.zip/car_img26.png,2,projector,0.07
+98,/content/DALLE3/dalle_cars_zipped.zip/car_img26.png,3,car wheel,0.05
+99,/content/DALLE3/dalle_cars_zipped.zip/car_img26.png,4,"racer, race car, racing car",0.02
+100,/content/DALLE3/dalle_cars_zipped.zip/car_img27.png,0,school bus,0.83
+101,/content/DALLE3/dalle_cars_zipped.zip/car_img27.png,1,"corkscrew, bottle screw",0.0
+102,/content/DALLE3/dalle_cars_zipped.zip/car_img27.png,2,"cab, hack, taxi, taxicab",0.0
+103,/content/DALLE3/dalle_cars_zipped.zip/car_img27.png,3,"ballpoint, ballpoint pen, ballpen, Biro",0.0
+104,/content/DALLE3/dalle_cars_zipped.zip/car_img27.png,4,"can opener, tin opener",0.0
+105,/content/DALLE3/dalle_cars_zipped.zip/car_img28.png,0,"golfcart, golf cart",0.18
+106,/content/DALLE3/dalle_cars_zipped.zip/car_img28.png,1,convertible,0.08
+107,/content/DALLE3/dalle_cars_zipped.zip/car_img28.png,2,"sports car, sport car",0.08
+108,/content/DALLE3/dalle_cars_zipped.zip/car_img28.png,3,"harvester, reaper",0.05
+109,/content/DALLE3/dalle_cars_zipped.zip/car_img28.png,4,"racer, race car, racing car",0.04
+110,/content/DALLE3/dalle_cars_zipped.zip/car_img29.png,0,"cab, hack, taxi, taxicab",0.2
+111,/content/DALLE3/dalle_cars_zipped.zip/car_img29.png,1,toyshop,0.2
+112,/content/DALLE3/dalle_cars_zipped.zip/car_img29.png,2,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",0.12
+113,/content/DALLE3/dalle_cars_zipped.zip/car_img29.png,3,convertible,0.05
+114,/content/DALLE3/dalle_cars_zipped.zip/car_img29.png,4,"grille, radiator grille",0.04
+115,/content/DALLE3/dalle_cars_zipped.zip/car_img3.png,0,car wheel,0.46
+116,/content/DALLE3/dalle_cars_zipped.zip/car_img3.png,1,comic book,0.17
+117,/content/DALLE3/dalle_cars_zipped.zip/car_img3.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+118,/content/DALLE3/dalle_cars_zipped.zip/car_img3.png,3,"grille, radiator grille",0.04
+119,/content/DALLE3/dalle_cars_zipped.zip/car_img3.png,4,convertible,0.01
+120,/content/DALLE3/dalle_cars_zipped.zip/car_img30.png,0,"fire engine, fire truck",0.91
+121,/content/DALLE3/dalle_cars_zipped.zip/car_img30.png,1,"tow truck, tow car, wrecker",0.0
+122,/content/DALLE3/dalle_cars_zipped.zip/car_img30.png,2,"spotlight, spot",0.0
+123,/content/DALLE3/dalle_cars_zipped.zip/car_img30.png,3,"dalmatian, coach dog, carriage dog",0.0
+124,/content/DALLE3/dalle_cars_zipped.zip/car_img30.png,4,ambulance,0.0
+125,/content/DALLE3/dalle_cars_zipped.zip/car_img31.png,0,convertible,0.45
+126,/content/DALLE3/dalle_cars_zipped.zip/car_img31.png,1,"sports car, sport car",0.37
+127,/content/DALLE3/dalle_cars_zipped.zip/car_img31.png,2,car wheel,0.02
+128,/content/DALLE3/dalle_cars_zipped.zip/car_img31.png,3,"valley, vale",0.02
+129,/content/DALLE3/dalle_cars_zipped.zip/car_img31.png,4,alp,0.01
+130,/content/DALLE3/dalle_cars_zipped.zip/car_img32.png,0,"plunger, plumber's helper",0.48
+131,/content/DALLE3/dalle_cars_zipped.zip/car_img32.png,1,wok,0.03
+132,/content/DALLE3/dalle_cars_zipped.zip/car_img32.png,2,"jean, blue jean, denim",0.03
+133,/content/DALLE3/dalle_cars_zipped.zip/car_img32.png,3,"caldron, cauldron",0.02
+134,/content/DALLE3/dalle_cars_zipped.zip/car_img32.png,4,"frying pan, frypan, skillet",0.01
+135,/content/DALLE3/dalle_cars_zipped.zip/car_img33.png,0,car wheel,0.34
+136,/content/DALLE3/dalle_cars_zipped.zip/car_img33.png,1,"cab, hack, taxi, taxicab",0.16
+137,/content/DALLE3/dalle_cars_zipped.zip/car_img33.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.1
+138,/content/DALLE3/dalle_cars_zipped.zip/car_img33.png,3,"grille, radiator grille",0.04
+139,/content/DALLE3/dalle_cars_zipped.zip/car_img33.png,4,convertible,0.03
+140,/content/DALLE3/dalle_cars_zipped.zip/car_img34.png,0,"jeep, landrover",0.79
+141,/content/DALLE3/dalle_cars_zipped.zip/car_img34.png,1,"pickup, pickup truck",0.01
+142,/content/DALLE3/dalle_cars_zipped.zip/car_img34.png,2,car wheel,0.01
+143,/content/DALLE3/dalle_cars_zipped.zip/car_img34.png,3,"tank, army tank, armored combat vehicle, armoured combat vehicle",0.01
+144,/content/DALLE3/dalle_cars_zipped.zip/car_img34.png,4,"grille, radiator grille",0.0
+145,/content/DALLE3/dalle_cars_zipped.zip/car_img35.png,0,"cinema, movie theater, movie theatre, movie house, picture palace",0.63
+146,/content/DALLE3/dalle_cars_zipped.zip/car_img35.png,1,"home theater, home theatre",0.08
+147,/content/DALLE3/dalle_cars_zipped.zip/car_img35.png,2,stage,0.03
+148,/content/DALLE3/dalle_cars_zipped.zip/car_img35.png,3,projector,0.02
+149,/content/DALLE3/dalle_cars_zipped.zip/car_img35.png,4,"spotlight, spot",0.02
+150,/content/DALLE3/dalle_cars_zipped.zip/car_img36.png,0,syringe,0.17
+151,/content/DALLE3/dalle_cars_zipped.zip/car_img36.png,1,"confectionery, confectionary, candy store",0.11
+152,/content/DALLE3/dalle_cars_zipped.zip/car_img36.png,2,comic book,0.08
+153,/content/DALLE3/dalle_cars_zipped.zip/car_img36.png,3,"bannister, banister, balustrade, balusters, handrail",0.04
+154,/content/DALLE3/dalle_cars_zipped.zip/car_img36.png,4,"church, church building",0.02
+155,/content/DALLE3/dalle_cars_zipped.zip/car_img37.png,0,minibus,0.78
+156,/content/DALLE3/dalle_cars_zipped.zip/car_img37.png,1,"passenger car, coach, carriage",0.02
+157,/content/DALLE3/dalle_cars_zipped.zip/car_img37.png,2,minivan,0.01
+158,/content/DALLE3/dalle_cars_zipped.zip/car_img37.png,3,school bus,0.01
+159,/content/DALLE3/dalle_cars_zipped.zip/car_img37.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+160,/content/DALLE3/dalle_cars_zipped.zip/car_img38.png,0,library,0.29
+161,/content/DALLE3/dalle_cars_zipped.zip/car_img38.png,1,"cab, hack, taxi, taxicab",0.11
+162,/content/DALLE3/dalle_cars_zipped.zip/car_img38.png,2,convertible,0.08
+163,/content/DALLE3/dalle_cars_zipped.zip/car_img38.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.05
+164,/content/DALLE3/dalle_cars_zipped.zip/car_img38.png,4,"grille, radiator grille",0.03
+165,/content/DALLE3/dalle_cars_zipped.zip/car_img39.png,0,coral reef,0.12
+166,/content/DALLE3/dalle_cars_zipped.zip/car_img39.png,1,"thatch, thatched roof",0.06
+167,/content/DALLE3/dalle_cars_zipped.zip/car_img39.png,2,wall clock,0.04
+168,/content/DALLE3/dalle_cars_zipped.zip/car_img39.png,3,"wool, woolen, woollen",0.03
+169,/content/DALLE3/dalle_cars_zipped.zip/car_img39.png,4,"confectionery, confectionary, candy store",0.02
+170,/content/DALLE3/dalle_cars_zipped.zip/car_img4.png,0,"sports car, sport car",0.26
+171,/content/DALLE3/dalle_cars_zipped.zip/car_img4.png,1,"gas pump, gasoline pump, petrol pump, island dispenser",0.19
+172,/content/DALLE3/dalle_cars_zipped.zip/car_img4.png,2,"solar dish, solar collector, solar furnace",0.13
+173,/content/DALLE3/dalle_cars_zipped.zip/car_img4.png,3,car wheel,0.03
+174,/content/DALLE3/dalle_cars_zipped.zip/car_img4.png,4,minivan,0.02
+175,/content/DALLE3/dalle_cars_zipped.zip/car_img40.png,0,"limousine, limo",0.79
+176,/content/DALLE3/dalle_cars_zipped.zip/car_img40.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.06
+177,/content/DALLE3/dalle_cars_zipped.zip/car_img40.png,2,convertible,0.01
+178,/content/DALLE3/dalle_cars_zipped.zip/car_img40.png,3,"grille, radiator grille",0.01
+179,/content/DALLE3/dalle_cars_zipped.zip/car_img40.png,4,car wheel,0.0
+180,/content/DALLE3/dalle_cars_zipped.zip/car_img41.png,0,"sports car, sport car",0.55
+181,/content/DALLE3/dalle_cars_zipped.zip/car_img41.png,1,car wheel,0.18
+182,/content/DALLE3/dalle_cars_zipped.zip/car_img41.png,2,"racer, race car, racing car",0.11
+183,/content/DALLE3/dalle_cars_zipped.zip/car_img41.png,3,"grille, radiator grille",0.01
+184,/content/DALLE3/dalle_cars_zipped.zip/car_img41.png,4,convertible,0.01
+185,/content/DALLE3/dalle_cars_zipped.zip/car_img42.png,0,"sports car, sport car",0.36
+186,/content/DALLE3/dalle_cars_zipped.zip/car_img42.png,1,convertible,0.28
+187,/content/DALLE3/dalle_cars_zipped.zip/car_img42.png,2,car mirror,0.02
+188,/content/DALLE3/dalle_cars_zipped.zip/car_img42.png,3,"grille, radiator grille",0.01
+189,/content/DALLE3/dalle_cars_zipped.zip/car_img42.png,4,car wheel,0.01
+190,/content/DALLE3/dalle_cars_zipped.zip/car_img43.png,0,toyshop,0.47
+191,/content/DALLE3/dalle_cars_zipped.zip/car_img43.png,1,"cab, hack, taxi, taxicab",0.16
+192,/content/DALLE3/dalle_cars_zipped.zip/car_img43.png,2,castle,0.04
+193,/content/DALLE3/dalle_cars_zipped.zip/car_img43.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+194,/content/DALLE3/dalle_cars_zipped.zip/car_img43.png,4,"carousel, carrousel, merry-go-round, roundabout, whirligig",0.03
+195,/content/DALLE3/dalle_cars_zipped.zip/car_img44.png,0,comic book,0.9
+196,/content/DALLE3/dalle_cars_zipped.zip/car_img44.png,1,toyshop,0.01
+197,/content/DALLE3/dalle_cars_zipped.zip/car_img44.png,2,"restaurant, eating house, eating place, eatery",0.01
+198,/content/DALLE3/dalle_cars_zipped.zip/car_img44.png,3,"book jacket, dust cover, dust jacket, dust wrapper",0.0
+199,/content/DALLE3/dalle_cars_zipped.zip/car_img44.png,4,"bikini, two-piece",0.0
+200,/content/DALLE3/dalle_cars_zipped.zip/car_img45.png,0,"racer, race car, racing car",0.27
+201,/content/DALLE3/dalle_cars_zipped.zip/car_img45.png,1,car wheel,0.27
+202,/content/DALLE3/dalle_cars_zipped.zip/car_img45.png,2,"sports car, sport car",0.2
+203,/content/DALLE3/dalle_cars_zipped.zip/car_img45.png,3,toyshop,0.12
+204,/content/DALLE3/dalle_cars_zipped.zip/car_img45.png,4,comic book,0.0
+205,/content/DALLE3/dalle_cars_zipped.zip/car_img46.png,0,"container ship, containership, container vessel",0.83
+206,/content/DALLE3/dalle_cars_zipped.zip/car_img46.png,1,"liner, ocean liner",0.05
+207,/content/DALLE3/dalle_cars_zipped.zip/car_img46.png,2,"dock, dockage, docking facility",0.03
+208,/content/DALLE3/dalle_cars_zipped.zip/car_img46.png,3,"drilling platform, offshore rig",0.01
+209,/content/DALLE3/dalle_cars_zipped.zip/car_img46.png,4,bottlecap,0.0
+210,/content/DALLE3/dalle_cars_zipped.zip/car_img47.png,0,wooden spoon,0.1
+211,/content/DALLE3/dalle_cars_zipped.zip/car_img47.png,1,drumstick,0.09
+212,/content/DALLE3/dalle_cars_zipped.zip/car_img47.png,2,"jinrikisha, ricksha, rickshaw",0.05
+213,/content/DALLE3/dalle_cars_zipped.zip/car_img47.png,3,"bakery, bakeshop, bakehouse",0.04
+214,/content/DALLE3/dalle_cars_zipped.zip/car_img47.png,4,"cab, hack, taxi, taxicab",0.04
+215,/content/DALLE3/dalle_cars_zipped.zip/car_img48.png,0,crash helmet,0.61
+216,/content/DALLE3/dalle_cars_zipped.zip/car_img48.png,1,fountain,0.15
+217,/content/DALLE3/dalle_cars_zipped.zip/car_img48.png,2,car mirror,0.09
+218,/content/DALLE3/dalle_cars_zipped.zip/car_img48.png,3,sunglass,0.01
+219,/content/DALLE3/dalle_cars_zipped.zip/car_img48.png,4,"spotlight, spot",0.01
+220,/content/DALLE3/dalle_cars_zipped.zip/car_img49.png,0,"sports car, sport car",0.34
+221,/content/DALLE3/dalle_cars_zipped.zip/car_img49.png,1,car wheel,0.1
+222,/content/DALLE3/dalle_cars_zipped.zip/car_img49.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.06
+223,/content/DALLE3/dalle_cars_zipped.zip/car_img49.png,3,crutch,0.05
+224,/content/DALLE3/dalle_cars_zipped.zip/car_img49.png,4,"limousine, limo",0.02
+225,/content/DALLE3/dalle_cars_zipped.zip/car_img5.png,0,"cab, hack, taxi, taxicab",0.89
+226,/content/DALLE3/dalle_cars_zipped.zip/car_img5.png,1,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.0
+227,/content/DALLE3/dalle_cars_zipped.zip/car_img5.png,2,"traffic light, traffic signal, stoplight",0.0
+228,/content/DALLE3/dalle_cars_zipped.zip/car_img5.png,3,pretzel,0.0
+229,/content/DALLE3/dalle_cars_zipped.zip/car_img5.png,4,"limousine, limo",0.0
+230,/content/DALLE3/dalle_cars_zipped.zip/car_img6.png,0,minivan,0.26
+231,/content/DALLE3/dalle_cars_zipped.zip/car_img6.png,1,"jeep, landrover",0.19
+232,/content/DALLE3/dalle_cars_zipped.zip/car_img6.png,2,mountain tent,0.08
+233,/content/DALLE3/dalle_cars_zipped.zip/car_img6.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.05
+234,/content/DALLE3/dalle_cars_zipped.zip/car_img6.png,4,canoe,0.02
+235,/content/DALLE3/dalle_cars_zipped.zip/car_img7.png,0,"sports car, sport car",0.35
+236,/content/DALLE3/dalle_cars_zipped.zip/car_img7.png,1,car wheel,0.15
+237,/content/DALLE3/dalle_cars_zipped.zip/car_img7.png,2,"grille, radiator grille",0.11
+238,/content/DALLE3/dalle_cars_zipped.zip/car_img7.png,3,convertible,0.06
+239,/content/DALLE3/dalle_cars_zipped.zip/car_img7.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+240,/content/DALLE3/dalle_cars_zipped.zip/car_img8.png,0,"jeep, landrover",0.67
+241,/content/DALLE3/dalle_cars_zipped.zip/car_img8.png,1,"snowplow, snowplough",0.03
+242,/content/DALLE3/dalle_cars_zipped.zip/car_img8.png,2,car wheel,0.02
+243,/content/DALLE3/dalle_cars_zipped.zip/car_img8.png,3,"pickup, pickup truck",0.02
+244,/content/DALLE3/dalle_cars_zipped.zip/car_img8.png,4,"plow, plough",0.02
+245,/content/DALLE3/dalle_cars_zipped.zip/car_img9.png,0,"sports car, sport car",0.35
+246,/content/DALLE3/dalle_cars_zipped.zip/car_img9.png,1,"racer, race car, racing car",0.32
+247,/content/DALLE3/dalle_cars_zipped.zip/car_img9.png,2,car wheel,0.13
+248,/content/DALLE3/dalle_cars_zipped.zip/car_img9.png,3,"tow truck, tow car, wrecker",0.0
+249,/content/DALLE3/dalle_cars_zipped.zip/car_img9.png,4,"passenger car, coach, carriage",0.0

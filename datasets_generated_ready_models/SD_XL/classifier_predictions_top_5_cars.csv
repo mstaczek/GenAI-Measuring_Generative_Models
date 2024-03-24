@@ -1,0 +1,251 @@
+,image_path,prediction_position,label,score
+0,/content/SD_XL/cars_zipped.zip/cars_img_0.png,0,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.56
+1,/content/SD_XL/cars_zipped.zip/cars_img_0.png,1,convertible,0.12
+2,/content/SD_XL/cars_zipped.zip/cars_img_0.png,2,"sports car, sport car",0.05
+3,/content/SD_XL/cars_zipped.zip/cars_img_0.png,3,"pickup, pickup truck",0.04
+4,/content/SD_XL/cars_zipped.zip/cars_img_0.png,4,"grille, radiator grille",0.01
+5,/content/SD_XL/cars_zipped.zip/cars_img_1.png,0,"cab, hack, taxi, taxicab",0.68
+6,/content/SD_XL/cars_zipped.zip/cars_img_1.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.08
+7,/content/SD_XL/cars_zipped.zip/cars_img_1.png,2,car wheel,0.03
+8,/content/SD_XL/cars_zipped.zip/cars_img_1.png,3,"limousine, limo",0.03
+9,/content/SD_XL/cars_zipped.zip/cars_img_1.png,4,"grille, radiator grille",0.02
+10,/content/SD_XL/cars_zipped.zip/cars_img_10.png,0,moving van,0.95
+11,/content/SD_XL/cars_zipped.zip/cars_img_10.png,1,"recreational vehicle, RV, R.V.",0.01
+12,/content/SD_XL/cars_zipped.zip/cars_img_10.png,2,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.0
+13,/content/SD_XL/cars_zipped.zip/cars_img_10.png,3,"mobile home, manufactured home",0.0
+14,/content/SD_XL/cars_zipped.zip/cars_img_10.png,4,minibus,0.0
+15,/content/SD_XL/cars_zipped.zip/cars_img_11.png,0,"recreational vehicle, RV, R.V.",0.72
+16,/content/SD_XL/cars_zipped.zip/cars_img_11.png,1,"lakeside, lakeshore",0.07
+17,/content/SD_XL/cars_zipped.zip/cars_img_11.png,2,boathouse,0.03
+18,/content/SD_XL/cars_zipped.zip/cars_img_11.png,3,canoe,0.02
+19,/content/SD_XL/cars_zipped.zip/cars_img_11.png,4,"trolleybus, trolley coach, trackless trolley",0.01
+20,/content/SD_XL/cars_zipped.zip/cars_img_12.png,0,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.64
+21,/content/SD_XL/cars_zipped.zip/cars_img_12.png,1,"cab, hack, taxi, taxicab",0.04
+22,/content/SD_XL/cars_zipped.zip/cars_img_12.png,2,ambulance,0.0
+23,/content/SD_XL/cars_zipped.zip/cars_img_12.png,3,"tow truck, tow car, wrecker",0.0
+24,/content/SD_XL/cars_zipped.zip/cars_img_12.png,4,"limousine, limo",0.0
+25,/content/SD_XL/cars_zipped.zip/cars_img_13.png,0,"pickup, pickup truck",0.2
+26,/content/SD_XL/cars_zipped.zip/cars_img_13.png,1,school bus,0.17
+27,/content/SD_XL/cars_zipped.zip/cars_img_13.png,2,"tow truck, tow car, wrecker",0.06
+28,/content/SD_XL/cars_zipped.zip/cars_img_13.png,3,"golfcart, golf cart",0.04
+29,/content/SD_XL/cars_zipped.zip/cars_img_13.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+30,/content/SD_XL/cars_zipped.zip/cars_img_14.png,0,minivan,0.33
+31,/content/SD_XL/cars_zipped.zip/cars_img_14.png,1,"cab, hack, taxi, taxicab",0.29
+32,/content/SD_XL/cars_zipped.zip/cars_img_14.png,2,"traffic light, traffic signal, stoplight",0.13
+33,/content/SD_XL/cars_zipped.zip/cars_img_14.png,3,convertible,0.02
+34,/content/SD_XL/cars_zipped.zip/cars_img_14.png,4,car wheel,0.02
+35,/content/SD_XL/cars_zipped.zip/cars_img_15.png,0,"pickup, pickup truck",0.72
+36,/content/SD_XL/cars_zipped.zip/cars_img_15.png,1,"grocery store, grocery, food market, market",0.05
+37,/content/SD_XL/cars_zipped.zip/cars_img_15.png,2,"cucumber, cuke",0.02
+38,/content/SD_XL/cars_zipped.zip/cars_img_15.png,3,butternut squash,0.01
+39,/content/SD_XL/cars_zipped.zip/cars_img_15.png,4,"zucchini, courgette",0.0
+40,/content/SD_XL/cars_zipped.zip/cars_img_16.png,0,"warplane, military plane",0.41
+41,/content/SD_XL/cars_zipped.zip/cars_img_16.png,1,wing,0.12
+42,/content/SD_XL/cars_zipped.zip/cars_img_16.png,2,crash helmet,0.05
+43,/content/SD_XL/cars_zipped.zip/cars_img_16.png,3,"projectile, missile",0.04
+44,/content/SD_XL/cars_zipped.zip/cars_img_16.png,4,"airship, dirigible",0.02
+45,/content/SD_XL/cars_zipped.zip/cars_img_17.png,0,convertible,0.79
+46,/content/SD_XL/cars_zipped.zip/cars_img_17.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.11
+47,/content/SD_XL/cars_zipped.zip/cars_img_17.png,2,rapeseed,0.0
+48,/content/SD_XL/cars_zipped.zip/cars_img_17.png,3,"racer, race car, racing car",0.0
+49,/content/SD_XL/cars_zipped.zip/cars_img_17.png,4,"sports car, sport car",0.0
+50,/content/SD_XL/cars_zipped.zip/cars_img_18.png,0,"limousine, limo",0.92
+51,/content/SD_XL/cars_zipped.zip/cars_img_18.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+52,/content/SD_XL/cars_zipped.zip/cars_img_18.png,2,palace,0.0
+53,/content/SD_XL/cars_zipped.zip/cars_img_18.png,3,"passenger car, coach, carriage",0.0
+54,/content/SD_XL/cars_zipped.zip/cars_img_18.png,4,minivan,0.0
+55,/content/SD_XL/cars_zipped.zip/cars_img_19.png,0,"tow truck, tow car, wrecker",0.8
+56,/content/SD_XL/cars_zipped.zip/cars_img_19.png,1,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.03
+57,/content/SD_XL/cars_zipped.zip/cars_img_19.png,2,"garbage truck, dustcart",0.0
+58,/content/SD_XL/cars_zipped.zip/cars_img_19.png,3,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.0
+59,/content/SD_XL/cars_zipped.zip/cars_img_19.png,4,"fire engine, fire truck",0.0
+60,/content/SD_XL/cars_zipped.zip/cars_img_2.png,0,"sports car, sport car",0.68
+61,/content/SD_XL/cars_zipped.zip/cars_img_2.png,1,convertible,0.06
+62,/content/SD_XL/cars_zipped.zip/cars_img_2.png,2,"grille, radiator grille",0.03
+63,/content/SD_XL/cars_zipped.zip/cars_img_2.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+64,/content/SD_XL/cars_zipped.zip/cars_img_2.png,4,car wheel,0.01
+65,/content/SD_XL/cars_zipped.zip/cars_img_20.png,0,convertible,0.96
+66,/content/SD_XL/cars_zipped.zip/cars_img_20.png,1,speedboat,0.0
+67,/content/SD_XL/cars_zipped.zip/cars_img_20.png,2,"amphibian, amphibious vehicle",0.0
+68,/content/SD_XL/cars_zipped.zip/cars_img_20.png,3,"sports car, sport car",0.0
+69,/content/SD_XL/cars_zipped.zip/cars_img_20.png,4,"golfcart, golf cart",0.0
+70,/content/SD_XL/cars_zipped.zip/cars_img_21.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.28
+71,/content/SD_XL/cars_zipped.zip/cars_img_21.png,1,alp,0.1
+72,/content/SD_XL/cars_zipped.zip/cars_img_21.png,2,"limousine, limo",0.03
+73,/content/SD_XL/cars_zipped.zip/cars_img_21.png,3,"red-breasted merganser, Mergus serrator",0.02
+74,/content/SD_XL/cars_zipped.zip/cars_img_21.png,4,ski,0.01
+75,/content/SD_XL/cars_zipped.zip/cars_img_22.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.75
+76,/content/SD_XL/cars_zipped.zip/cars_img_22.png,1,"pickup, pickup truck",0.06
+77,/content/SD_XL/cars_zipped.zip/cars_img_22.png,2,"grille, radiator grille",0.06
+78,/content/SD_XL/cars_zipped.zip/cars_img_22.png,3,"cab, hack, taxi, taxicab",0.03
+79,/content/SD_XL/cars_zipped.zip/cars_img_22.png,4,car wheel,0.01
+80,/content/SD_XL/cars_zipped.zip/cars_img_23.png,0,"cab, hack, taxi, taxicab",0.4
+81,/content/SD_XL/cars_zipped.zip/cars_img_23.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.09
+82,/content/SD_XL/cars_zipped.zip/cars_img_23.png,2,convertible,0.05
+83,/content/SD_XL/cars_zipped.zip/cars_img_23.png,3,"limousine, limo",0.02
+84,/content/SD_XL/cars_zipped.zip/cars_img_23.png,4,ambulance,0.01
+85,/content/SD_XL/cars_zipped.zip/cars_img_24.png,0,Model T,0.49
+86,/content/SD_XL/cars_zipped.zip/cars_img_24.png,1,car wheel,0.2
+87,/content/SD_XL/cars_zipped.zip/cars_img_24.png,2,"pickup, pickup truck",0.05
+88,/content/SD_XL/cars_zipped.zip/cars_img_24.png,3,"racer, race car, racing car",0.04
+89,/content/SD_XL/cars_zipped.zip/cars_img_24.png,4,"cab, hack, taxi, taxicab",0.02
+90,/content/SD_XL/cars_zipped.zip/cars_img_25.png,0,convertible,0.85
+91,/content/SD_XL/cars_zipped.zip/cars_img_25.png,1,"sports car, sport car",0.03
+92,/content/SD_XL/cars_zipped.zip/cars_img_25.png,2,"pickup, pickup truck",0.01
+93,/content/SD_XL/cars_zipped.zip/cars_img_25.png,3,"racer, race car, racing car",0.0
+94,/content/SD_XL/cars_zipped.zip/cars_img_25.png,4,car wheel,0.0
+95,/content/SD_XL/cars_zipped.zip/cars_img_26.png,0,"sports car, sport car",0.65
+96,/content/SD_XL/cars_zipped.zip/cars_img_26.png,1,convertible,0.12
+97,/content/SD_XL/cars_zipped.zip/cars_img_26.png,2,car wheel,0.06
+98,/content/SD_XL/cars_zipped.zip/cars_img_26.png,3,"grille, radiator grille",0.05
+99,/content/SD_XL/cars_zipped.zip/cars_img_26.png,4,minivan,0.01
+100,/content/SD_XL/cars_zipped.zip/cars_img_27.png,0,school bus,0.78
+101,/content/SD_XL/cars_zipped.zip/cars_img_27.png,1,"nematode, nematode worm, roundworm",0.0
+102,/content/SD_XL/cars_zipped.zip/cars_img_27.png,2,"dugong, Dugong dugon",0.0
+103,/content/SD_XL/cars_zipped.zip/cars_img_27.png,3,geyser,0.0
+104,/content/SD_XL/cars_zipped.zip/cars_img_27.png,4,"tree frog, tree-frog",0.0
+105,/content/SD_XL/cars_zipped.zip/cars_img_28.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.63
+106,/content/SD_XL/cars_zipped.zip/cars_img_28.png,1,convertible,0.09
+107,/content/SD_XL/cars_zipped.zip/cars_img_28.png,2,"maze, labyrinth",0.02
+108,/content/SD_XL/cars_zipped.zip/cars_img_28.png,3,"pickup, pickup truck",0.02
+109,/content/SD_XL/cars_zipped.zip/cars_img_28.png,4,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",0.01
+110,/content/SD_XL/cars_zipped.zip/cars_img_29.png,0,"cab, hack, taxi, taxicab",0.76
+111,/content/SD_XL/cars_zipped.zip/cars_img_29.png,1,car wheel,0.06
+112,/content/SD_XL/cars_zipped.zip/cars_img_29.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+113,/content/SD_XL/cars_zipped.zip/cars_img_29.png,3,"racer, race car, racing car",0.02
+114,/content/SD_XL/cars_zipped.zip/cars_img_29.png,4,"grille, radiator grille",0.01
+115,/content/SD_XL/cars_zipped.zip/cars_img_3.png,0,"racer, race car, racing car",0.4
+116,/content/SD_XL/cars_zipped.zip/cars_img_3.png,1,"sports car, sport car",0.16
+117,/content/SD_XL/cars_zipped.zip/cars_img_3.png,2,convertible,0.12
+118,/content/SD_XL/cars_zipped.zip/cars_img_3.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+119,/content/SD_XL/cars_zipped.zip/cars_img_3.png,4,"grille, radiator grille",0.04
+120,/content/SD_XL/cars_zipped.zip/cars_img_30.png,0,"fire engine, fire truck",0.86
+121,/content/SD_XL/cars_zipped.zip/cars_img_30.png,1,"tow truck, tow car, wrecker",0.0
+122,/content/SD_XL/cars_zipped.zip/cars_img_30.png,2,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.0
+123,/content/SD_XL/cars_zipped.zip/cars_img_30.png,3,ambulance,0.0
+124,/content/SD_XL/cars_zipped.zip/cars_img_30.png,4,hay,0.0
+125,/content/SD_XL/cars_zipped.zip/cars_img_31.png,0,convertible,0.67
+126,/content/SD_XL/cars_zipped.zip/cars_img_31.png,1,"bobsled, bobsleigh, bob",0.12
+127,/content/SD_XL/cars_zipped.zip/cars_img_31.png,2,"sports car, sport car",0.03
+128,/content/SD_XL/cars_zipped.zip/cars_img_31.png,3,alp,0.03
+129,/content/SD_XL/cars_zipped.zip/cars_img_31.png,4,"valley, vale",0.01
+130,/content/SD_XL/cars_zipped.zip/cars_img_32.png,0,folding chair,0.23
+131,/content/SD_XL/cars_zipped.zip/cars_img_32.png,1,minivan,0.16
+132,/content/SD_XL/cars_zipped.zip/cars_img_32.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+133,/content/SD_XL/cars_zipped.zip/cars_img_32.png,3,rain barrel,0.01
+134,/content/SD_XL/cars_zipped.zip/cars_img_32.png,4,"laptop, laptop computer",0.01
+135,/content/SD_XL/cars_zipped.zip/cars_img_33.png,0,"grille, radiator grille",0.3
+136,/content/SD_XL/cars_zipped.zip/cars_img_33.png,1,"cab, hack, taxi, taxicab",0.28
+137,/content/SD_XL/cars_zipped.zip/cars_img_33.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.16
+138,/content/SD_XL/cars_zipped.zip/cars_img_33.png,3,"jeep, landrover",0.02
+139,/content/SD_XL/cars_zipped.zip/cars_img_33.png,4,convertible,0.02
+140,/content/SD_XL/cars_zipped.zip/cars_img_34.png,0,"jeep, landrover",0.82
+141,/content/SD_XL/cars_zipped.zip/cars_img_34.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+142,/content/SD_XL/cars_zipped.zip/cars_img_34.png,2,"grille, radiator grille",0.0
+143,/content/SD_XL/cars_zipped.zip/cars_img_34.png,3,"pickup, pickup truck",0.0
+144,/content/SD_XL/cars_zipped.zip/cars_img_34.png,4,minivan,0.0
+145,/content/SD_XL/cars_zipped.zip/cars_img_35.png,0,minibus,0.16
+146,/content/SD_XL/cars_zipped.zip/cars_img_35.png,1,"cab, hack, taxi, taxicab",0.12
+147,/content/SD_XL/cars_zipped.zip/cars_img_35.png,2,"limousine, limo",0.08
+148,/content/SD_XL/cars_zipped.zip/cars_img_35.png,3,ambulance,0.06
+149,/content/SD_XL/cars_zipped.zip/cars_img_35.png,4,"recreational vehicle, RV, R.V.",0.03
+150,/content/SD_XL/cars_zipped.zip/cars_img_36.png,0,"traffic light, traffic signal, stoplight",0.29
+151,/content/SD_XL/cars_zipped.zip/cars_img_36.png,1,"cab, hack, taxi, taxicab",0.28
+152,/content/SD_XL/cars_zipped.zip/cars_img_36.png,2,"motor scooter, scooter",0.05
+153,/content/SD_XL/cars_zipped.zip/cars_img_36.png,3,parking meter,0.05
+154,/content/SD_XL/cars_zipped.zip/cars_img_36.png,4,"airship, dirigible",0.04
+155,/content/SD_XL/cars_zipped.zip/cars_img_37.png,0,minibus,0.44
+156,/content/SD_XL/cars_zipped.zip/cars_img_37.png,1,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.09
+157,/content/SD_XL/cars_zipped.zip/cars_img_37.png,2,ambulance,0.09
+158,/content/SD_XL/cars_zipped.zip/cars_img_37.png,3,"recreational vehicle, RV, R.V.",0.02
+159,/content/SD_XL/cars_zipped.zip/cars_img_37.png,4,"mobile home, manufactured home",0.01
+160,/content/SD_XL/cars_zipped.zip/cars_img_38.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.39
+161,/content/SD_XL/cars_zipped.zip/cars_img_38.png,1,convertible,0.22
+162,/content/SD_XL/cars_zipped.zip/cars_img_38.png,2,"cab, hack, taxi, taxicab",0.05
+163,/content/SD_XL/cars_zipped.zip/cars_img_38.png,3,car wheel,0.04
+164,/content/SD_XL/cars_zipped.zip/cars_img_38.png,4,"pickup, pickup truck",0.04
+165,/content/SD_XL/cars_zipped.zip/cars_img_39.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.18
+166,/content/SD_XL/cars_zipped.zip/cars_img_39.png,1,"limousine, limo",0.14
+167,/content/SD_XL/cars_zipped.zip/cars_img_39.png,2,car wheel,0.09
+168,/content/SD_XL/cars_zipped.zip/cars_img_39.png,3,"racer, race car, racing car",0.08
+169,/content/SD_XL/cars_zipped.zip/cars_img_39.png,4,"cab, hack, taxi, taxicab",0.05
+170,/content/SD_XL/cars_zipped.zip/cars_img_4.png,0,"gas pump, gasoline pump, petrol pump, island dispenser",0.9
+171,/content/SD_XL/cars_zipped.zip/cars_img_4.png,1,"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",0.0
+172,/content/SD_XL/cars_zipped.zip/cars_img_4.png,2,"vacuum, vacuum cleaner",0.0
+173,/content/SD_XL/cars_zipped.zip/cars_img_4.png,3,"switch, electric switch, electrical switch",0.0
+174,/content/SD_XL/cars_zipped.zip/cars_img_4.png,4,minivan,0.0
+175,/content/SD_XL/cars_zipped.zip/cars_img_40.png,0,"limousine, limo",0.64
+176,/content/SD_XL/cars_zipped.zip/cars_img_40.png,1,"grille, radiator grille",0.11
+177,/content/SD_XL/cars_zipped.zip/cars_img_40.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+178,/content/SD_XL/cars_zipped.zip/cars_img_40.png,3,convertible,0.02
+179,/content/SD_XL/cars_zipped.zip/cars_img_40.png,4,"passenger car, coach, carriage",0.02
+180,/content/SD_XL/cars_zipped.zip/cars_img_41.png,0,"racer, race car, racing car",0.89
+181,/content/SD_XL/cars_zipped.zip/cars_img_41.png,1,"sports car, sport car",0.03
+182,/content/SD_XL/cars_zipped.zip/cars_img_41.png,2,go-kart,0.01
+183,/content/SD_XL/cars_zipped.zip/cars_img_41.png,3,"pickup, pickup truck",0.0
+184,/content/SD_XL/cars_zipped.zip/cars_img_41.png,4,crash helmet,0.0
+185,/content/SD_XL/cars_zipped.zip/cars_img_42.png,0,convertible,0.87
+186,/content/SD_XL/cars_zipped.zip/cars_img_42.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+187,/content/SD_XL/cars_zipped.zip/cars_img_42.png,2,"grille, radiator grille",0.0
+188,/content/SD_XL/cars_zipped.zip/cars_img_42.png,3,"sports car, sport car",0.0
+189,/content/SD_XL/cars_zipped.zip/cars_img_42.png,4,car wheel,0.0
+190,/content/SD_XL/cars_zipped.zip/cars_img_43.png,0,"sports car, sport car",0.21
+191,/content/SD_XL/cars_zipped.zip/cars_img_43.png,1,"grille, radiator grille",0.18
+192,/content/SD_XL/cars_zipped.zip/cars_img_43.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.09
+193,/content/SD_XL/cars_zipped.zip/cars_img_43.png,3,convertible,0.06
+194,/content/SD_XL/cars_zipped.zip/cars_img_43.png,4,"cab, hack, taxi, taxicab",0.06
+195,/content/SD_XL/cars_zipped.zip/cars_img_44.png,0,"American lobster, Northern lobster, Maine lobster, Homarus americanus",0.14
+196,/content/SD_XL/cars_zipped.zip/cars_img_44.png,1,"bow tie, bow-tie, bowtie",0.05
+197,/content/SD_XL/cars_zipped.zip/cars_img_44.png,2,"grocery store, grocery, food market, market",0.05
+198,/content/SD_XL/cars_zipped.zip/cars_img_44.png,3,wig,0.04
+199,/content/SD_XL/cars_zipped.zip/cars_img_44.png,4,"restaurant, eating house, eating place, eatery",0.04
+200,/content/SD_XL/cars_zipped.zip/cars_img_45.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.6
+201,/content/SD_XL/cars_zipped.zip/cars_img_45.png,1,"limousine, limo",0.07
+202,/content/SD_XL/cars_zipped.zip/cars_img_45.png,2,"grille, radiator grille",0.05
+203,/content/SD_XL/cars_zipped.zip/cars_img_45.png,3,car wheel,0.03
+204,/content/SD_XL/cars_zipped.zip/cars_img_45.png,4,"passenger car, coach, carriage",0.02
+205,/content/SD_XL/cars_zipped.zip/cars_img_46.png,0,"dock, dockage, docking facility",0.44
+206,/content/SD_XL/cars_zipped.zip/cars_img_46.png,1,"liner, ocean liner",0.12
+207,/content/SD_XL/cars_zipped.zip/cars_img_46.png,2,catamaran,0.11
+208,/content/SD_XL/cars_zipped.zip/cars_img_46.png,3,"paddlewheel, paddle wheel",0.03
+209,/content/SD_XL/cars_zipped.zip/cars_img_46.png,4,"seashore, coast, seacoast, sea-coast",0.02
+210,/content/SD_XL/cars_zipped.zip/cars_img_47.png,0,library,0.22
+211,/content/SD_XL/cars_zipped.zip/cars_img_47.png,1,"racer, race car, racing car",0.16
+212,/content/SD_XL/cars_zipped.zip/cars_img_47.png,2,convertible,0.16
+213,/content/SD_XL/cars_zipped.zip/cars_img_47.png,3,"sports car, sport car",0.04
+214,/content/SD_XL/cars_zipped.zip/cars_img_47.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+215,/content/SD_XL/cars_zipped.zip/cars_img_48.png,0,"streetcar, tram, tramcar, trolley, trolley car",0.69
+216,/content/SD_XL/cars_zipped.zip/cars_img_48.png,1,crash helmet,0.09
+217,/content/SD_XL/cars_zipped.zip/cars_img_48.png,2,"passenger car, coach, carriage",0.01
+218,/content/SD_XL/cars_zipped.zip/cars_img_48.png,3,"bullet train, bullet",0.01
+219,/content/SD_XL/cars_zipped.zip/cars_img_48.png,4,car mirror,0.01
+220,/content/SD_XL/cars_zipped.zip/cars_img_49.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.47
+221,/content/SD_XL/cars_zipped.zip/cars_img_49.png,1,"grille, radiator grille",0.16
+222,/content/SD_XL/cars_zipped.zip/cars_img_49.png,2,"sports car, sport car",0.1
+223,/content/SD_XL/cars_zipped.zip/cars_img_49.png,3,convertible,0.07
+224,/content/SD_XL/cars_zipped.zip/cars_img_49.png,4,"racer, race car, racing car",0.04
+225,/content/SD_XL/cars_zipped.zip/cars_img_5.png,0,"cab, hack, taxi, taxicab",0.89
+226,/content/SD_XL/cars_zipped.zip/cars_img_5.png,1,"jinrikisha, ricksha, rickshaw",0.0
+227,/content/SD_XL/cars_zipped.zip/cars_img_5.png,2,school bus,0.0
+228,/content/SD_XL/cars_zipped.zip/cars_img_5.png,3,pretzel,0.0
+229,/content/SD_XL/cars_zipped.zip/cars_img_5.png,4,"limousine, limo",0.0
+230,/content/SD_XL/cars_zipped.zip/cars_img_6.png,0,"jeep, landrover",0.53
+231,/content/SD_XL/cars_zipped.zip/cars_img_6.png,1,minivan,0.05
+232,/content/SD_XL/cars_zipped.zip/cars_img_6.png,2,sleeping bag,0.04
+233,/content/SD_XL/cars_zipped.zip/cars_img_6.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+234,/content/SD_XL/cars_zipped.zip/cars_img_6.png,4,mountain tent,0.03
+235,/content/SD_XL/cars_zipped.zip/cars_img_7.png,0,"grille, radiator grille",0.61
+236,/content/SD_XL/cars_zipped.zip/cars_img_7.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.11
+237,/content/SD_XL/cars_zipped.zip/cars_img_7.png,2,"sports car, sport car",0.08
+238,/content/SD_XL/cars_zipped.zip/cars_img_7.png,3,car wheel,0.05
+239,/content/SD_XL/cars_zipped.zip/cars_img_7.png,4,convertible,0.03
+240,/content/SD_XL/cars_zipped.zip/cars_img_8.png,0,"jeep, landrover",0.81
+241,/content/SD_XL/cars_zipped.zip/cars_img_8.png,1,"snowplow, snowplough",0.0
+242,/content/SD_XL/cars_zipped.zip/cars_img_8.png,2,car wheel,0.0
+243,/content/SD_XL/cars_zipped.zip/cars_img_8.png,3,"pickup, pickup truck",0.0
+244,/content/SD_XL/cars_zipped.zip/cars_img_8.png,4,half track,0.0
+245,/content/SD_XL/cars_zipped.zip/cars_img_9.png,0,"racer, race car, racing car",0.87
+246,/content/SD_XL/cars_zipped.zip/cars_img_9.png,1,"sports car, sport car",0.04
+247,/content/SD_XL/cars_zipped.zip/cars_img_9.png,2,go-kart,0.01
+248,/content/SD_XL/cars_zipped.zip/cars_img_9.png,3,rotisserie,0.0
+249,/content/SD_XL/cars_zipped.zip/cars_img_9.png,4,car wheel,0.0

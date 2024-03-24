@@ -1,0 +1,10 @@
+An image showing histological features of benign breast tissue.
+A microscopic view of malignant breast tumor cells under high magnification.
+An image depicting ductal carcinoma in situ (DCIS) in breast tissue.
+Histopathological features of invasive lobular carcinoma (ILC) in breast tissue.
+An image showing fibroadenoma, a common benign breast tumor.
+Microscopic view of infiltrating ductal carcinoma (IDC) in breast tissue.
+Histological features of invasive mammary carcinoma with lymph node metastasis.
+An image illustrating inflammatory breast cancer (IBC) in breast tissue.
+Microscopic view of intraductal papilloma in breast tissue.
+Histopathological features of atypical ductal hyperplasia (ADH) in breast tissue.

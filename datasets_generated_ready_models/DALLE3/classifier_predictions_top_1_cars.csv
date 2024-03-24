@@ -1,0 +1,51 @@
+,image_path,prediction,score
+0,/content/DALLE3/dalle_cars_zipped.zip/car_img0.png,"sports car, sport car",0.41
+1,/content/DALLE3/dalle_cars_zipped.zip/car_img1.png,convertible,0.48
+2,/content/DALLE3/dalle_cars_zipped.zip/car_img10.png,"recreational vehicle, RV, R.V.",0.43
+3,/content/DALLE3/dalle_cars_zipped.zip/car_img11.png,minibus,0.67
+4,/content/DALLE3/dalle_cars_zipped.zip/car_img12.png,"traffic light, traffic signal, stoplight",0.15
+5,/content/DALLE3/dalle_cars_zipped.zip/car_img13.png,fountain,0.25
+6,/content/DALLE3/dalle_cars_zipped.zip/car_img14.png,"cab, hack, taxi, taxicab",0.87
+7,/content/DALLE3/dalle_cars_zipped.zip/car_img15.png,"pickup, pickup truck",0.85
+8,/content/DALLE3/dalle_cars_zipped.zip/car_img16.png,comic book,0.08
+9,/content/DALLE3/dalle_cars_zipped.zip/car_img17.png,convertible,0.86
+10,/content/DALLE3/dalle_cars_zipped.zip/car_img18.png,"limousine, limo",0.72
+11,/content/DALLE3/dalle_cars_zipped.zip/car_img19.png,"tow truck, tow car, wrecker",0.83
+12,/content/DALLE3/dalle_cars_zipped.zip/car_img2.png,"cab, hack, taxi, taxicab",0.36
+13,/content/DALLE3/dalle_cars_zipped.zip/car_img20.png,"seat belt, seatbelt",0.22
+14,/content/DALLE3/dalle_cars_zipped.zip/car_img21.png,"jeep, landrover",0.25
+15,/content/DALLE3/dalle_cars_zipped.zip/car_img22.png,"traffic light, traffic signal, stoplight",0.53
+16,/content/DALLE3/dalle_cars_zipped.zip/car_img23.png,"cab, hack, taxi, taxicab",0.56
+17,/content/DALLE3/dalle_cars_zipped.zip/car_img24.png,Model T,0.69
+18,/content/DALLE3/dalle_cars_zipped.zip/car_img25.png,"racer, race car, racing car",0.41
+19,/content/DALLE3/dalle_cars_zipped.zip/car_img26.png,fountain,0.45
+20,/content/DALLE3/dalle_cars_zipped.zip/car_img27.png,school bus,0.83
+21,/content/DALLE3/dalle_cars_zipped.zip/car_img28.png,"golfcart, golf cart",0.18
+22,/content/DALLE3/dalle_cars_zipped.zip/car_img29.png,"cab, hack, taxi, taxicab",0.2
+23,/content/DALLE3/dalle_cars_zipped.zip/car_img3.png,car wheel,0.46
+24,/content/DALLE3/dalle_cars_zipped.zip/car_img30.png,"fire engine, fire truck",0.91
+25,/content/DALLE3/dalle_cars_zipped.zip/car_img31.png,convertible,0.45
+26,/content/DALLE3/dalle_cars_zipped.zip/car_img32.png,"plunger, plumber's helper",0.48
+27,/content/DALLE3/dalle_cars_zipped.zip/car_img33.png,car wheel,0.34
+28,/content/DALLE3/dalle_cars_zipped.zip/car_img34.png,"jeep, landrover",0.79
+29,/content/DALLE3/dalle_cars_zipped.zip/car_img35.png,"cinema, movie theater, movie theatre, movie house, picture palace",0.63
+30,/content/DALLE3/dalle_cars_zipped.zip/car_img36.png,syringe,0.17
+31,/content/DALLE3/dalle_cars_zipped.zip/car_img37.png,minibus,0.78
+32,/content/DALLE3/dalle_cars_zipped.zip/car_img38.png,library,0.29
+33,/content/DALLE3/dalle_cars_zipped.zip/car_img39.png,coral reef,0.12
+34,/content/DALLE3/dalle_cars_zipped.zip/car_img4.png,"sports car, sport car",0.26
+35,/content/DALLE3/dalle_cars_zipped.zip/car_img40.png,"limousine, limo",0.79
+36,/content/DALLE3/dalle_cars_zipped.zip/car_img41.png,"sports car, sport car",0.55
+37,/content/DALLE3/dalle_cars_zipped.zip/car_img42.png,"sports car, sport car",0.36
+38,/content/DALLE3/dalle_cars_zipped.zip/car_img43.png,toyshop,0.47
+39,/content/DALLE3/dalle_cars_zipped.zip/car_img44.png,comic book,0.9
+40,/content/DALLE3/dalle_cars_zipped.zip/car_img45.png,"racer, race car, racing car",0.27
+41,/content/DALLE3/dalle_cars_zipped.zip/car_img46.png,"container ship, containership, container vessel",0.83
+42,/content/DALLE3/dalle_cars_zipped.zip/car_img47.png,wooden spoon,0.1
+43,/content/DALLE3/dalle_cars_zipped.zip/car_img48.png,crash helmet,0.61
+44,/content/DALLE3/dalle_cars_zipped.zip/car_img49.png,"sports car, sport car",0.34
+45,/content/DALLE3/dalle_cars_zipped.zip/car_img5.png,"cab, hack, taxi, taxicab",0.89
+46,/content/DALLE3/dalle_cars_zipped.zip/car_img6.png,minivan,0.26
+47,/content/DALLE3/dalle_cars_zipped.zip/car_img7.png,"sports car, sport car",0.35
+48,/content/DALLE3/dalle_cars_zipped.zip/car_img8.png,"jeep, landrover",0.67
+49,/content/DALLE3/dalle_cars_zipped.zip/car_img9.png,"sports car, sport car",0.35

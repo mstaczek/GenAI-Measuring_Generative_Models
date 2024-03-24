@@ -1,0 +1,251 @@
+,image_path,prediction_position,label,score
+0,/content/SD_XL/wildlife_zipped.zip/wildlife_img_0.png,0,"lion, king of beasts, Panthera leo",0.92
+1,/content/SD_XL/wildlife_zipped.zip/wildlife_img_0.png,1,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",0.0
+2,/content/SD_XL/wildlife_zipped.zip/wildlife_img_0.png,2,"orangutan, orang, orangutang, Pongo pygmaeus",0.0
+3,/content/SD_XL/wildlife_zipped.zip/wildlife_img_0.png,3,"hyena, hyaena",0.0
+4,/content/SD_XL/wildlife_zipped.zip/wildlife_img_0.png,4,"patas, hussar monkey, Erythrocebus patas",0.0
+5,/content/SD_XL/wildlife_zipped.zip/wildlife_img_1.png,0,"African elephant, Loxodonta africana",0.82
+6,/content/SD_XL/wildlife_zipped.zip/wildlife_img_1.png,1,tusker,0.07
+7,/content/SD_XL/wildlife_zipped.zip/wildlife_img_1.png,2,"Indian elephant, Elephas maximus",0.01
+8,/content/SD_XL/wildlife_zipped.zip/wildlife_img_1.png,3,zebra,0.0
+9,/content/SD_XL/wildlife_zipped.zip/wildlife_img_1.png,4,kite,0.0
+10,/content/SD_XL/wildlife_zipped.zip/wildlife_img_10.png,0,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.92
+11,/content/SD_XL/wildlife_zipped.zip/wildlife_img_10.png,1,"Arctic fox, white fox, Alopex lagopus",0.0
+12,/content/SD_XL/wildlife_zipped.zip/wildlife_img_10.png,2,"dugong, Dugong dugon",0.0
+13,/content/SD_XL/wildlife_zipped.zip/wildlife_img_10.png,3,bubble,0.0
+14,/content/SD_XL/wildlife_zipped.zip/wildlife_img_10.png,4,"brown bear, bruin, Ursus arctos",0.0
+15,/content/SD_XL/wildlife_zipped.zip/wildlife_img_11.png,0,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.44
+16,/content/SD_XL/wildlife_zipped.zip/wildlife_img_11.png,1,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",0.11
+17,/content/SD_XL/wildlife_zipped.zip/wildlife_img_11.png,2,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",0.1
+18,/content/SD_XL/wildlife_zipped.zip/wildlife_img_11.png,3,"albatross, mollymawk",0.05
+19,/content/SD_XL/wildlife_zipped.zip/wildlife_img_11.png,4,"tiger shark, Galeocerdo cuvieri",0.03
+20,/content/SD_XL/wildlife_zipped.zip/wildlife_img_12.png,0,"meerkat, mierkat",0.85
+21,/content/SD_XL/wildlife_zipped.zip/wildlife_img_12.png,1,mongoose,0.05
+22,/content/SD_XL/wildlife_zipped.zip/wildlife_img_12.png,2,"Madagascar cat, ring-tailed lemur, Lemur catta",0.0
+23,/content/SD_XL/wildlife_zipped.zip/wildlife_img_12.png,3,weasel,0.0
+24,/content/SD_XL/wildlife_zipped.zip/wildlife_img_12.png,4,"black-footed ferret, ferret, Mustela nigripes",0.0
+25,/content/SD_XL/wildlife_zipped.zip/wildlife_img_13.png,0,"bald eagle, American eagle, Haliaeetus leucocephalus",0.91
+26,/content/SD_XL/wildlife_zipped.zip/wildlife_img_13.png,1,kite,0.0
+27,/content/SD_XL/wildlife_zipped.zip/wildlife_img_13.png,2,vulture,0.0
+28,/content/SD_XL/wildlife_zipped.zip/wildlife_img_13.png,3,hornbill,0.0
+29,/content/SD_XL/wildlife_zipped.zip/wildlife_img_13.png,4,"ostrich, Struthio camelus",0.0
+30,/content/SD_XL/wildlife_zipped.zip/wildlife_img_14.png,0,"king penguin, Aptenodytes patagonica",0.89
+31,/content/SD_XL/wildlife_zipped.zip/wildlife_img_14.png,1,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.0
+32,/content/SD_XL/wildlife_zipped.zip/wildlife_img_14.png,2,"albatross, mollymawk",0.0
+33,/content/SD_XL/wildlife_zipped.zip/wildlife_img_14.png,3,toucan,0.0
+34,/content/SD_XL/wildlife_zipped.zip/wildlife_img_14.png,4,"goldfish, Carassius auratus",0.0
+35,/content/SD_XL/wildlife_zipped.zip/wildlife_img_15.png,0,otter,0.88
+36,/content/SD_XL/wildlife_zipped.zip/wildlife_img_15.png,1,weasel,0.03
+37,/content/SD_XL/wildlife_zipped.zip/wildlife_img_15.png,2,mink,0.01
+38,/content/SD_XL/wildlife_zipped.zip/wildlife_img_15.png,3,"polecat, fitch, foulmart, foumart, Mustela putorius",0.0
+39,/content/SD_XL/wildlife_zipped.zip/wildlife_img_15.png,4,beaver,0.0
+40,/content/SD_XL/wildlife_zipped.zip/wildlife_img_16.png,0,"impala, Aepyceros melampus",0.44
+41,/content/SD_XL/wildlife_zipped.zip/wildlife_img_16.png,1,hartebeest,0.29
+42,/content/SD_XL/wildlife_zipped.zip/wildlife_img_16.png,2,gazelle,0.05
+43,/content/SD_XL/wildlife_zipped.zip/wildlife_img_16.png,3,zebra,0.0
+44,/content/SD_XL/wildlife_zipped.zip/wildlife_img_16.png,4,warthog,0.0
+45,/content/SD_XL/wildlife_zipped.zip/wildlife_img_17.png,0,coral reef,0.84
+46,/content/SD_XL/wildlife_zipped.zip/wildlife_img_17.png,1,scuba diver,0.01
+47,/content/SD_XL/wildlife_zipped.zip/wildlife_img_17.png,2,"goldfish, Carassius auratus",0.0
+48,/content/SD_XL/wildlife_zipped.zip/wildlife_img_17.png,3,shower curtain,0.0
+49,/content/SD_XL/wildlife_zipped.zip/wildlife_img_17.png,4,"rock beauty, Holocanthus tricolor",0.0
+50,/content/SD_XL/wildlife_zipped.zip/wildlife_img_18.png,0,"brown bear, bruin, Ursus arctos",0.9
+51,/content/SD_XL/wildlife_zipped.zip/wildlife_img_18.png,1,"sloth bear, Melursus ursinus, Ursus ursinus",0.0
+52,/content/SD_XL/wildlife_zipped.zip/wildlife_img_18.png,2,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.0
+53,/content/SD_XL/wildlife_zipped.zip/wildlife_img_18.png,3,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.0
+54,/content/SD_XL/wildlife_zipped.zip/wildlife_img_18.png,4,sea lion,0.0
+55,/content/SD_XL/wildlife_zipped.zip/wildlife_img_19.png,0,"ibex, Capra ibex",0.74
+56,/content/SD_XL/wildlife_zipped.zip/wildlife_img_19.png,1,gazelle,0.07
+57,/content/SD_XL/wildlife_zipped.zip/wildlife_img_19.png,2,"cliff, drop, drop-off",0.02
+58,/content/SD_XL/wildlife_zipped.zip/wildlife_img_19.png,3,sea lion,0.01
+59,/content/SD_XL/wildlife_zipped.zip/wildlife_img_19.png,4,"impala, Aepyceros melampus",0.01
+60,/content/SD_XL/wildlife_zipped.zip/wildlife_img_2.png,0,"cheetah, chetah, Acinonyx jubatus",0.35
+61,/content/SD_XL/wildlife_zipped.zip/wildlife_img_2.png,1,gazelle,0.23
+62,/content/SD_XL/wildlife_zipped.zip/wildlife_img_2.png,2,"impala, Aepyceros melampus",0.08
+63,/content/SD_XL/wildlife_zipped.zip/wildlife_img_2.png,3,zebra,0.06
+64,/content/SD_XL/wildlife_zipped.zip/wildlife_img_2.png,4,"ostrich, Struthio camelus",0.02
+65,/content/SD_XL/wildlife_zipped.zip/wildlife_img_20.png,0,toucan,0.89
+66,/content/SD_XL/wildlife_zipped.zip/wildlife_img_20.png,1,hornbill,0.0
+67,/content/SD_XL/wildlife_zipped.zip/wildlife_img_20.png,2,macaw,0.0
+68,/content/SD_XL/wildlife_zipped.zip/wildlife_img_20.png,3,jacamar,0.0
+69,/content/SD_XL/wildlife_zipped.zip/wildlife_img_20.png,4,magpie,0.0
+70,/content/SD_XL/wildlife_zipped.zip/wildlife_img_21.png,0,bee,0.35
+71,/content/SD_XL/wildlife_zipped.zip/wildlife_img_21.png,1,honeycomb,0.27
+72,/content/SD_XL/wildlife_zipped.zip/wildlife_img_21.png,2,"apiary, bee house",0.23
+73,/content/SD_XL/wildlife_zipped.zip/wildlife_img_21.png,3,daisy,0.0
+74,/content/SD_XL/wildlife_zipped.zip/wildlife_img_21.png,4,cardoon,0.0
+75,/content/SD_XL/wildlife_zipped.zip/wildlife_img_22.png,0,drake,0.9
+76,/content/SD_XL/wildlife_zipped.zip/wildlife_img_22.png,1,"American coot, marsh hen, mud hen, water hen, Fulica americana",0.0
+77,/content/SD_XL/wildlife_zipped.zip/wildlife_img_22.png,2,goose,0.0
+78,/content/SD_XL/wildlife_zipped.zip/wildlife_img_22.png,3,"lakeside, lakeshore",0.0
+79,/content/SD_XL/wildlife_zipped.zip/wildlife_img_22.png,4,"red-breasted merganser, Mergus serrator",0.0
+80,/content/SD_XL/wildlife_zipped.zip/wildlife_img_23.png,0,"tiger, Panthera tigris",0.64
+81,/content/SD_XL/wildlife_zipped.zip/wildlife_img_23.png,1,tiger cat,0.17
+82,/content/SD_XL/wildlife_zipped.zip/wildlife_img_23.png,2,"lynx, catamount",0.0
+83,/content/SD_XL/wildlife_zipped.zip/wildlife_img_23.png,3,"jaguar, panther, Panthera onca, Felis onca",0.0
+84,/content/SD_XL/wildlife_zipped.zip/wildlife_img_23.png,4,"leopard, Panthera pardus",0.0
+85,/content/SD_XL/wildlife_zipped.zip/wildlife_img_24.png,0,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",0.63
+86,/content/SD_XL/wildlife_zipped.zip/wildlife_img_24.png,1,"loggerhead, loggerhead turtle, Caretta caretta",0.18
+87,/content/SD_XL/wildlife_zipped.zip/wildlife_img_24.png,2,terrapin,0.11
+88,/content/SD_XL/wildlife_zipped.zip/wildlife_img_24.png,3,mud turtle,0.0
+89,/content/SD_XL/wildlife_zipped.zip/wildlife_img_24.png,4,"seashore, coast, seacoast, sea-coast",0.0
+90,/content/SD_XL/wildlife_zipped.zip/wildlife_img_25.png,0,sea lion,0.92
+91,/content/SD_XL/wildlife_zipped.zip/wildlife_img_25.png,1,"king penguin, Aptenodytes patagonica",0.0
+92,/content/SD_XL/wildlife_zipped.zip/wildlife_img_25.png,2,pier,0.0
+93,/content/SD_XL/wildlife_zipped.zip/wildlife_img_25.png,3,otter,0.0
+94,/content/SD_XL/wildlife_zipped.zip/wildlife_img_25.png,4,scuba diver,0.0
+95,/content/SD_XL/wildlife_zipped.zip/wildlife_img_26.png,0,"great grey owl, great gray owl, Strix nebulosa",0.85
+96,/content/SD_XL/wildlife_zipped.zip/wildlife_img_26.png,1,kite,0.0
+97,/content/SD_XL/wildlife_zipped.zip/wildlife_img_26.png,2,"bald eagle, American eagle, Haliaeetus leucocephalus",0.0
+98,/content/SD_XL/wildlife_zipped.zip/wildlife_img_26.png,3,"ruffed grouse, partridge, Bonasa umbellus",0.0
+99,/content/SD_XL/wildlife_zipped.zip/wildlife_img_26.png,4,volcano,0.0
+100,/content/SD_XL/wildlife_zipped.zip/wildlife_img_27.png,0,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.42
+101,/content/SD_XL/wildlife_zipped.zip/wildlife_img_27.png,1,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",0.35
+102,/content/SD_XL/wildlife_zipped.zip/wildlife_img_27.png,2,"hammerhead, hammerhead shark",0.04
+103,/content/SD_XL/wildlife_zipped.zip/wildlife_img_27.png,3,"tiger shark, Galeocerdo cuvieri",0.03
+104,/content/SD_XL/wildlife_zipped.zip/wildlife_img_27.png,4,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",0.01
+105,/content/SD_XL/wildlife_zipped.zip/wildlife_img_28.png,0,flamingo,0.86
+106,/content/SD_XL/wildlife_zipped.zip/wildlife_img_28.png,1,"goldfish, Carassius auratus",0.0
+107,/content/SD_XL/wildlife_zipped.zip/wildlife_img_28.png,2,"seashore, coast, seacoast, sea-coast",0.0
+108,/content/SD_XL/wildlife_zipped.zip/wildlife_img_28.png,3,"American egret, great white heron, Egretta albus",0.0
+109,/content/SD_XL/wildlife_zipped.zip/wildlife_img_28.png,4,"sandbar, sand bar",0.0
+110,/content/SD_XL/wildlife_zipped.zip/wildlife_img_29.png,0,"red fox, Vulpes vulpes",0.89
+111,/content/SD_XL/wildlife_zipped.zip/wildlife_img_29.png,1,"kit fox, Vulpes macrotis",0.01
+112,/content/SD_XL/wildlife_zipped.zip/wildlife_img_29.png,2,"grey fox, gray fox, Urocyon cinereoargenteus",0.0
+113,/content/SD_XL/wildlife_zipped.zip/wildlife_img_29.png,3,"Arctic fox, white fox, Alopex lagopus",0.0
+114,/content/SD_XL/wildlife_zipped.zip/wildlife_img_29.png,4,"barrow, garden cart, lawn cart, wheelbarrow",0.0
+115,/content/SD_XL/wildlife_zipped.zip/wildlife_img_3.png,0,"leopard, Panthera pardus",0.63
+116,/content/SD_XL/wildlife_zipped.zip/wildlife_img_3.png,1,"jaguar, panther, Panthera onca, Felis onca",0.09
+117,/content/SD_XL/wildlife_zipped.zip/wildlife_img_3.png,2,"cheetah, chetah, Acinonyx jubatus",0.0
+118,/content/SD_XL/wildlife_zipped.zip/wildlife_img_3.png,3,"tiger, Panthera tigris",0.0
+119,/content/SD_XL/wildlife_zipped.zip/wildlife_img_3.png,4,"snow leopard, ounce, Panthera uncia",0.0
+120,/content/SD_XL/wildlife_zipped.zip/wildlife_img_30.png,0,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",0.89
+121,/content/SD_XL/wildlife_zipped.zip/wildlife_img_30.png,1,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.0
+122,/content/SD_XL/wildlife_zipped.zip/wildlife_img_30.png,2,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",0.0
+123,/content/SD_XL/wildlife_zipped.zip/wildlife_img_30.png,3,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",0.0
+124,/content/SD_XL/wildlife_zipped.zip/wildlife_img_30.png,4,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",0.0
+125,/content/SD_XL/wildlife_zipped.zip/wildlife_img_31.png,0,flamingo,0.38
+126,/content/SD_XL/wildlife_zipped.zip/wildlife_img_31.png,1,black grouse,0.1
+127,/content/SD_XL/wildlife_zipped.zip/wildlife_img_31.png,2,bustard,0.06
+128,/content/SD_XL/wildlife_zipped.zip/wildlife_img_31.png,3,"European gallinule, Porphyrio porphyrio",0.04
+129,/content/SD_XL/wildlife_zipped.zip/wildlife_img_31.png,4,"prairie chicken, prairie grouse, prairie fowl",0.02
+130,/content/SD_XL/wildlife_zipped.zip/wildlife_img_32.png,0,bison,0.9
+131,/content/SD_XL/wildlife_zipped.zip/wildlife_img_32.png,1,ox,0.01
+132,/content/SD_XL/wildlife_zipped.zip/wildlife_img_32.png,2,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.0
+133,/content/SD_XL/wildlife_zipped.zip/wildlife_img_32.png,3,"Indian elephant, Elephas maximus",0.0
+134,/content/SD_XL/wildlife_zipped.zip/wildlife_img_32.png,4,"red-breasted merganser, Mergus serrator",0.0
+135,/content/SD_XL/wildlife_zipped.zip/wildlife_img_33.png,0,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",0.89
+136,/content/SD_XL/wildlife_zipped.zip/wildlife_img_33.png,1,wombat,0.0
+137,/content/SD_XL/wildlife_zipped.zip/wildlife_img_33.png,2,"Madagascar cat, ring-tailed lemur, Lemur catta",0.0
+138,/content/SD_XL/wildlife_zipped.zip/wildlife_img_33.png,3,"indri, indris, Indri indri, Indri brevicaudatus",0.0
+139,/content/SD_XL/wildlife_zipped.zip/wildlife_img_33.png,4,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",0.0
+140,/content/SD_XL/wildlife_zipped.zip/wildlife_img_34.png,0,zebra,0.17
+141,/content/SD_XL/wildlife_zipped.zip/wildlife_img_34.png,1,sorrel,0.11
+142,/content/SD_XL/wildlife_zipped.zip/wildlife_img_34.png,2,hartebeest,0.04
+143,/content/SD_XL/wildlife_zipped.zip/wildlife_img_34.png,3,"worm fence, snake fence, snake-rail fence, Virginia fence",0.02
+144,/content/SD_XL/wildlife_zipped.zip/wildlife_img_34.png,4,black grouse,0.01
+145,/content/SD_XL/wildlife_zipped.zip/wildlife_img_35.png,0,"chimpanzee, chimp, Pan troglodytes",0.88
+146,/content/SD_XL/wildlife_zipped.zip/wildlife_img_35.png,1,"siamang, Hylobates syndactylus, Symphalangus syndactylus",0.0
+147,/content/SD_XL/wildlife_zipped.zip/wildlife_img_35.png,2,"guenon, guenon monkey",0.0
+148,/content/SD_XL/wildlife_zipped.zip/wildlife_img_35.png,3,"spider monkey, Ateles geoffroyi",0.0
+149,/content/SD_XL/wildlife_zipped.zip/wildlife_img_35.png,4,"gorilla, Gorilla gorilla",0.0
+150,/content/SD_XL/wildlife_zipped.zip/wildlife_img_36.png,0,"king penguin, Aptenodytes patagonica",0.5
+151,/content/SD_XL/wildlife_zipped.zip/wildlife_img_36.png,1,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.26
+152,/content/SD_XL/wildlife_zipped.zip/wildlife_img_36.png,2,alp,0.01
+153,/content/SD_XL/wildlife_zipped.zip/wildlife_img_36.png,3,"Arctic fox, white fox, Alopex lagopus",0.0
+154,/content/SD_XL/wildlife_zipped.zip/wildlife_img_36.png,4,snowmobile,0.0
+155,/content/SD_XL/wildlife_zipped.zip/wildlife_img_37.png,0,"gorilla, Gorilla gorilla",0.88
+156,/content/SD_XL/wildlife_zipped.zip/wildlife_img_37.png,1,"patas, hussar monkey, Erythrocebus patas",0.0
+157,/content/SD_XL/wildlife_zipped.zip/wildlife_img_37.png,2,"chimpanzee, chimp, Pan troglodytes",0.0
+158,/content/SD_XL/wildlife_zipped.zip/wildlife_img_37.png,3,"gibbon, Hylobates lar",0.0
+159,/content/SD_XL/wildlife_zipped.zip/wildlife_img_37.png,4,"guenon, guenon monkey",0.0
+160,/content/SD_XL/wildlife_zipped.zip/wildlife_img_38.png,0,fountain,0.32
+161,/content/SD_XL/wildlife_zipped.zip/wildlife_img_38.png,1,pole,0.06
+162,/content/SD_XL/wildlife_zipped.zip/wildlife_img_38.png,2,"oboe, hautboy, hautbois",0.05
+163,/content/SD_XL/wildlife_zipped.zip/wildlife_img_38.png,3,missile,0.04
+164,/content/SD_XL/wildlife_zipped.zip/wildlife_img_38.png,4,"greenhouse, nursery, glasshouse",0.03
+165,/content/SD_XL/wildlife_zipped.zip/wildlife_img_39.png,0,gazelle,0.48
+166,/content/SD_XL/wildlife_zipped.zip/wildlife_img_39.png,1,hartebeest,0.24
+167,/content/SD_XL/wildlife_zipped.zip/wildlife_img_39.png,2,"impala, Aepyceros melampus",0.12
+168,/content/SD_XL/wildlife_zipped.zip/wildlife_img_39.png,3,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",0.01
+169,/content/SD_XL/wildlife_zipped.zip/wildlife_img_39.png,4,"ram, tup",0.0
+170,/content/SD_XL/wildlife_zipped.zip/wildlife_img_4.png,0,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.48
+171,/content/SD_XL/wildlife_zipped.zip/wildlife_img_4.png,1,hartebeest,0.22
+172,/content/SD_XL/wildlife_zipped.zip/wildlife_img_4.png,2,"impala, Aepyceros melampus",0.05
+173,/content/SD_XL/wildlife_zipped.zip/wildlife_img_4.png,3,zebra,0.04
+174,/content/SD_XL/wildlife_zipped.zip/wildlife_img_4.png,4,gazelle,0.04
+175,/content/SD_XL/wildlife_zipped.zip/wildlife_img_40.png,0,"tiger shark, Galeocerdo cuvieri",0.38
+176,/content/SD_XL/wildlife_zipped.zip/wildlife_img_40.png,1,"hammerhead, hammerhead shark",0.3
+177,/content/SD_XL/wildlife_zipped.zip/wildlife_img_40.png,2,coral reef,0.05
+178,/content/SD_XL/wildlife_zipped.zip/wildlife_img_40.png,3,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",0.02
+179,/content/SD_XL/wildlife_zipped.zip/wildlife_img_40.png,4,scuba diver,0.01
+180,/content/SD_XL/wildlife_zipped.zip/wildlife_img_41.png,0,zebra,0.9
+181,/content/SD_XL/wildlife_zipped.zip/wildlife_img_41.png,1,"ostrich, Struthio camelus",0.0
+182,/content/SD_XL/wildlife_zipped.zip/wildlife_img_41.png,2,hartebeest,0.0
+183,/content/SD_XL/wildlife_zipped.zip/wildlife_img_41.png,3,bustard,0.0
+184,/content/SD_XL/wildlife_zipped.zip/wildlife_img_41.png,4,black grouse,0.0
+185,/content/SD_XL/wildlife_zipped.zip/wildlife_img_42.png,0,"wallaby, brush kangaroo",0.8
+186,/content/SD_XL/wildlife_zipped.zip/wildlife_img_42.png,1,"meerkat, mierkat",0.0
+187,/content/SD_XL/wildlife_zipped.zip/wildlife_img_42.png,2,wombat,0.0
+188,/content/SD_XL/wildlife_zipped.zip/wildlife_img_42.png,3,wig,0.0
+189,/content/SD_XL/wildlife_zipped.zip/wildlife_img_42.png,4,"skunk, polecat, wood pussy",0.0
+190,/content/SD_XL/wildlife_zipped.zip/wildlife_img_43.png,0,otter,0.77
+191,/content/SD_XL/wildlife_zipped.zip/wildlife_img_43.png,1,weasel,0.07
+192,/content/SD_XL/wildlife_zipped.zip/wildlife_img_43.png,2,mink,0.01
+193,/content/SD_XL/wildlife_zipped.zip/wildlife_img_43.png,3,"polecat, fitch, foulmart, foumart, Mustela putorius",0.0
+194,/content/SD_XL/wildlife_zipped.zip/wildlife_img_43.png,4,"black-footed ferret, ferret, Mustela nigripes",0.0
+195,/content/SD_XL/wildlife_zipped.zip/wildlife_img_44.png,0,goose,0.76
+196,/content/SD_XL/wildlife_zipped.zip/wildlife_img_44.png,1,"lakeside, lakeshore",0.07
+197,/content/SD_XL/wildlife_zipped.zip/wildlife_img_44.png,2,drake,0.0
+198,/content/SD_XL/wildlife_zipped.zip/wildlife_img_44.png,3,boathouse,0.0
+199,/content/SD_XL/wildlife_zipped.zip/wildlife_img_44.png,4,"American egret, great white heron, Egretta albus",0.0
+200,/content/SD_XL/wildlife_zipped.zip/wildlife_img_45.png,0,"hyena, hyaena",0.9
+201,/content/SD_XL/wildlife_zipped.zip/wildlife_img_45.png,1,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",0.02
+202,/content/SD_XL/wildlife_zipped.zip/wildlife_img_45.png,2,"cheetah, chetah, Acinonyx jubatus",0.0
+203,/content/SD_XL/wildlife_zipped.zip/wildlife_img_45.png,3,warthog,0.0
+204,/content/SD_XL/wildlife_zipped.zip/wildlife_img_45.png,4,weasel,0.0
+205,/content/SD_XL/wildlife_zipped.zip/wildlife_img_46.png,0,kite,0.45
+206,/content/SD_XL/wildlife_zipped.zip/wildlife_img_46.png,1,"great grey owl, great gray owl, Strix nebulosa",0.34
+207,/content/SD_XL/wildlife_zipped.zip/wildlife_img_46.png,2,"ruffed grouse, partridge, Bonasa umbellus",0.01
+208,/content/SD_XL/wildlife_zipped.zip/wildlife_img_46.png,3,"prairie chicken, prairie grouse, prairie fowl",0.0
+209,/content/SD_XL/wildlife_zipped.zip/wildlife_img_46.png,4,"African grey, African gray, Psittacus erithacus",0.0
+210,/content/SD_XL/wildlife_zipped.zip/wildlife_img_47.png,0,"Madagascar cat, ring-tailed lemur, Lemur catta",0.67
+211,/content/SD_XL/wildlife_zipped.zip/wildlife_img_47.png,1,"indri, indris, Indri indri, Indri brevicaudatus",0.23
+212,/content/SD_XL/wildlife_zipped.zip/wildlife_img_47.png,2,"patas, hussar monkey, Erythrocebus patas",0.0
+213,/content/SD_XL/wildlife_zipped.zip/wildlife_img_47.png,3,mongoose,0.0
+214,/content/SD_XL/wildlife_zipped.zip/wildlife_img_47.png,4,"titi, titi monkey",0.0
+215,/content/SD_XL/wildlife_zipped.zip/wildlife_img_48.png,0,"red-backed sandpiper, dunlin, Erolia alpina",0.64
+216,/content/SD_XL/wildlife_zipped.zip/wildlife_img_48.png,1,goose,0.07
+217,/content/SD_XL/wildlife_zipped.zip/wildlife_img_48.png,2,dowitcher,0.06
+218,/content/SD_XL/wildlife_zipped.zip/wildlife_img_48.png,3,pelican,0.03
+219,/content/SD_XL/wildlife_zipped.zip/wildlife_img_48.png,4,"red-breasted merganser, Mergus serrator",0.03
+220,/content/SD_XL/wildlife_zipped.zip/wildlife_img_49.png,0,"brown bear, bruin, Ursus arctos",0.93
+221,/content/SD_XL/wildlife_zipped.zip/wildlife_img_49.png,1,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.0
+222,/content/SD_XL/wildlife_zipped.zip/wildlife_img_49.png,2,"sloth bear, Melursus ursinus, Ursus ursinus",0.0
+223,/content/SD_XL/wildlife_zipped.zip/wildlife_img_49.png,3,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.0
+224,/content/SD_XL/wildlife_zipped.zip/wildlife_img_49.png,4,beaver,0.0
+225,/content/SD_XL/wildlife_zipped.zip/wildlife_img_5.png,0,"timber wolf, grey wolf, gray wolf, Canis lupus",0.77
+226,/content/SD_XL/wildlife_zipped.zip/wildlife_img_5.png,1,"coyote, prairie wolf, brush wolf, Canis latrans",0.06
+227,/content/SD_XL/wildlife_zipped.zip/wildlife_img_5.png,2,"red wolf, maned wolf, Canis rufus, Canis niger",0.02
+228,/content/SD_XL/wildlife_zipped.zip/wildlife_img_5.png,3,"white wolf, Arctic wolf, Canis lupus tundrarum",0.01
+229,/content/SD_XL/wildlife_zipped.zip/wildlife_img_5.png,4,balloon,0.01
+230,/content/SD_XL/wildlife_zipped.zip/wildlife_img_6.png,0,"cheetah, chetah, Acinonyx jubatus",0.92
+231,/content/SD_XL/wildlife_zipped.zip/wildlife_img_6.png,1,"leopard, Panthera pardus",0.0
+232,/content/SD_XL/wildlife_zipped.zip/wildlife_img_6.png,2,"jaguar, panther, Panthera onca, Felis onca",0.0
+233,/content/SD_XL/wildlife_zipped.zip/wildlife_img_6.png,3,gazelle,0.0
+234,/content/SD_XL/wildlife_zipped.zip/wildlife_img_6.png,4,"lynx, catamount",0.0
+235,/content/SD_XL/wildlife_zipped.zip/wildlife_img_7.png,0,"hippopotamus, hippo, river horse, Hippopotamus amphibius",0.89
+236,/content/SD_XL/wildlife_zipped.zip/wildlife_img_7.png,1,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.01
+237,/content/SD_XL/wildlife_zipped.zip/wildlife_img_7.png,2,Rhodesian ridgeback,0.0
+238,/content/SD_XL/wildlife_zipped.zip/wildlife_img_7.png,3,tusker,0.0
+239,/content/SD_XL/wildlife_zipped.zip/wildlife_img_7.png,4,"African crocodile, Nile crocodile, Crocodylus niloticus",0.0
+240,/content/SD_XL/wildlife_zipped.zip/wildlife_img_8.png,0,macaque,0.46
+241,/content/SD_XL/wildlife_zipped.zip/wildlife_img_8.png,1,"spider monkey, Ateles geoffroyi",0.17
+242,/content/SD_XL/wildlife_zipped.zip/wildlife_img_8.png,2,"squirrel monkey, Saimiri sciureus",0.06
+243,/content/SD_XL/wildlife_zipped.zip/wildlife_img_8.png,3,"guenon, guenon monkey",0.02
+244,/content/SD_XL/wildlife_zipped.zip/wildlife_img_8.png,4,"titi, titi monkey",0.01
+245,/content/SD_XL/wildlife_zipped.zip/wildlife_img_9.png,0,macaw,0.62
+246,/content/SD_XL/wildlife_zipped.zip/wildlife_img_9.png,1,comic book,0.16
+247,/content/SD_XL/wildlife_zipped.zip/wildlife_img_9.png,2,"book jacket, dust cover, dust jacket, dust wrapper",0.0
+248,/content/SD_XL/wildlife_zipped.zip/wildlife_img_9.png,3,lorikeet,0.0
+249,/content/SD_XL/wildlife_zipped.zip/wildlife_img_9.png,4,"African grey, African gray, Psittacus erithacus",0.0

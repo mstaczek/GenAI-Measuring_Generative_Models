@@ -1,0 +1,1001 @@
+,image_path,prediction_position,label,score
+0,datasets_generated_ready_models/stylegan2/generated_images/087000.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.76
+1,datasets_generated_ready_models/stylegan2/generated_images/087000.png,1,"grille, radiator grille",0.03
+2,datasets_generated_ready_models/stylegan2/generated_images/087000.png,2,convertible,0.03
+3,datasets_generated_ready_models/stylegan2/generated_images/087000.png,3,minibus,0.03
+4,datasets_generated_ready_models/stylegan2/generated_images/087000.png,4,"pickup, pickup truck",0.01
+5,datasets_generated_ready_models/stylegan2/generated_images/087001.png,0,car wheel,0.34
+6,datasets_generated_ready_models/stylegan2/generated_images/087001.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.25
+7,datasets_generated_ready_models/stylegan2/generated_images/087001.png,2,convertible,0.18
+8,datasets_generated_ready_models/stylegan2/generated_images/087001.png,3,"grille, radiator grille",0.07
+9,datasets_generated_ready_models/stylegan2/generated_images/087001.png,4,"sports car, sport car",0.02
+10,datasets_generated_ready_models/stylegan2/generated_images/087002.png,0,"racer, race car, racing car",0.78
+11,datasets_generated_ready_models/stylegan2/generated_images/087002.png,1,"sports car, sport car",0.09
+12,datasets_generated_ready_models/stylegan2/generated_images/087002.png,2,car wheel,0.03
+13,datasets_generated_ready_models/stylegan2/generated_images/087002.png,3,"passenger car, coach, carriage",0.0
+14,datasets_generated_ready_models/stylegan2/generated_images/087002.png,4,honeycomb,0.0
+15,datasets_generated_ready_models/stylegan2/generated_images/087003.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.81
+16,datasets_generated_ready_models/stylegan2/generated_images/087003.png,1,"limousine, limo",0.06
+17,datasets_generated_ready_models/stylegan2/generated_images/087003.png,2,convertible,0.02
+18,datasets_generated_ready_models/stylegan2/generated_images/087003.png,3,"grille, radiator grille",0.01
+19,datasets_generated_ready_models/stylegan2/generated_images/087003.png,4,"passenger car, coach, carriage",0.0
+20,datasets_generated_ready_models/stylegan2/generated_images/087004.png,0,"cab, hack, taxi, taxicab",0.52
+21,datasets_generated_ready_models/stylegan2/generated_images/087004.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.13
+22,datasets_generated_ready_models/stylegan2/generated_images/087004.png,2,minivan,0.1
+23,datasets_generated_ready_models/stylegan2/generated_images/087004.png,3,"grille, radiator grille",0.01
+24,datasets_generated_ready_models/stylegan2/generated_images/087004.png,4,car wheel,0.01
+25,datasets_generated_ready_models/stylegan2/generated_images/087005.png,0,"grille, radiator grille",0.49
+26,datasets_generated_ready_models/stylegan2/generated_images/087005.png,1,convertible,0.31
+27,datasets_generated_ready_models/stylegan2/generated_images/087005.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.05
+28,datasets_generated_ready_models/stylegan2/generated_images/087005.png,3,car wheel,0.04
+29,datasets_generated_ready_models/stylegan2/generated_images/087005.png,4,"limousine, limo",0.01
+30,datasets_generated_ready_models/stylegan2/generated_images/087006.png,0,"pickup, pickup truck",0.82
+31,datasets_generated_ready_models/stylegan2/generated_images/087006.png,1,car wheel,0.04
+32,datasets_generated_ready_models/stylegan2/generated_images/087006.png,2,"tow truck, tow car, wrecker",0.01
+33,datasets_generated_ready_models/stylegan2/generated_images/087006.png,3,"jeep, landrover",0.01
+34,datasets_generated_ready_models/stylegan2/generated_images/087006.png,4,"limousine, limo",0.0
+35,datasets_generated_ready_models/stylegan2/generated_images/087007.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.83
+36,datasets_generated_ready_models/stylegan2/generated_images/087007.png,1,car wheel,0.05
+37,datasets_generated_ready_models/stylegan2/generated_images/087007.png,2,"sports car, sport car",0.03
+38,datasets_generated_ready_models/stylegan2/generated_images/087007.png,3,"grille, radiator grille",0.01
+39,datasets_generated_ready_models/stylegan2/generated_images/087007.png,4,minivan,0.01
+40,datasets_generated_ready_models/stylegan2/generated_images/087008.png,0,convertible,0.45
+41,datasets_generated_ready_models/stylegan2/generated_images/087008.png,1,"limousine, limo",0.18
+42,datasets_generated_ready_models/stylegan2/generated_images/087008.png,2,car wheel,0.12
+43,datasets_generated_ready_models/stylegan2/generated_images/087008.png,3,"sports car, sport car",0.11
+44,datasets_generated_ready_models/stylegan2/generated_images/087008.png,4,"racer, race car, racing car",0.01
+45,datasets_generated_ready_models/stylegan2/generated_images/087009.png,0,"sports car, sport car",0.84
+46,datasets_generated_ready_models/stylegan2/generated_images/087009.png,1,car wheel,0.06
+47,datasets_generated_ready_models/stylegan2/generated_images/087009.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+48,datasets_generated_ready_models/stylegan2/generated_images/087009.png,3,"racer, race car, racing car",0.02
+49,datasets_generated_ready_models/stylegan2/generated_images/087009.png,4,"grille, radiator grille",0.0
+50,datasets_generated_ready_models/stylegan2/generated_images/087010.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.36
+51,datasets_generated_ready_models/stylegan2/generated_images/087010.png,1,convertible,0.26
+52,datasets_generated_ready_models/stylegan2/generated_images/087010.png,2,car wheel,0.22
+53,datasets_generated_ready_models/stylegan2/generated_images/087010.png,3,"grille, radiator grille",0.02
+54,datasets_generated_ready_models/stylegan2/generated_images/087010.png,4,"sports car, sport car",0.02
+55,datasets_generated_ready_models/stylegan2/generated_images/087011.png,0,Model T,0.89
+56,datasets_generated_ready_models/stylegan2/generated_images/087011.png,1,"thresher, thrasher, threshing machine",0.0
+57,datasets_generated_ready_models/stylegan2/generated_images/087011.png,2,car wheel,0.0
+58,datasets_generated_ready_models/stylegan2/generated_images/087011.png,3,"tow truck, tow car, wrecker",0.0
+59,datasets_generated_ready_models/stylegan2/generated_images/087011.png,4,half track,0.0
+60,datasets_generated_ready_models/stylegan2/generated_images/087012.png,0,"grille, radiator grille",0.39
+61,datasets_generated_ready_models/stylegan2/generated_images/087012.png,1,convertible,0.31
+62,datasets_generated_ready_models/stylegan2/generated_images/087012.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.1
+63,datasets_generated_ready_models/stylegan2/generated_images/087012.png,3,car wheel,0.02
+64,datasets_generated_ready_models/stylegan2/generated_images/087012.png,4,"cab, hack, taxi, taxicab",0.01
+65,datasets_generated_ready_models/stylegan2/generated_images/087013.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.89
+66,datasets_generated_ready_models/stylegan2/generated_images/087013.png,1,"grille, radiator grille",0.01
+67,datasets_generated_ready_models/stylegan2/generated_images/087013.png,2,convertible,0.0
+68,datasets_generated_ready_models/stylegan2/generated_images/087013.png,3,"limousine, limo",0.0
+69,datasets_generated_ready_models/stylegan2/generated_images/087013.png,4,car wheel,0.0
+70,datasets_generated_ready_models/stylegan2/generated_images/087014.png,0,"sports car, sport car",0.79
+71,datasets_generated_ready_models/stylegan2/generated_images/087014.png,1,"limousine, limo",0.06
+72,datasets_generated_ready_models/stylegan2/generated_images/087014.png,2,car wheel,0.05
+73,datasets_generated_ready_models/stylegan2/generated_images/087014.png,3,"racer, race car, racing car",0.01
+74,datasets_generated_ready_models/stylegan2/generated_images/087014.png,4,convertible,0.01
+75,datasets_generated_ready_models/stylegan2/generated_images/087015.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.89
+76,datasets_generated_ready_models/stylegan2/generated_images/087015.png,1,car wheel,0.04
+77,datasets_generated_ready_models/stylegan2/generated_images/087015.png,2,minivan,0.01
+78,datasets_generated_ready_models/stylegan2/generated_images/087015.png,3,"limousine, limo",0.01
+79,datasets_generated_ready_models/stylegan2/generated_images/087015.png,4,"grille, radiator grille",0.0
+80,datasets_generated_ready_models/stylegan2/generated_images/087016.png,0,"sports car, sport car",0.9
+81,datasets_generated_ready_models/stylegan2/generated_images/087016.png,1,convertible,0.02
+82,datasets_generated_ready_models/stylegan2/generated_images/087016.png,2,car wheel,0.01
+83,datasets_generated_ready_models/stylegan2/generated_images/087016.png,3,minivan,0.0
+84,datasets_generated_ready_models/stylegan2/generated_images/087016.png,4,"grille, radiator grille",0.0
+85,datasets_generated_ready_models/stylegan2/generated_images/087017.png,0,"grille, radiator grille",0.27
+86,datasets_generated_ready_models/stylegan2/generated_images/087017.png,1,convertible,0.23
+87,datasets_generated_ready_models/stylegan2/generated_images/087017.png,2,"cab, hack, taxi, taxicab",0.17
+88,datasets_generated_ready_models/stylegan2/generated_images/087017.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.13
+89,datasets_generated_ready_models/stylegan2/generated_images/087017.png,4,"sports car, sport car",0.04
+90,datasets_generated_ready_models/stylegan2/generated_images/087018.png,0,"pickup, pickup truck",0.63
+91,datasets_generated_ready_models/stylegan2/generated_images/087018.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.11
+92,datasets_generated_ready_models/stylegan2/generated_images/087018.png,2,"cab, hack, taxi, taxicab",0.03
+93,datasets_generated_ready_models/stylegan2/generated_images/087018.png,3,"passenger car, coach, carriage",0.03
+94,datasets_generated_ready_models/stylegan2/generated_images/087018.png,4,"grille, radiator grille",0.02
+95,datasets_generated_ready_models/stylegan2/generated_images/087019.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.6
+96,datasets_generated_ready_models/stylegan2/generated_images/087019.png,1,minivan,0.15
+97,datasets_generated_ready_models/stylegan2/generated_images/087019.png,2,car wheel,0.05
+98,datasets_generated_ready_models/stylegan2/generated_images/087019.png,3,"grille, radiator grille",0.01
+99,datasets_generated_ready_models/stylegan2/generated_images/087019.png,4,"sports car, sport car",0.01
+100,datasets_generated_ready_models/stylegan2/generated_images/087020.png,0,"sports car, sport car",0.29
+101,datasets_generated_ready_models/stylegan2/generated_images/087020.png,1,"limousine, limo",0.24
+102,datasets_generated_ready_models/stylegan2/generated_images/087020.png,2,car wheel,0.18
+103,datasets_generated_ready_models/stylegan2/generated_images/087020.png,3,"grille, radiator grille",0.06
+104,datasets_generated_ready_models/stylegan2/generated_images/087020.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.06
+105,datasets_generated_ready_models/stylegan2/generated_images/087021.png,0,car wheel,0.59
+106,datasets_generated_ready_models/stylegan2/generated_images/087021.png,1,"limousine, limo",0.21
+107,datasets_generated_ready_models/stylegan2/generated_images/087021.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.05
+108,datasets_generated_ready_models/stylegan2/generated_images/087021.png,3,"sports car, sport car",0.02
+109,datasets_generated_ready_models/stylegan2/generated_images/087021.png,4,minivan,0.02
+110,datasets_generated_ready_models/stylegan2/generated_images/087022.png,0,"television, television system",0.34
+111,datasets_generated_ready_models/stylegan2/generated_images/087022.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.08
+112,datasets_generated_ready_models/stylegan2/generated_images/087022.png,2,"screen, CRT screen",0.04
+113,datasets_generated_ready_models/stylegan2/generated_images/087022.png,3,Labrador retriever,0.04
+114,datasets_generated_ready_models/stylegan2/generated_images/087022.png,4,"gas pump, gasoline pump, petrol pump, island dispenser",0.03
+115,datasets_generated_ready_models/stylegan2/generated_images/087023.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.54
+116,datasets_generated_ready_models/stylegan2/generated_images/087023.png,1,"jeep, landrover",0.31
+117,datasets_generated_ready_models/stylegan2/generated_images/087023.png,2,"grille, radiator grille",0.04
+118,datasets_generated_ready_models/stylegan2/generated_images/087023.png,3,minivan,0.02
+119,datasets_generated_ready_models/stylegan2/generated_images/087023.png,4,car wheel,0.02
+120,datasets_generated_ready_models/stylegan2/generated_images/087024.png,0,"sports car, sport car",0.86
+121,datasets_generated_ready_models/stylegan2/generated_images/087024.png,1,car wheel,0.03
+122,datasets_generated_ready_models/stylegan2/generated_images/087024.png,2,minivan,0.02
+123,datasets_generated_ready_models/stylegan2/generated_images/087024.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+124,datasets_generated_ready_models/stylegan2/generated_images/087024.png,4,"racer, race car, racing car",0.0
+125,datasets_generated_ready_models/stylegan2/generated_images/087025.png,0,minivan,0.49
+126,datasets_generated_ready_models/stylegan2/generated_images/087025.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.19
+127,datasets_generated_ready_models/stylegan2/generated_images/087025.png,2,"limousine, limo",0.07
+128,datasets_generated_ready_models/stylegan2/generated_images/087025.png,3,car wheel,0.04
+129,datasets_generated_ready_models/stylegan2/generated_images/087025.png,4,convertible,0.03
+130,datasets_generated_ready_models/stylegan2/generated_images/087026.png,0,"sports car, sport car",0.47
+131,datasets_generated_ready_models/stylegan2/generated_images/087026.png,1,"grille, radiator grille",0.17
+132,datasets_generated_ready_models/stylegan2/generated_images/087026.png,2,convertible,0.11
+133,datasets_generated_ready_models/stylegan2/generated_images/087026.png,3,"limousine, limo",0.05
+134,datasets_generated_ready_models/stylegan2/generated_images/087026.png,4,car wheel,0.04
+135,datasets_generated_ready_models/stylegan2/generated_images/087027.png,0,"limousine, limo",0.27
+136,datasets_generated_ready_models/stylegan2/generated_images/087027.png,1,"spotlight, spot",0.15
+137,datasets_generated_ready_models/stylegan2/generated_images/087027.png,2,stretcher,0.12
+138,datasets_generated_ready_models/stylegan2/generated_images/087027.png,3,ambulance,0.08
+139,datasets_generated_ready_models/stylegan2/generated_images/087027.png,4,stage,0.04
+140,datasets_generated_ready_models/stylegan2/generated_images/087028.png,0,convertible,0.68
+141,datasets_generated_ready_models/stylegan2/generated_images/087028.png,1,"sports car, sport car",0.16
+142,datasets_generated_ready_models/stylegan2/generated_images/087028.png,2,car wheel,0.01
+143,datasets_generated_ready_models/stylegan2/generated_images/087028.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+144,datasets_generated_ready_models/stylegan2/generated_images/087028.png,4,"racer, race car, racing car",0.0
+145,datasets_generated_ready_models/stylegan2/generated_images/087029.png,0,"motor scooter, scooter",0.65
+146,datasets_generated_ready_models/stylegan2/generated_images/087029.png,1,freight car,0.07
+147,datasets_generated_ready_models/stylegan2/generated_images/087029.png,2,moped,0.05
+148,datasets_generated_ready_models/stylegan2/generated_images/087029.png,3,minivan,0.04
+149,datasets_generated_ready_models/stylegan2/generated_images/087029.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+150,datasets_generated_ready_models/stylegan2/generated_images/087030.png,0,car wheel,0.47
+151,datasets_generated_ready_models/stylegan2/generated_images/087030.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.28
+152,datasets_generated_ready_models/stylegan2/generated_images/087030.png,2,minivan,0.05
+153,datasets_generated_ready_models/stylegan2/generated_images/087030.png,3,convertible,0.03
+154,datasets_generated_ready_models/stylegan2/generated_images/087030.png,4,"sports car, sport car",0.02
+155,datasets_generated_ready_models/stylegan2/generated_images/087031.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.79
+156,datasets_generated_ready_models/stylegan2/generated_images/087031.png,1,"grille, radiator grille",0.07
+157,datasets_generated_ready_models/stylegan2/generated_images/087031.png,2,car wheel,0.04
+158,datasets_generated_ready_models/stylegan2/generated_images/087031.png,3,"limousine, limo",0.01
+159,datasets_generated_ready_models/stylegan2/generated_images/087031.png,4,"cab, hack, taxi, taxicab",0.01
+160,datasets_generated_ready_models/stylegan2/generated_images/087032.png,0,"limousine, limo",0.27
+161,datasets_generated_ready_models/stylegan2/generated_images/087032.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.23
+162,datasets_generated_ready_models/stylegan2/generated_images/087032.png,2,car wheel,0.2
+163,datasets_generated_ready_models/stylegan2/generated_images/087032.png,3,convertible,0.05
+164,datasets_generated_ready_models/stylegan2/generated_images/087032.png,4,"cab, hack, taxi, taxicab",0.04
+165,datasets_generated_ready_models/stylegan2/generated_images/087033.png,0,minivan,0.22
+166,datasets_generated_ready_models/stylegan2/generated_images/087033.png,1,"sports car, sport car",0.15
+167,datasets_generated_ready_models/stylegan2/generated_images/087033.png,2,"limousine, limo",0.14
+168,datasets_generated_ready_models/stylegan2/generated_images/087033.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.13
+169,datasets_generated_ready_models/stylegan2/generated_images/087033.png,4,car wheel,0.1
+170,datasets_generated_ready_models/stylegan2/generated_images/087034.png,0,"racer, race car, racing car",0.6
+171,datasets_generated_ready_models/stylegan2/generated_images/087034.png,1,car wheel,0.1
+172,datasets_generated_ready_models/stylegan2/generated_images/087034.png,2,crash helmet,0.07
+173,datasets_generated_ready_models/stylegan2/generated_images/087034.png,3,"sports car, sport car",0.06
+174,datasets_generated_ready_models/stylegan2/generated_images/087034.png,4,go-kart,0.01
+175,datasets_generated_ready_models/stylegan2/generated_images/087035.png,0,"pickup, pickup truck",0.41
+176,datasets_generated_ready_models/stylegan2/generated_images/087035.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.21
+177,datasets_generated_ready_models/stylegan2/generated_images/087035.png,2,minibus,0.07
+178,datasets_generated_ready_models/stylegan2/generated_images/087035.png,3,"jeep, landrover",0.03
+179,datasets_generated_ready_models/stylegan2/generated_images/087035.png,4,"limousine, limo",0.03
+180,datasets_generated_ready_models/stylegan2/generated_images/087036.png,0,convertible,0.84
+181,datasets_generated_ready_models/stylegan2/generated_images/087036.png,1,"limousine, limo",0.03
+182,datasets_generated_ready_models/stylegan2/generated_images/087036.png,2,"sports car, sport car",0.02
+183,datasets_generated_ready_models/stylegan2/generated_images/087036.png,3,car wheel,0.01
+184,datasets_generated_ready_models/stylegan2/generated_images/087036.png,4,"racer, race car, racing car",0.0
+185,datasets_generated_ready_models/stylegan2/generated_images/087037.png,0,"sports car, sport car",0.86
+186,datasets_generated_ready_models/stylegan2/generated_images/087037.png,1,convertible,0.02
+187,datasets_generated_ready_models/stylegan2/generated_images/087037.png,2,car wheel,0.02
+188,datasets_generated_ready_models/stylegan2/generated_images/087037.png,3,"racer, race car, racing car",0.01
+189,datasets_generated_ready_models/stylegan2/generated_images/087037.png,4,"grille, radiator grille",0.01
+190,datasets_generated_ready_models/stylegan2/generated_images/087038.png,0,"sports car, sport car",0.65
+191,datasets_generated_ready_models/stylegan2/generated_images/087038.png,1,car wheel,0.17
+192,datasets_generated_ready_models/stylegan2/generated_images/087038.png,2,"grille, radiator grille",0.05
+193,datasets_generated_ready_models/stylegan2/generated_images/087038.png,3,"limousine, limo",0.02
+194,datasets_generated_ready_models/stylegan2/generated_images/087038.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+195,datasets_generated_ready_models/stylegan2/generated_images/087039.png,0,car wheel,0.7
+196,datasets_generated_ready_models/stylegan2/generated_images/087039.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.07
+197,datasets_generated_ready_models/stylegan2/generated_images/087039.png,2,convertible,0.06
+198,datasets_generated_ready_models/stylegan2/generated_images/087039.png,3,minivan,0.06
+199,datasets_generated_ready_models/stylegan2/generated_images/087039.png,4,"limousine, limo",0.02
+200,datasets_generated_ready_models/stylegan2/generated_images/087040.png,0,"sports car, sport car",0.68
+201,datasets_generated_ready_models/stylegan2/generated_images/087040.png,1,"grille, radiator grille",0.12
+202,datasets_generated_ready_models/stylegan2/generated_images/087040.png,2,convertible,0.06
+203,datasets_generated_ready_models/stylegan2/generated_images/087040.png,3,"racer, race car, racing car",0.03
+204,datasets_generated_ready_models/stylegan2/generated_images/087040.png,4,car wheel,0.0
+205,datasets_generated_ready_models/stylegan2/generated_images/087041.png,0,library,0.65
+206,datasets_generated_ready_models/stylegan2/generated_images/087041.png,1,moving van,0.03
+207,datasets_generated_ready_models/stylegan2/generated_images/087041.png,2,"flagpole, flagstaff",0.03
+208,datasets_generated_ready_models/stylegan2/generated_images/087041.png,3,"prison, prison house",0.03
+209,datasets_generated_ready_models/stylegan2/generated_images/087041.png,4,palace,0.02
+210,datasets_generated_ready_models/stylegan2/generated_images/087042.png,0,"pickup, pickup truck",0.71
+211,datasets_generated_ready_models/stylegan2/generated_images/087042.png,1,convertible,0.08
+212,datasets_generated_ready_models/stylegan2/generated_images/087042.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+213,datasets_generated_ready_models/stylegan2/generated_images/087042.png,3,car wheel,0.0
+214,datasets_generated_ready_models/stylegan2/generated_images/087042.png,4,"grille, radiator grille",0.0
+215,datasets_generated_ready_models/stylegan2/generated_images/087043.png,0,car wheel,0.54
+216,datasets_generated_ready_models/stylegan2/generated_images/087043.png,1,"cab, hack, taxi, taxicab",0.12
+217,datasets_generated_ready_models/stylegan2/generated_images/087043.png,2,"sports car, sport car",0.1
+218,datasets_generated_ready_models/stylegan2/generated_images/087043.png,3,"racer, race car, racing car",0.04
+219,datasets_generated_ready_models/stylegan2/generated_images/087043.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+220,datasets_generated_ready_models/stylegan2/generated_images/087044.png,0,"grille, radiator grille",0.54
+221,datasets_generated_ready_models/stylegan2/generated_images/087044.png,1,"sports car, sport car",0.3
+222,datasets_generated_ready_models/stylegan2/generated_images/087044.png,2,convertible,0.04
+223,datasets_generated_ready_models/stylegan2/generated_images/087044.png,3,car wheel,0.01
+224,datasets_generated_ready_models/stylegan2/generated_images/087044.png,4,"racer, race car, racing car",0.01
+225,datasets_generated_ready_models/stylegan2/generated_images/087045.png,0,car wheel,0.91
+226,datasets_generated_ready_models/stylegan2/generated_images/087045.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+227,datasets_generated_ready_models/stylegan2/generated_images/087045.png,2,convertible,0.0
+228,datasets_generated_ready_models/stylegan2/generated_images/087045.png,3,minivan,0.0
+229,datasets_generated_ready_models/stylegan2/generated_images/087045.png,4,"disk brake, disc brake",0.0
+230,datasets_generated_ready_models/stylegan2/generated_images/087046.png,0,"grille, radiator grille",0.61
+231,datasets_generated_ready_models/stylegan2/generated_images/087046.png,1,"sports car, sport car",0.14
+232,datasets_generated_ready_models/stylegan2/generated_images/087046.png,2,"racer, race car, racing car",0.05
+233,datasets_generated_ready_models/stylegan2/generated_images/087046.png,3,minivan,0.03
+234,datasets_generated_ready_models/stylegan2/generated_images/087046.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+235,datasets_generated_ready_models/stylegan2/generated_images/087047.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.48
+236,datasets_generated_ready_models/stylegan2/generated_images/087047.png,1,"sports car, sport car",0.21
+237,datasets_generated_ready_models/stylegan2/generated_images/087047.png,2,car wheel,0.15
+238,datasets_generated_ready_models/stylegan2/generated_images/087047.png,3,"grille, radiator grille",0.05
+239,datasets_generated_ready_models/stylegan2/generated_images/087047.png,4,minivan,0.01
+240,datasets_generated_ready_models/stylegan2/generated_images/087048.png,0,"grille, radiator grille",0.26
+241,datasets_generated_ready_models/stylegan2/generated_images/087048.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.25
+242,datasets_generated_ready_models/stylegan2/generated_images/087048.png,2,"limousine, limo",0.24
+243,datasets_generated_ready_models/stylegan2/generated_images/087048.png,3,car wheel,0.11
+244,datasets_generated_ready_models/stylegan2/generated_images/087048.png,4,"cab, hack, taxi, taxicab",0.03
+245,datasets_generated_ready_models/stylegan2/generated_images/087049.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.89
+246,datasets_generated_ready_models/stylegan2/generated_images/087049.png,1,"grille, radiator grille",0.02
+247,datasets_generated_ready_models/stylegan2/generated_images/087049.png,2,"cab, hack, taxi, taxicab",0.01
+248,datasets_generated_ready_models/stylegan2/generated_images/087049.png,3,"limousine, limo",0.0
+249,datasets_generated_ready_models/stylegan2/generated_images/087049.png,4,car wheel,0.0
+250,datasets_generated_ready_models/stylegan2/generated_images/087050.png,0,"grille, radiator grille",0.37
+251,datasets_generated_ready_models/stylegan2/generated_images/087050.png,1,car wheel,0.25
+252,datasets_generated_ready_models/stylegan2/generated_images/087050.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.1
+253,datasets_generated_ready_models/stylegan2/generated_images/087050.png,3,"sports car, sport car",0.09
+254,datasets_generated_ready_models/stylegan2/generated_images/087050.png,4,minivan,0.04
+255,datasets_generated_ready_models/stylegan2/generated_images/087051.png,0,convertible,0.23
+256,datasets_generated_ready_models/stylegan2/generated_images/087051.png,1,car wheel,0.21
+257,datasets_generated_ready_models/stylegan2/generated_images/087051.png,2,"sports car, sport car",0.15
+258,datasets_generated_ready_models/stylegan2/generated_images/087051.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.13
+259,datasets_generated_ready_models/stylegan2/generated_images/087051.png,4,"grille, radiator grille",0.12
+260,datasets_generated_ready_models/stylegan2/generated_images/087052.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.42
+261,datasets_generated_ready_models/stylegan2/generated_images/087052.png,1,convertible,0.21
+262,datasets_generated_ready_models/stylegan2/generated_images/087052.png,2,"grille, radiator grille",0.15
+263,datasets_generated_ready_models/stylegan2/generated_images/087052.png,3,car wheel,0.04
+264,datasets_generated_ready_models/stylegan2/generated_images/087052.png,4,"racer, race car, racing car",0.02
+265,datasets_generated_ready_models/stylegan2/generated_images/087053.png,0,"jeep, landrover",0.8
+266,datasets_generated_ready_models/stylegan2/generated_images/087053.png,1,minivan,0.08
+267,datasets_generated_ready_models/stylegan2/generated_images/087053.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+268,datasets_generated_ready_models/stylegan2/generated_images/087053.png,3,car wheel,0.0
+269,datasets_generated_ready_models/stylegan2/generated_images/087053.png,4,"pickup, pickup truck",0.0
+270,datasets_generated_ready_models/stylegan2/generated_images/087054.png,0,minibus,0.61
+271,datasets_generated_ready_models/stylegan2/generated_images/087054.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.13
+272,datasets_generated_ready_models/stylegan2/generated_images/087054.png,2,minivan,0.07
+273,datasets_generated_ready_models/stylegan2/generated_images/087054.png,3,"golfcart, golf cart",0.0
+274,datasets_generated_ready_models/stylegan2/generated_images/087054.png,4,"pickup, pickup truck",0.0
+275,datasets_generated_ready_models/stylegan2/generated_images/087055.png,0,"racer, race car, racing car",0.65
+276,datasets_generated_ready_models/stylegan2/generated_images/087055.png,1,monitor,0.13
+277,datasets_generated_ready_models/stylegan2/generated_images/087055.png,2,"television, television system",0.05
+278,datasets_generated_ready_models/stylegan2/generated_images/087055.png,3,"screen, CRT screen",0.02
+279,datasets_generated_ready_models/stylegan2/generated_images/087055.png,4,"sports car, sport car",0.02
+280,datasets_generated_ready_models/stylegan2/generated_images/087056.png,0,maillot,0.08
+281,datasets_generated_ready_models/stylegan2/generated_images/087056.png,1,torch,0.07
+282,datasets_generated_ready_models/stylegan2/generated_images/087056.png,2,"gasmask, respirator, gas helmet",0.05
+283,datasets_generated_ready_models/stylegan2/generated_images/087056.png,3,"chain saw, chainsaw",0.05
+284,datasets_generated_ready_models/stylegan2/generated_images/087056.png,4,kimono,0.04
+285,datasets_generated_ready_models/stylegan2/generated_images/087057.png,0,convertible,0.93
+286,datasets_generated_ready_models/stylegan2/generated_images/087057.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+287,datasets_generated_ready_models/stylegan2/generated_images/087057.png,2,"grille, radiator grille",0.0
+288,datasets_generated_ready_models/stylegan2/generated_images/087057.png,3,car wheel,0.0
+289,datasets_generated_ready_models/stylegan2/generated_images/087057.png,4,"pickup, pickup truck",0.0
+290,datasets_generated_ready_models/stylegan2/generated_images/087058.png,0,minivan,0.56
+291,datasets_generated_ready_models/stylegan2/generated_images/087058.png,1,car wheel,0.2
+292,datasets_generated_ready_models/stylegan2/generated_images/087058.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+293,datasets_generated_ready_models/stylegan2/generated_images/087058.png,3,"cab, hack, taxi, taxicab",0.02
+294,datasets_generated_ready_models/stylegan2/generated_images/087058.png,4,cassette player,0.01
+295,datasets_generated_ready_models/stylegan2/generated_images/087059.png,0,"sports car, sport car",0.71
+296,datasets_generated_ready_models/stylegan2/generated_images/087059.png,1,car wheel,0.18
+297,datasets_generated_ready_models/stylegan2/generated_images/087059.png,2,convertible,0.02
+298,datasets_generated_ready_models/stylegan2/generated_images/087059.png,3,"grille, radiator grille",0.01
+299,datasets_generated_ready_models/stylegan2/generated_images/087059.png,4,"racer, race car, racing car",0.01
+300,datasets_generated_ready_models/stylegan2/generated_images/087060.png,0,minivan,0.9
+301,datasets_generated_ready_models/stylegan2/generated_images/087060.png,1,cassette player,0.01
+302,datasets_generated_ready_models/stylegan2/generated_images/087060.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+303,datasets_generated_ready_models/stylegan2/generated_images/087060.png,3,minibus,0.0
+304,datasets_generated_ready_models/stylegan2/generated_images/087060.png,4,"grille, radiator grille",0.0
+305,datasets_generated_ready_models/stylegan2/generated_images/087061.png,0,convertible,0.93
+306,datasets_generated_ready_models/stylegan2/generated_images/087061.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+307,datasets_generated_ready_models/stylegan2/generated_images/087061.png,2,"pickup, pickup truck",0.0
+308,datasets_generated_ready_models/stylegan2/generated_images/087061.png,3,"grille, radiator grille",0.0
+309,datasets_generated_ready_models/stylegan2/generated_images/087061.png,4,"amphibian, amphibious vehicle",0.0
+310,datasets_generated_ready_models/stylegan2/generated_images/087062.png,0,moving van,0.46
+311,datasets_generated_ready_models/stylegan2/generated_images/087062.png,1,"limousine, limo",0.11
+312,datasets_generated_ready_models/stylegan2/generated_images/087062.png,2,street sign,0.07
+313,datasets_generated_ready_models/stylegan2/generated_images/087062.png,3,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.02
+314,datasets_generated_ready_models/stylegan2/generated_images/087062.png,4,"racer, race car, racing car",0.02
+315,datasets_generated_ready_models/stylegan2/generated_images/087063.png,0,"jeep, landrover",0.46
+316,datasets_generated_ready_models/stylegan2/generated_images/087063.png,1,"limousine, limo",0.12
+317,datasets_generated_ready_models/stylegan2/generated_images/087063.png,2,"pickup, pickup truck",0.1
+318,datasets_generated_ready_models/stylegan2/generated_images/087063.png,3,car wheel,0.07
+319,datasets_generated_ready_models/stylegan2/generated_images/087063.png,4,"snowplow, snowplough",0.01
+320,datasets_generated_ready_models/stylegan2/generated_images/087064.png,0,"sports car, sport car",0.32
+321,datasets_generated_ready_models/stylegan2/generated_images/087064.png,1,monitor,0.15
+322,datasets_generated_ready_models/stylegan2/generated_images/087064.png,2,convertible,0.08
+323,datasets_generated_ready_models/stylegan2/generated_images/087064.png,3,"limousine, limo",0.06
+324,datasets_generated_ready_models/stylegan2/generated_images/087064.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.06
+325,datasets_generated_ready_models/stylegan2/generated_images/087065.png,0,"grille, radiator grille",0.3
+326,datasets_generated_ready_models/stylegan2/generated_images/087065.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.24
+327,datasets_generated_ready_models/stylegan2/generated_images/087065.png,2,convertible,0.13
+328,datasets_generated_ready_models/stylegan2/generated_images/087065.png,3,"cab, hack, taxi, taxicab",0.03
+329,datasets_generated_ready_models/stylegan2/generated_images/087065.png,4,"limousine, limo",0.02
+330,datasets_generated_ready_models/stylegan2/generated_images/087066.png,0,"sports car, sport car",0.67
+331,datasets_generated_ready_models/stylegan2/generated_images/087066.png,1,car wheel,0.12
+332,datasets_generated_ready_models/stylegan2/generated_images/087066.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+333,datasets_generated_ready_models/stylegan2/generated_images/087066.png,3,convertible,0.02
+334,datasets_generated_ready_models/stylegan2/generated_images/087066.png,4,"grille, radiator grille",0.02
+335,datasets_generated_ready_models/stylegan2/generated_images/087067.png,0,"racer, race car, racing car",0.79
+336,datasets_generated_ready_models/stylegan2/generated_images/087067.png,1,car wheel,0.08
+337,datasets_generated_ready_models/stylegan2/generated_images/087067.png,2,"sports car, sport car",0.04
+338,datasets_generated_ready_models/stylegan2/generated_images/087067.png,3,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.0
+339,datasets_generated_ready_models/stylegan2/generated_images/087067.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+340,datasets_generated_ready_models/stylegan2/generated_images/087068.png,0,"cab, hack, taxi, taxicab",0.19
+341,datasets_generated_ready_models/stylegan2/generated_images/087068.png,1,"trolleybus, trolley coach, trackless trolley",0.18
+342,datasets_generated_ready_models/stylegan2/generated_images/087068.png,2,school bus,0.06
+343,datasets_generated_ready_models/stylegan2/generated_images/087068.png,3,minivan,0.04
+344,datasets_generated_ready_models/stylegan2/generated_images/087068.png,4,street sign,0.03
+345,datasets_generated_ready_models/stylegan2/generated_images/087069.png,0,convertible,0.54
+346,datasets_generated_ready_models/stylegan2/generated_images/087069.png,1,"sports car, sport car",0.26
+347,datasets_generated_ready_models/stylegan2/generated_images/087069.png,2,car wheel,0.04
+348,datasets_generated_ready_models/stylegan2/generated_images/087069.png,3,"grille, radiator grille",0.04
+349,datasets_generated_ready_models/stylegan2/generated_images/087069.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+350,datasets_generated_ready_models/stylegan2/generated_images/087070.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.29
+351,datasets_generated_ready_models/stylegan2/generated_images/087070.png,1,"grille, radiator grille",0.26
+352,datasets_generated_ready_models/stylegan2/generated_images/087070.png,2,convertible,0.16
+353,datasets_generated_ready_models/stylegan2/generated_images/087070.png,3,"pickup, pickup truck",0.03
+354,datasets_generated_ready_models/stylegan2/generated_images/087070.png,4,"racer, race car, racing car",0.03
+355,datasets_generated_ready_models/stylegan2/generated_images/087071.png,0,car wheel,0.37
+356,datasets_generated_ready_models/stylegan2/generated_images/087071.png,1,"limousine, limo",0.23
+357,datasets_generated_ready_models/stylegan2/generated_images/087071.png,2,convertible,0.1
+358,datasets_generated_ready_models/stylegan2/generated_images/087071.png,3,"sports car, sport car",0.1
+359,datasets_generated_ready_models/stylegan2/generated_images/087071.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.06
+360,datasets_generated_ready_models/stylegan2/generated_images/087072.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.71
+361,datasets_generated_ready_models/stylegan2/generated_images/087072.png,1,"sports car, sport car",0.1
+362,datasets_generated_ready_models/stylegan2/generated_images/087072.png,2,"grille, radiator grille",0.06
+363,datasets_generated_ready_models/stylegan2/generated_images/087072.png,3,car wheel,0.03
+364,datasets_generated_ready_models/stylegan2/generated_images/087072.png,4,"racer, race car, racing car",0.01
+365,datasets_generated_ready_models/stylegan2/generated_images/087073.png,0,go-kart,0.16
+366,datasets_generated_ready_models/stylegan2/generated_images/087073.png,1,minivan,0.12
+367,datasets_generated_ready_models/stylegan2/generated_images/087073.png,2,"golfcart, golf cart",0.05
+368,datasets_generated_ready_models/stylegan2/generated_images/087073.png,3,"racer, race car, racing car",0.04
+369,datasets_generated_ready_models/stylegan2/generated_images/087073.png,4,"traffic light, traffic signal, stoplight",0.04
+370,datasets_generated_ready_models/stylegan2/generated_images/087074.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.56
+371,datasets_generated_ready_models/stylegan2/generated_images/087074.png,1,"grille, radiator grille",0.11
+372,datasets_generated_ready_models/stylegan2/generated_images/087074.png,2,"sports car, sport car",0.1
+373,datasets_generated_ready_models/stylegan2/generated_images/087074.png,3,car wheel,0.07
+374,datasets_generated_ready_models/stylegan2/generated_images/087074.png,4,"racer, race car, racing car",0.06
+375,datasets_generated_ready_models/stylegan2/generated_images/087075.png,0,minivan,0.6
+376,datasets_generated_ready_models/stylegan2/generated_images/087075.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.27
+377,datasets_generated_ready_models/stylegan2/generated_images/087075.png,2,car wheel,0.01
+378,datasets_generated_ready_models/stylegan2/generated_images/087075.png,3,"limousine, limo",0.0
+379,datasets_generated_ready_models/stylegan2/generated_images/087075.png,4,"grille, radiator grille",0.0
+380,datasets_generated_ready_models/stylegan2/generated_images/087076.png,0,"grille, radiator grille",0.39
+381,datasets_generated_ready_models/stylegan2/generated_images/087076.png,1,"sports car, sport car",0.34
+382,datasets_generated_ready_models/stylegan2/generated_images/087076.png,2,minivan,0.06
+383,datasets_generated_ready_models/stylegan2/generated_images/087076.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+384,datasets_generated_ready_models/stylegan2/generated_images/087076.png,4,convertible,0.03
+385,datasets_generated_ready_models/stylegan2/generated_images/087077.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.48
+386,datasets_generated_ready_models/stylegan2/generated_images/087077.png,1,minivan,0.2
+387,datasets_generated_ready_models/stylegan2/generated_images/087077.png,2,"jeep, landrover",0.09
+388,datasets_generated_ready_models/stylegan2/generated_images/087077.png,3,car wheel,0.03
+389,datasets_generated_ready_models/stylegan2/generated_images/087077.png,4,"grille, radiator grille",0.03
+390,datasets_generated_ready_models/stylegan2/generated_images/087078.png,0,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.52
+391,datasets_generated_ready_models/stylegan2/generated_images/087078.png,1,"aircraft carrier, carrier, flattop, attack aircraft carrier",0.18
+392,datasets_generated_ready_models/stylegan2/generated_images/087078.png,2,"tow truck, tow car, wrecker",0.05
+393,datasets_generated_ready_models/stylegan2/generated_images/087078.png,3,"racer, race car, racing car",0.03
+394,datasets_generated_ready_models/stylegan2/generated_images/087078.png,4,"amphibian, amphibious vehicle",0.03
+395,datasets_generated_ready_models/stylegan2/generated_images/087079.png,0,"racer, race car, racing car",0.27
+396,datasets_generated_ready_models/stylegan2/generated_images/087079.png,1,"chain saw, chainsaw",0.11
+397,datasets_generated_ready_models/stylegan2/generated_images/087079.png,2,"airship, dirigible",0.11
+398,datasets_generated_ready_models/stylegan2/generated_images/087079.png,3,"radio telescope, radio reflector",0.11
+399,datasets_generated_ready_models/stylegan2/generated_images/087079.png,4,"sports car, sport car",0.06
+400,datasets_generated_ready_models/stylegan2/generated_images/087080.png,0,convertible,0.91
+401,datasets_generated_ready_models/stylegan2/generated_images/087080.png,1,"grille, radiator grille",0.01
+402,datasets_generated_ready_models/stylegan2/generated_images/087080.png,2,"sports car, sport car",0.0
+403,datasets_generated_ready_models/stylegan2/generated_images/087080.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+404,datasets_generated_ready_models/stylegan2/generated_images/087080.png,4,car wheel,0.0
+405,datasets_generated_ready_models/stylegan2/generated_images/087081.png,0,"grille, radiator grille",0.65
+406,datasets_generated_ready_models/stylegan2/generated_images/087081.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.12
+407,datasets_generated_ready_models/stylegan2/generated_images/087081.png,2,"cab, hack, taxi, taxicab",0.05
+408,datasets_generated_ready_models/stylegan2/generated_images/087081.png,3,"racer, race car, racing car",0.02
+409,datasets_generated_ready_models/stylegan2/generated_images/087081.png,4,"limousine, limo",0.01
+410,datasets_generated_ready_models/stylegan2/generated_images/087082.png,0,"pickup, pickup truck",0.24
+411,datasets_generated_ready_models/stylegan2/generated_images/087082.png,1,convertible,0.22
+412,datasets_generated_ready_models/stylegan2/generated_images/087082.png,2,"sports car, sport car",0.11
+413,datasets_generated_ready_models/stylegan2/generated_images/087082.png,3,"racer, race car, racing car",0.1
+414,datasets_generated_ready_models/stylegan2/generated_images/087082.png,4,car wheel,0.07
+415,datasets_generated_ready_models/stylegan2/generated_images/087083.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.95
+416,datasets_generated_ready_models/stylegan2/generated_images/087083.png,1,"grille, radiator grille",0.01
+417,datasets_generated_ready_models/stylegan2/generated_images/087083.png,2,"pickup, pickup truck",0.0
+418,datasets_generated_ready_models/stylegan2/generated_images/087083.png,3,car wheel,0.0
+419,datasets_generated_ready_models/stylegan2/generated_images/087083.png,4,"cab, hack, taxi, taxicab",0.0
+420,datasets_generated_ready_models/stylegan2/generated_images/087084.png,0,"pickup, pickup truck",0.68
+421,datasets_generated_ready_models/stylegan2/generated_images/087084.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.12
+422,datasets_generated_ready_models/stylegan2/generated_images/087084.png,2,"limousine, limo",0.04
+423,datasets_generated_ready_models/stylegan2/generated_images/087084.png,3,"grille, radiator grille",0.02
+424,datasets_generated_ready_models/stylegan2/generated_images/087084.png,4,convertible,0.02
+425,datasets_generated_ready_models/stylegan2/generated_images/087085.png,0,"sports car, sport car",0.67
+426,datasets_generated_ready_models/stylegan2/generated_images/087085.png,1,car wheel,0.12
+427,datasets_generated_ready_models/stylegan2/generated_images/087085.png,2,convertible,0.06
+428,datasets_generated_ready_models/stylegan2/generated_images/087085.png,3,"grille, radiator grille",0.03
+429,datasets_generated_ready_models/stylegan2/generated_images/087085.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+430,datasets_generated_ready_models/stylegan2/generated_images/087086.png,0,convertible,0.84
+431,datasets_generated_ready_models/stylegan2/generated_images/087086.png,1,"grille, radiator grille",0.04
+432,datasets_generated_ready_models/stylegan2/generated_images/087086.png,2,"pickup, pickup truck",0.01
+433,datasets_generated_ready_models/stylegan2/generated_images/087086.png,3,car wheel,0.01
+434,datasets_generated_ready_models/stylegan2/generated_images/087086.png,4,"sports car, sport car",0.01
+435,datasets_generated_ready_models/stylegan2/generated_images/087087.png,0,minivan,0.89
+436,datasets_generated_ready_models/stylegan2/generated_images/087087.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+437,datasets_generated_ready_models/stylegan2/generated_images/087087.png,2,car wheel,0.01
+438,datasets_generated_ready_models/stylegan2/generated_images/087087.png,3,"jeep, landrover",0.0
+439,datasets_generated_ready_models/stylegan2/generated_images/087087.png,4,minibus,0.0
+440,datasets_generated_ready_models/stylegan2/generated_images/087088.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.28
+441,datasets_generated_ready_models/stylegan2/generated_images/087088.png,1,"grille, radiator grille",0.27
+442,datasets_generated_ready_models/stylegan2/generated_images/087088.png,2,car wheel,0.22
+443,datasets_generated_ready_models/stylegan2/generated_images/087088.png,3,"pickup, pickup truck",0.04
+444,datasets_generated_ready_models/stylegan2/generated_images/087088.png,4,"cab, hack, taxi, taxicab",0.04
+445,datasets_generated_ready_models/stylegan2/generated_images/087089.png,0,"sports car, sport car",0.47
+446,datasets_generated_ready_models/stylegan2/generated_images/087089.png,1,convertible,0.24
+447,datasets_generated_ready_models/stylegan2/generated_images/087089.png,2,"racer, race car, racing car",0.06
+448,datasets_generated_ready_models/stylegan2/generated_images/087089.png,3,car wheel,0.03
+449,datasets_generated_ready_models/stylegan2/generated_images/087089.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+450,datasets_generated_ready_models/stylegan2/generated_images/087090.png,0,minivan,0.33
+451,datasets_generated_ready_models/stylegan2/generated_images/087090.png,1,"grille, radiator grille",0.28
+452,datasets_generated_ready_models/stylegan2/generated_images/087090.png,2,"sports car, sport car",0.08
+453,datasets_generated_ready_models/stylegan2/generated_images/087090.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.07
+454,datasets_generated_ready_models/stylegan2/generated_images/087090.png,4,car wheel,0.05
+455,datasets_generated_ready_models/stylegan2/generated_images/087091.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.37
+456,datasets_generated_ready_models/stylegan2/generated_images/087091.png,1,car wheel,0.35
+457,datasets_generated_ready_models/stylegan2/generated_images/087091.png,2,"sports car, sport car",0.11
+458,datasets_generated_ready_models/stylegan2/generated_images/087091.png,3,"racer, race car, racing car",0.02
+459,datasets_generated_ready_models/stylegan2/generated_images/087091.png,4,convertible,0.01
+460,datasets_generated_ready_models/stylegan2/generated_images/087092.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.57
+461,datasets_generated_ready_models/stylegan2/generated_images/087092.png,1,"pickup, pickup truck",0.17
+462,datasets_generated_ready_models/stylegan2/generated_images/087092.png,2,"jeep, landrover",0.1
+463,datasets_generated_ready_models/stylegan2/generated_images/087092.png,3,"grille, radiator grille",0.03
+464,datasets_generated_ready_models/stylegan2/generated_images/087092.png,4,car wheel,0.03
+465,datasets_generated_ready_models/stylegan2/generated_images/087093.png,0,"carousel, carrousel, merry-go-round, roundabout, whirligig",0.17
+466,datasets_generated_ready_models/stylegan2/generated_images/087093.png,1,pole,0.07
+467,datasets_generated_ready_models/stylegan2/generated_images/087093.png,2,"lumbermill, sawmill",0.06
+468,datasets_generated_ready_models/stylegan2/generated_images/087093.png,3,"streetcar, tram, tramcar, trolley, trolley car",0.05
+469,datasets_generated_ready_models/stylegan2/generated_images/087093.png,4,"limousine, limo",0.05
+470,datasets_generated_ready_models/stylegan2/generated_images/087094.png,0,snowmobile,0.33
+471,datasets_generated_ready_models/stylegan2/generated_images/087094.png,1,car wheel,0.29
+472,datasets_generated_ready_models/stylegan2/generated_images/087094.png,2,"sports car, sport car",0.09
+473,datasets_generated_ready_models/stylegan2/generated_images/087094.png,3,"limousine, limo",0.04
+474,datasets_generated_ready_models/stylegan2/generated_images/087094.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+475,datasets_generated_ready_models/stylegan2/generated_images/087095.png,0,convertible,0.95
+476,datasets_generated_ready_models/stylegan2/generated_images/087095.png,1,"sports car, sport car",0.01
+477,datasets_generated_ready_models/stylegan2/generated_images/087095.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+478,datasets_generated_ready_models/stylegan2/generated_images/087095.png,3,"amphibian, amphibious vehicle",0.0
+479,datasets_generated_ready_models/stylegan2/generated_images/087095.png,4,car wheel,0.0
+480,datasets_generated_ready_models/stylegan2/generated_images/087096.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.79
+481,datasets_generated_ready_models/stylegan2/generated_images/087096.png,1,car wheel,0.05
+482,datasets_generated_ready_models/stylegan2/generated_images/087096.png,2,convertible,0.03
+483,datasets_generated_ready_models/stylegan2/generated_images/087096.png,3,"grille, radiator grille",0.02
+484,datasets_generated_ready_models/stylegan2/generated_images/087096.png,4,"limousine, limo",0.02
+485,datasets_generated_ready_models/stylegan2/generated_images/087097.png,0,"jeep, landrover",0.96
+486,datasets_generated_ready_models/stylegan2/generated_images/087097.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+487,datasets_generated_ready_models/stylegan2/generated_images/087097.png,2,"amphibian, amphibious vehicle",0.0
+488,datasets_generated_ready_models/stylegan2/generated_images/087097.png,3,minivan,0.0
+489,datasets_generated_ready_models/stylegan2/generated_images/087097.png,4,minibus,0.0
+490,datasets_generated_ready_models/stylegan2/generated_images/087098.png,0,minivan,0.46
+491,datasets_generated_ready_models/stylegan2/generated_images/087098.png,1,convertible,0.1
+492,datasets_generated_ready_models/stylegan2/generated_images/087098.png,2,car wheel,0.07
+493,datasets_generated_ready_models/stylegan2/generated_images/087098.png,3,"grille, radiator grille",0.07
+494,datasets_generated_ready_models/stylegan2/generated_images/087098.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.07
+495,datasets_generated_ready_models/stylegan2/generated_images/087099.png,0,minivan,0.23
+496,datasets_generated_ready_models/stylegan2/generated_images/087099.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.18
+497,datasets_generated_ready_models/stylegan2/generated_images/087099.png,2,minibus,0.13
+498,datasets_generated_ready_models/stylegan2/generated_images/087099.png,3,"recreational vehicle, RV, R.V.",0.06
+499,datasets_generated_ready_models/stylegan2/generated_images/087099.png,4,"limousine, limo",0.06
+500,datasets_generated_ready_models/stylegan2/generated_images/087100.png,0,convertible,0.77
+501,datasets_generated_ready_models/stylegan2/generated_images/087100.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.06
+502,datasets_generated_ready_models/stylegan2/generated_images/087100.png,2,"grille, radiator grille",0.05
+503,datasets_generated_ready_models/stylegan2/generated_images/087100.png,3,car wheel,0.0
+504,datasets_generated_ready_models/stylegan2/generated_images/087100.png,4,"cab, hack, taxi, taxicab",0.0
+505,datasets_generated_ready_models/stylegan2/generated_images/087101.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.58
+506,datasets_generated_ready_models/stylegan2/generated_images/087101.png,1,"limousine, limo",0.15
+507,datasets_generated_ready_models/stylegan2/generated_images/087101.png,2,car wheel,0.07
+508,datasets_generated_ready_models/stylegan2/generated_images/087101.png,3,"cab, hack, taxi, taxicab",0.05
+509,datasets_generated_ready_models/stylegan2/generated_images/087101.png,4,"grille, radiator grille",0.01
+510,datasets_generated_ready_models/stylegan2/generated_images/087102.png,0,"pickup, pickup truck",0.87
+511,datasets_generated_ready_models/stylegan2/generated_images/087102.png,1,"grille, radiator grille",0.02
+512,datasets_generated_ready_models/stylegan2/generated_images/087102.png,2,car wheel,0.02
+513,datasets_generated_ready_models/stylegan2/generated_images/087102.png,3,minivan,0.01
+514,datasets_generated_ready_models/stylegan2/generated_images/087102.png,4,"tow truck, tow car, wrecker",0.01
+515,datasets_generated_ready_models/stylegan2/generated_images/087103.png,0,car wheel,0.89
+516,datasets_generated_ready_models/stylegan2/generated_images/087103.png,1,"disk brake, disc brake",0.03
+517,datasets_generated_ready_models/stylegan2/generated_images/087103.png,2,"sports car, sport car",0.0
+518,datasets_generated_ready_models/stylegan2/generated_images/087103.png,3,Model T,0.0
+519,datasets_generated_ready_models/stylegan2/generated_images/087103.png,4,tarantula,0.0
+520,datasets_generated_ready_models/stylegan2/generated_images/087104.png,0,convertible,0.82
+521,datasets_generated_ready_models/stylegan2/generated_images/087104.png,1,"sports car, sport car",0.04
+522,datasets_generated_ready_models/stylegan2/generated_images/087104.png,2,"grille, radiator grille",0.03
+523,datasets_generated_ready_models/stylegan2/generated_images/087104.png,3,"jeep, landrover",0.02
+524,datasets_generated_ready_models/stylegan2/generated_images/087104.png,4,car wheel,0.01
+525,datasets_generated_ready_models/stylegan2/generated_images/087105.png,0,minivan,0.85
+526,datasets_generated_ready_models/stylegan2/generated_images/087105.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.07
+527,datasets_generated_ready_models/stylegan2/generated_images/087105.png,2,car wheel,0.02
+528,datasets_generated_ready_models/stylegan2/generated_images/087105.png,3,"limousine, limo",0.0
+529,datasets_generated_ready_models/stylegan2/generated_images/087105.png,4,"grille, radiator grille",0.0
+530,datasets_generated_ready_models/stylegan2/generated_images/087106.png,0,convertible,0.31
+531,datasets_generated_ready_models/stylegan2/generated_images/087106.png,1,"pickup, pickup truck",0.27
+532,datasets_generated_ready_models/stylegan2/generated_images/087106.png,2,"amphibian, amphibious vehicle",0.12
+533,datasets_generated_ready_models/stylegan2/generated_images/087106.png,3,"jeep, landrover",0.02
+534,datasets_generated_ready_models/stylegan2/generated_images/087106.png,4,Model T,0.02
+535,datasets_generated_ready_models/stylegan2/generated_images/087107.png,0,"grille, radiator grille",0.3
+536,datasets_generated_ready_models/stylegan2/generated_images/087107.png,1,convertible,0.24
+537,datasets_generated_ready_models/stylegan2/generated_images/087107.png,2,"sports car, sport car",0.22
+538,datasets_generated_ready_models/stylegan2/generated_images/087107.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.11
+539,datasets_generated_ready_models/stylegan2/generated_images/087107.png,4,"racer, race car, racing car",0.02
+540,datasets_generated_ready_models/stylegan2/generated_images/087108.png,0,car wheel,0.48
+541,datasets_generated_ready_models/stylegan2/generated_images/087108.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.22
+542,datasets_generated_ready_models/stylegan2/generated_images/087108.png,2,"limousine, limo",0.18
+543,datasets_generated_ready_models/stylegan2/generated_images/087108.png,3,"cab, hack, taxi, taxicab",0.02
+544,datasets_generated_ready_models/stylegan2/generated_images/087108.png,4,"grille, radiator grille",0.01
+545,datasets_generated_ready_models/stylegan2/generated_images/087109.png,0,car wheel,0.27
+546,datasets_generated_ready_models/stylegan2/generated_images/087109.png,1,"sports car, sport car",0.26
+547,datasets_generated_ready_models/stylegan2/generated_images/087109.png,2,minivan,0.07
+548,datasets_generated_ready_models/stylegan2/generated_images/087109.png,3,"grille, radiator grille",0.06
+549,datasets_generated_ready_models/stylegan2/generated_images/087109.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.05
+550,datasets_generated_ready_models/stylegan2/generated_images/087110.png,0,"sports car, sport car",0.68
+551,datasets_generated_ready_models/stylegan2/generated_images/087110.png,1,convertible,0.18
+552,datasets_generated_ready_models/stylegan2/generated_images/087110.png,2,"grille, radiator grille",0.04
+553,datasets_generated_ready_models/stylegan2/generated_images/087110.png,3,car wheel,0.0
+554,datasets_generated_ready_models/stylegan2/generated_images/087110.png,4,"racer, race car, racing car",0.0
+555,datasets_generated_ready_models/stylegan2/generated_images/087111.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.46
+556,datasets_generated_ready_models/stylegan2/generated_images/087111.png,1,car wheel,0.43
+557,datasets_generated_ready_models/stylegan2/generated_images/087111.png,2,"tow truck, tow car, wrecker",0.01
+558,datasets_generated_ready_models/stylegan2/generated_images/087111.png,3,minivan,0.01
+559,datasets_generated_ready_models/stylegan2/generated_images/087111.png,4,"pickup, pickup truck",0.01
+560,datasets_generated_ready_models/stylegan2/generated_images/087112.png,0,"sports car, sport car",0.53
+561,datasets_generated_ready_models/stylegan2/generated_images/087112.png,1,car wheel,0.22
+562,datasets_generated_ready_models/stylegan2/generated_images/087112.png,2,minivan,0.02
+563,datasets_generated_ready_models/stylegan2/generated_images/087112.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+564,datasets_generated_ready_models/stylegan2/generated_images/087112.png,4,"grille, radiator grille",0.02
+565,datasets_generated_ready_models/stylegan2/generated_images/087113.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.38
+566,datasets_generated_ready_models/stylegan2/generated_images/087113.png,1,car wheel,0.25
+567,datasets_generated_ready_models/stylegan2/generated_images/087113.png,2,"sports car, sport car",0.11
+568,datasets_generated_ready_models/stylegan2/generated_images/087113.png,3,"grille, radiator grille",0.07
+569,datasets_generated_ready_models/stylegan2/generated_images/087113.png,4,"limousine, limo",0.06
+570,datasets_generated_ready_models/stylegan2/generated_images/087114.png,0,"sports car, sport car",0.43
+571,datasets_generated_ready_models/stylegan2/generated_images/087114.png,1,car wheel,0.27
+572,datasets_generated_ready_models/stylegan2/generated_images/087114.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.07
+573,datasets_generated_ready_models/stylegan2/generated_images/087114.png,3,"grille, radiator grille",0.07
+574,datasets_generated_ready_models/stylegan2/generated_images/087114.png,4,minivan,0.02
+575,datasets_generated_ready_models/stylegan2/generated_images/087115.png,0,"limousine, limo",0.84
+576,datasets_generated_ready_models/stylegan2/generated_images/087115.png,1,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.02
+577,datasets_generated_ready_models/stylegan2/generated_images/087115.png,2,moving van,0.02
+578,datasets_generated_ready_models/stylegan2/generated_images/087115.png,3,"prison, prison house",0.02
+579,datasets_generated_ready_models/stylegan2/generated_images/087115.png,4,minibus,0.02
+580,datasets_generated_ready_models/stylegan2/generated_images/087116.png,0,"sports car, sport car",0.59
+581,datasets_generated_ready_models/stylegan2/generated_images/087116.png,1,car wheel,0.14
+582,datasets_generated_ready_models/stylegan2/generated_images/087116.png,2,"limousine, limo",0.09
+583,datasets_generated_ready_models/stylegan2/generated_images/087116.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+584,datasets_generated_ready_models/stylegan2/generated_images/087116.png,4,"grille, radiator grille",0.01
+585,datasets_generated_ready_models/stylegan2/generated_images/087117.png,0,convertible,0.68
+586,datasets_generated_ready_models/stylegan2/generated_images/087117.png,1,"sports car, sport car",0.16
+587,datasets_generated_ready_models/stylegan2/generated_images/087117.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+588,datasets_generated_ready_models/stylegan2/generated_images/087117.png,3,car wheel,0.04
+589,datasets_generated_ready_models/stylegan2/generated_images/087117.png,4,"grille, radiator grille",0.0
+590,datasets_generated_ready_models/stylegan2/generated_images/087118.png,0,minivan,0.8
+591,datasets_generated_ready_models/stylegan2/generated_images/087118.png,1,"jeep, landrover",0.04
+592,datasets_generated_ready_models/stylegan2/generated_images/087118.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+593,datasets_generated_ready_models/stylegan2/generated_images/087118.png,3,sleeping bag,0.01
+594,datasets_generated_ready_models/stylegan2/generated_images/087118.png,4,minibus,0.01
+595,datasets_generated_ready_models/stylegan2/generated_images/087119.png,0,convertible,0.94
+596,datasets_generated_ready_models/stylegan2/generated_images/087119.png,1,"sports car, sport car",0.02
+597,datasets_generated_ready_models/stylegan2/generated_images/087119.png,2,car wheel,0.0
+598,datasets_generated_ready_models/stylegan2/generated_images/087119.png,3,"grille, radiator grille",0.0
+599,datasets_generated_ready_models/stylegan2/generated_images/087119.png,4,"amphibian, amphibious vehicle",0.0
+600,datasets_generated_ready_models/stylegan2/generated_images/087120.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.55
+601,datasets_generated_ready_models/stylegan2/generated_images/087120.png,1,car wheel,0.34
+602,datasets_generated_ready_models/stylegan2/generated_images/087120.png,2,"limousine, limo",0.03
+603,datasets_generated_ready_models/stylegan2/generated_images/087120.png,3,"cab, hack, taxi, taxicab",0.01
+604,datasets_generated_ready_models/stylegan2/generated_images/087120.png,4,"grille, radiator grille",0.01
+605,datasets_generated_ready_models/stylegan2/generated_images/087121.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.83
+606,datasets_generated_ready_models/stylegan2/generated_images/087121.png,1,car wheel,0.08
+607,datasets_generated_ready_models/stylegan2/generated_images/087121.png,2,"grille, radiator grille",0.01
+608,datasets_generated_ready_models/stylegan2/generated_images/087121.png,3,"sports car, sport car",0.01
+609,datasets_generated_ready_models/stylegan2/generated_images/087121.png,4,convertible,0.01
+610,datasets_generated_ready_models/stylegan2/generated_images/087122.png,0,"bobsled, bobsleigh, bob",0.46
+611,datasets_generated_ready_models/stylegan2/generated_images/087122.png,1,ambulance,0.22
+612,datasets_generated_ready_models/stylegan2/generated_images/087122.png,2,"racer, race car, racing car",0.15
+613,datasets_generated_ready_models/stylegan2/generated_images/087122.png,3,minibus,0.02
+614,datasets_generated_ready_models/stylegan2/generated_images/087122.png,4,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.02
+615,datasets_generated_ready_models/stylegan2/generated_images/087123.png,0,"sports car, sport car",0.51
+616,datasets_generated_ready_models/stylegan2/generated_images/087123.png,1,"racer, race car, racing car",0.18
+617,datasets_generated_ready_models/stylegan2/generated_images/087123.png,2,car wheel,0.11
+618,datasets_generated_ready_models/stylegan2/generated_images/087123.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+619,datasets_generated_ready_models/stylegan2/generated_images/087123.png,4,"cab, hack, taxi, taxicab",0.02
+620,datasets_generated_ready_models/stylegan2/generated_images/087124.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.93
+621,datasets_generated_ready_models/stylegan2/generated_images/087124.png,1,minivan,0.01
+622,datasets_generated_ready_models/stylegan2/generated_images/087124.png,2,car wheel,0.01
+623,datasets_generated_ready_models/stylegan2/generated_images/087124.png,3,"limousine, limo",0.0
+624,datasets_generated_ready_models/stylegan2/generated_images/087124.png,4,"grille, radiator grille",0.0
+625,datasets_generated_ready_models/stylegan2/generated_images/087125.png,0,"pickup, pickup truck",0.94
+626,datasets_generated_ready_models/stylegan2/generated_images/087125.png,1,"snowplow, snowplough",0.0
+627,datasets_generated_ready_models/stylegan2/generated_images/087125.png,2,car wheel,0.0
+628,datasets_generated_ready_models/stylegan2/generated_images/087125.png,3,"tow truck, tow car, wrecker",0.0
+629,datasets_generated_ready_models/stylegan2/generated_images/087125.png,4,minivan,0.0
+630,datasets_generated_ready_models/stylegan2/generated_images/087126.png,0,half track,0.35
+631,datasets_generated_ready_models/stylegan2/generated_images/087126.png,1,tractor,0.15
+632,datasets_generated_ready_models/stylegan2/generated_images/087126.png,2,"lawn mower, mower",0.1
+633,datasets_generated_ready_models/stylegan2/generated_images/087126.png,3,"plow, plough",0.09
+634,datasets_generated_ready_models/stylegan2/generated_images/087126.png,4,cannon,0.03
+635,datasets_generated_ready_models/stylegan2/generated_images/087127.png,0,"grille, radiator grille",0.5
+636,datasets_generated_ready_models/stylegan2/generated_images/087127.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.23
+637,datasets_generated_ready_models/stylegan2/generated_images/087127.png,2,convertible,0.07
+638,datasets_generated_ready_models/stylegan2/generated_images/087127.png,3,"pickup, pickup truck",0.04
+639,datasets_generated_ready_models/stylegan2/generated_images/087127.png,4,car wheel,0.01
+640,datasets_generated_ready_models/stylegan2/generated_images/087128.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.49
+641,datasets_generated_ready_models/stylegan2/generated_images/087128.png,1,car wheel,0.46
+642,datasets_generated_ready_models/stylegan2/generated_images/087128.png,2,"cab, hack, taxi, taxicab",0.01
+643,datasets_generated_ready_models/stylegan2/generated_images/087128.png,3,"tow truck, tow car, wrecker",0.0
+644,datasets_generated_ready_models/stylegan2/generated_images/087128.png,4,minivan,0.0
+645,datasets_generated_ready_models/stylegan2/generated_images/087129.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.92
+646,datasets_generated_ready_models/stylegan2/generated_images/087129.png,1,"grille, radiator grille",0.01
+647,datasets_generated_ready_models/stylegan2/generated_images/087129.png,2,minivan,0.01
+648,datasets_generated_ready_models/stylegan2/generated_images/087129.png,3,car wheel,0.0
+649,datasets_generated_ready_models/stylegan2/generated_images/087129.png,4,"jeep, landrover",0.0
+650,datasets_generated_ready_models/stylegan2/generated_images/087130.png,0,car wheel,0.84
+651,datasets_generated_ready_models/stylegan2/generated_images/087130.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+652,datasets_generated_ready_models/stylegan2/generated_images/087130.png,2,"sports car, sport car",0.02
+653,datasets_generated_ready_models/stylegan2/generated_images/087130.png,3,"cab, hack, taxi, taxicab",0.01
+654,datasets_generated_ready_models/stylegan2/generated_images/087130.png,4,"jean, blue jean, denim",0.01
+655,datasets_generated_ready_models/stylegan2/generated_images/087131.png,0,car wheel,0.63
+656,datasets_generated_ready_models/stylegan2/generated_images/087131.png,1,"sports car, sport car",0.22
+657,datasets_generated_ready_models/stylegan2/generated_images/087131.png,2,"grille, radiator grille",0.04
+658,datasets_generated_ready_models/stylegan2/generated_images/087131.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+659,datasets_generated_ready_models/stylegan2/generated_images/087131.png,4,"racer, race car, racing car",0.0
+660,datasets_generated_ready_models/stylegan2/generated_images/087132.png,0,"tow truck, tow car, wrecker",0.89
+661,datasets_generated_ready_models/stylegan2/generated_images/087132.png,1,"amphibian, amphibious vehicle",0.02
+662,datasets_generated_ready_models/stylegan2/generated_images/087132.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+663,datasets_generated_ready_models/stylegan2/generated_images/087132.png,3,"plow, plough",0.01
+664,datasets_generated_ready_models/stylegan2/generated_images/087132.png,4,car wheel,0.01
+665,datasets_generated_ready_models/stylegan2/generated_images/087133.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.57
+666,datasets_generated_ready_models/stylegan2/generated_images/087133.png,1,minivan,0.18
+667,datasets_generated_ready_models/stylegan2/generated_images/087133.png,2,"cab, hack, taxi, taxicab",0.04
+668,datasets_generated_ready_models/stylegan2/generated_images/087133.png,3,car wheel,0.03
+669,datasets_generated_ready_models/stylegan2/generated_images/087133.png,4,"grille, radiator grille",0.01
+670,datasets_generated_ready_models/stylegan2/generated_images/087134.png,0,"sports car, sport car",0.44
+671,datasets_generated_ready_models/stylegan2/generated_images/087134.png,1,"racer, race car, racing car",0.33
+672,datasets_generated_ready_models/stylegan2/generated_images/087134.png,2,car wheel,0.13
+673,datasets_generated_ready_models/stylegan2/generated_images/087134.png,3,convertible,0.0
+674,datasets_generated_ready_models/stylegan2/generated_images/087134.png,4,"grille, radiator grille",0.0
+675,datasets_generated_ready_models/stylegan2/generated_images/087135.png,0,ambulance,0.3
+676,datasets_generated_ready_models/stylegan2/generated_images/087135.png,1,"racer, race car, racing car",0.19
+677,datasets_generated_ready_models/stylegan2/generated_images/087135.png,2,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.18
+678,datasets_generated_ready_models/stylegan2/generated_images/087135.png,3,"cab, hack, taxi, taxicab",0.08
+679,datasets_generated_ready_models/stylegan2/generated_images/087135.png,4,street sign,0.01
+680,datasets_generated_ready_models/stylegan2/generated_images/087136.png,0,convertible,0.38
+681,datasets_generated_ready_models/stylegan2/generated_images/087136.png,1,car wheel,0.34
+682,datasets_generated_ready_models/stylegan2/generated_images/087136.png,2,"sports car, sport car",0.05
+683,datasets_generated_ready_models/stylegan2/generated_images/087136.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+684,datasets_generated_ready_models/stylegan2/generated_images/087136.png,4,"pickup, pickup truck",0.0
+685,datasets_generated_ready_models/stylegan2/generated_images/087137.png,0,"harvester, reaper",0.45
+686,datasets_generated_ready_models/stylegan2/generated_images/087137.png,1,"racer, race car, racing car",0.13
+687,datasets_generated_ready_models/stylegan2/generated_images/087137.png,2,"amphibian, amphibious vehicle",0.11
+688,datasets_generated_ready_models/stylegan2/generated_images/087137.png,3,"lawn mower, mower",0.05
+689,datasets_generated_ready_models/stylegan2/generated_images/087137.png,4,"thresher, thrasher, threshing machine",0.02
+690,datasets_generated_ready_models/stylegan2/generated_images/087138.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.94
+691,datasets_generated_ready_models/stylegan2/generated_images/087138.png,1,"grille, radiator grille",0.01
+692,datasets_generated_ready_models/stylegan2/generated_images/087138.png,2,car wheel,0.0
+693,datasets_generated_ready_models/stylegan2/generated_images/087138.png,3,"limousine, limo",0.0
+694,datasets_generated_ready_models/stylegan2/generated_images/087138.png,4,convertible,0.0
+695,datasets_generated_ready_models/stylegan2/generated_images/087139.png,0,"racer, race car, racing car",0.43
+696,datasets_generated_ready_models/stylegan2/generated_images/087139.png,1,"sports car, sport car",0.19
+697,datasets_generated_ready_models/stylegan2/generated_images/087139.png,2,"cab, hack, taxi, taxicab",0.14
+698,datasets_generated_ready_models/stylegan2/generated_images/087139.png,3,ambulance,0.06
+699,datasets_generated_ready_models/stylegan2/generated_images/087139.png,4,car wheel,0.03
+700,datasets_generated_ready_models/stylegan2/generated_images/087140.png,0,"sports car, sport car",0.45
+701,datasets_generated_ready_models/stylegan2/generated_images/087140.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.19
+702,datasets_generated_ready_models/stylegan2/generated_images/087140.png,2,car wheel,0.13
+703,datasets_generated_ready_models/stylegan2/generated_images/087140.png,3,convertible,0.11
+704,datasets_generated_ready_models/stylegan2/generated_images/087140.png,4,"racer, race car, racing car",0.02
+705,datasets_generated_ready_models/stylegan2/generated_images/087141.png,0,go-kart,0.42
+706,datasets_generated_ready_models/stylegan2/generated_images/087141.png,1,"racer, race car, racing car",0.3
+707,datasets_generated_ready_models/stylegan2/generated_images/087141.png,2,"golfcart, golf cart",0.03
+708,datasets_generated_ready_models/stylegan2/generated_images/087141.png,3,"lawn mower, mower",0.02
+709,datasets_generated_ready_models/stylegan2/generated_images/087141.png,4,car wheel,0.01
+710,datasets_generated_ready_models/stylegan2/generated_images/087142.png,0,"golfcart, golf cart",0.27
+711,datasets_generated_ready_models/stylegan2/generated_images/087142.png,1,"amphibian, amphibious vehicle",0.16
+712,datasets_generated_ready_models/stylegan2/generated_images/087142.png,2,"racer, race car, racing car",0.09
+713,datasets_generated_ready_models/stylegan2/generated_images/087142.png,3,trimaran,0.07
+714,datasets_generated_ready_models/stylegan2/generated_images/087142.png,4,"limousine, limo",0.04
+715,datasets_generated_ready_models/stylegan2/generated_images/087143.png,0,"racer, race car, racing car",0.46
+716,datasets_generated_ready_models/stylegan2/generated_images/087143.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.13
+717,datasets_generated_ready_models/stylegan2/generated_images/087143.png,2,"pickup, pickup truck",0.07
+718,datasets_generated_ready_models/stylegan2/generated_images/087143.png,3,"sports car, sport car",0.06
+719,datasets_generated_ready_models/stylegan2/generated_images/087143.png,4,car wheel,0.05
+720,datasets_generated_ready_models/stylegan2/generated_images/087144.png,0,convertible,0.46
+721,datasets_generated_ready_models/stylegan2/generated_images/087144.png,1,"sports car, sport car",0.34
+722,datasets_generated_ready_models/stylegan2/generated_images/087144.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+723,datasets_generated_ready_models/stylegan2/generated_images/087144.png,3,"pickup, pickup truck",0.02
+724,datasets_generated_ready_models/stylegan2/generated_images/087144.png,4,"grille, radiator grille",0.02
+725,datasets_generated_ready_models/stylegan2/generated_images/087145.png,0,minivan,0.59
+726,datasets_generated_ready_models/stylegan2/generated_images/087145.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.3
+727,datasets_generated_ready_models/stylegan2/generated_images/087145.png,2,"grille, radiator grille",0.02
+728,datasets_generated_ready_models/stylegan2/generated_images/087145.png,3,car wheel,0.01
+729,datasets_generated_ready_models/stylegan2/generated_images/087145.png,4,minibus,0.0
+730,datasets_generated_ready_models/stylegan2/generated_images/087146.png,0,car wheel,0.47
+731,datasets_generated_ready_models/stylegan2/generated_images/087146.png,1,minivan,0.39
+732,datasets_generated_ready_models/stylegan2/generated_images/087146.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+733,datasets_generated_ready_models/stylegan2/generated_images/087146.png,3,"cab, hack, taxi, taxicab",0.0
+734,datasets_generated_ready_models/stylegan2/generated_images/087146.png,4,"limousine, limo",0.0
+735,datasets_generated_ready_models/stylegan2/generated_images/087147.png,0,"grille, radiator grille",0.4
+736,datasets_generated_ready_models/stylegan2/generated_images/087147.png,1,"sports car, sport car",0.28
+737,datasets_generated_ready_models/stylegan2/generated_images/087147.png,2,convertible,0.1
+738,datasets_generated_ready_models/stylegan2/generated_images/087147.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.06
+739,datasets_generated_ready_models/stylegan2/generated_images/087147.png,4,car wheel,0.02
+740,datasets_generated_ready_models/stylegan2/generated_images/087148.png,0,minivan,0.93
+741,datasets_generated_ready_models/stylegan2/generated_images/087148.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+742,datasets_generated_ready_models/stylegan2/generated_images/087148.png,2,minibus,0.0
+743,datasets_generated_ready_models/stylegan2/generated_images/087148.png,3,cassette player,0.0
+744,datasets_generated_ready_models/stylegan2/generated_images/087148.png,4,car wheel,0.0
+745,datasets_generated_ready_models/stylegan2/generated_images/087149.png,0,minivan,0.52
+746,datasets_generated_ready_models/stylegan2/generated_images/087149.png,1,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.17
+747,datasets_generated_ready_models/stylegan2/generated_images/087149.png,2,minibus,0.07
+748,datasets_generated_ready_models/stylegan2/generated_images/087149.png,3,moving van,0.04
+749,datasets_generated_ready_models/stylegan2/generated_images/087149.png,4,ambulance,0.03
+750,datasets_generated_ready_models/stylegan2/generated_images/087150.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.27
+751,datasets_generated_ready_models/stylegan2/generated_images/087150.png,1,"pickup, pickup truck",0.24
+752,datasets_generated_ready_models/stylegan2/generated_images/087150.png,2,minivan,0.1
+753,datasets_generated_ready_models/stylegan2/generated_images/087150.png,3,minibus,0.08
+754,datasets_generated_ready_models/stylegan2/generated_images/087150.png,4,rain barrel,0.01
+755,datasets_generated_ready_models/stylegan2/generated_images/087151.png,0,"limousine, limo",0.59
+756,datasets_generated_ready_models/stylegan2/generated_images/087151.png,1,minivan,0.16
+757,datasets_generated_ready_models/stylegan2/generated_images/087151.png,2,minibus,0.03
+758,datasets_generated_ready_models/stylegan2/generated_images/087151.png,3,"pickup, pickup truck",0.03
+759,datasets_generated_ready_models/stylegan2/generated_images/087151.png,4,moving van,0.01
+760,datasets_generated_ready_models/stylegan2/generated_images/087152.png,0,"web site, website, internet site, site",0.52
+761,datasets_generated_ready_models/stylegan2/generated_images/087152.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.17
+762,datasets_generated_ready_models/stylegan2/generated_images/087152.png,2,"pickup, pickup truck",0.06
+763,datasets_generated_ready_models/stylegan2/generated_images/087152.png,3,convertible,0.04
+764,datasets_generated_ready_models/stylegan2/generated_images/087152.png,4,"limousine, limo",0.03
+765,datasets_generated_ready_models/stylegan2/generated_images/087153.png,0,"sports car, sport car",0.8
+766,datasets_generated_ready_models/stylegan2/generated_images/087153.png,1,convertible,0.05
+767,datasets_generated_ready_models/stylegan2/generated_images/087153.png,2,"web site, website, internet site, site",0.01
+768,datasets_generated_ready_models/stylegan2/generated_images/087153.png,3,"grille, radiator grille",0.01
+769,datasets_generated_ready_models/stylegan2/generated_images/087153.png,4,"amphibian, amphibious vehicle",0.0
+770,datasets_generated_ready_models/stylegan2/generated_images/087154.png,0,ambulance,0.32
+771,datasets_generated_ready_models/stylegan2/generated_images/087154.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.14
+772,datasets_generated_ready_models/stylegan2/generated_images/087154.png,2,minibus,0.1
+773,datasets_generated_ready_models/stylegan2/generated_images/087154.png,3,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.06
+774,datasets_generated_ready_models/stylegan2/generated_images/087154.png,4,"pickup, pickup truck",0.05
+775,datasets_generated_ready_models/stylegan2/generated_images/087155.png,0,convertible,0.9
+776,datasets_generated_ready_models/stylegan2/generated_images/087155.png,1,"sports car, sport car",0.01
+777,datasets_generated_ready_models/stylegan2/generated_images/087155.png,2,"pickup, pickup truck",0.0
+778,datasets_generated_ready_models/stylegan2/generated_images/087155.png,3,"web site, website, internet site, site",0.0
+779,datasets_generated_ready_models/stylegan2/generated_images/087155.png,4,car wheel,0.0
+780,datasets_generated_ready_models/stylegan2/generated_images/087156.png,0,minivan,0.82
+781,datasets_generated_ready_models/stylegan2/generated_images/087156.png,1,cassette player,0.03
+782,datasets_generated_ready_models/stylegan2/generated_images/087156.png,2,"grille, radiator grille",0.01
+783,datasets_generated_ready_models/stylegan2/generated_images/087156.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+784,datasets_generated_ready_models/stylegan2/generated_images/087156.png,4,car wheel,0.0
+785,datasets_generated_ready_models/stylegan2/generated_images/087157.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.72
+786,datasets_generated_ready_models/stylegan2/generated_images/087157.png,1,minivan,0.11
+787,datasets_generated_ready_models/stylegan2/generated_images/087157.png,2,car wheel,0.06
+788,datasets_generated_ready_models/stylegan2/generated_images/087157.png,3,"grille, radiator grille",0.03
+789,datasets_generated_ready_models/stylegan2/generated_images/087157.png,4,"limousine, limo",0.01
+790,datasets_generated_ready_models/stylegan2/generated_images/087158.png,0,car wheel,0.54
+791,datasets_generated_ready_models/stylegan2/generated_images/087158.png,1,"sports car, sport car",0.28
+792,datasets_generated_ready_models/stylegan2/generated_images/087158.png,2,"limousine, limo",0.02
+793,datasets_generated_ready_models/stylegan2/generated_images/087158.png,3,"grille, radiator grille",0.02
+794,datasets_generated_ready_models/stylegan2/generated_images/087158.png,4,"racer, race car, racing car",0.01
+795,datasets_generated_ready_models/stylegan2/generated_images/087159.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.54
+796,datasets_generated_ready_models/stylegan2/generated_images/087159.png,1,"pickup, pickup truck",0.12
+797,datasets_generated_ready_models/stylegan2/generated_images/087159.png,2,car wheel,0.09
+798,datasets_generated_ready_models/stylegan2/generated_images/087159.png,3,"grille, radiator grille",0.05
+799,datasets_generated_ready_models/stylegan2/generated_images/087159.png,4,convertible,0.04
+800,datasets_generated_ready_models/stylegan2/generated_images/087160.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.31
+801,datasets_generated_ready_models/stylegan2/generated_images/087160.png,1,"grille, radiator grille",0.24
+802,datasets_generated_ready_models/stylegan2/generated_images/087160.png,2,convertible,0.15
+803,datasets_generated_ready_models/stylegan2/generated_images/087160.png,3,"cab, hack, taxi, taxicab",0.06
+804,datasets_generated_ready_models/stylegan2/generated_images/087160.png,4,car wheel,0.06
+805,datasets_generated_ready_models/stylegan2/generated_images/087161.png,0,car wheel,0.49
+806,datasets_generated_ready_models/stylegan2/generated_images/087161.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.29
+807,datasets_generated_ready_models/stylegan2/generated_images/087161.png,2,"grille, radiator grille",0.12
+808,datasets_generated_ready_models/stylegan2/generated_images/087161.png,3,"limousine, limo",0.01
+809,datasets_generated_ready_models/stylegan2/generated_images/087161.png,4,minivan,0.01
+810,datasets_generated_ready_models/stylegan2/generated_images/087162.png,0,"grille, radiator grille",0.93
+811,datasets_generated_ready_models/stylegan2/generated_images/087162.png,1,convertible,0.02
+812,datasets_generated_ready_models/stylegan2/generated_images/087162.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+813,datasets_generated_ready_models/stylegan2/generated_images/087162.png,3,"cab, hack, taxi, taxicab",0.0
+814,datasets_generated_ready_models/stylegan2/generated_images/087162.png,4,"sports car, sport car",0.0
+815,datasets_generated_ready_models/stylegan2/generated_images/087163.png,0,car wheel,0.77
+816,datasets_generated_ready_models/stylegan2/generated_images/087163.png,1,"sports car, sport car",0.07
+817,datasets_generated_ready_models/stylegan2/generated_images/087163.png,2,convertible,0.04
+818,datasets_generated_ready_models/stylegan2/generated_images/087163.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+819,datasets_generated_ready_models/stylegan2/generated_images/087163.png,4,"limousine, limo",0.01
+820,datasets_generated_ready_models/stylegan2/generated_images/087164.png,0,"sports car, sport car",0.59
+821,datasets_generated_ready_models/stylegan2/generated_images/087164.png,1,car wheel,0.16
+822,datasets_generated_ready_models/stylegan2/generated_images/087164.png,2,convertible,0.1
+823,datasets_generated_ready_models/stylegan2/generated_images/087164.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+824,datasets_generated_ready_models/stylegan2/generated_images/087164.png,4,"limousine, limo",0.01
+825,datasets_generated_ready_models/stylegan2/generated_images/087165.png,0,convertible,0.91
+826,datasets_generated_ready_models/stylegan2/generated_images/087165.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+827,datasets_generated_ready_models/stylegan2/generated_images/087165.png,2,"sports car, sport car",0.0
+828,datasets_generated_ready_models/stylegan2/generated_images/087165.png,3,"grille, radiator grille",0.0
+829,datasets_generated_ready_models/stylegan2/generated_images/087165.png,4,"pickup, pickup truck",0.0
+830,datasets_generated_ready_models/stylegan2/generated_images/087166.png,0,"cab, hack, taxi, taxicab",0.63
+831,datasets_generated_ready_models/stylegan2/generated_images/087166.png,1,barn,0.04
+832,datasets_generated_ready_models/stylegan2/generated_images/087166.png,2,"mobile home, manufactured home",0.04
+833,datasets_generated_ready_models/stylegan2/generated_images/087166.png,3,window screen,0.02
+834,datasets_generated_ready_models/stylegan2/generated_images/087166.png,4,boathouse,0.01
+835,datasets_generated_ready_models/stylegan2/generated_images/087167.png,0,"sports car, sport car",0.42
+836,datasets_generated_ready_models/stylegan2/generated_images/087167.png,1,convertible,0.27
+837,datasets_generated_ready_models/stylegan2/generated_images/087167.png,2,"grille, radiator grille",0.09
+838,datasets_generated_ready_models/stylegan2/generated_images/087167.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+839,datasets_generated_ready_models/stylegan2/generated_images/087167.png,4,"racer, race car, racing car",0.02
+840,datasets_generated_ready_models/stylegan2/generated_images/087168.png,0,"grille, radiator grille",0.53
+841,datasets_generated_ready_models/stylegan2/generated_images/087168.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.28
+842,datasets_generated_ready_models/stylegan2/generated_images/087168.png,2,"sports car, sport car",0.02
+843,datasets_generated_ready_models/stylegan2/generated_images/087168.png,3,"cab, hack, taxi, taxicab",0.02
+844,datasets_generated_ready_models/stylegan2/generated_images/087168.png,4,car wheel,0.02
+845,datasets_generated_ready_models/stylegan2/generated_images/087169.png,0,"sports car, sport car",0.85
+846,datasets_generated_ready_models/stylegan2/generated_images/087169.png,1,"racer, race car, racing car",0.06
+847,datasets_generated_ready_models/stylegan2/generated_images/087169.png,2,car wheel,0.01
+848,datasets_generated_ready_models/stylegan2/generated_images/087169.png,3,"grille, radiator grille",0.0
+849,datasets_generated_ready_models/stylegan2/generated_images/087169.png,4,convertible,0.0
+850,datasets_generated_ready_models/stylegan2/generated_images/087170.png,0,minivan,0.4
+851,datasets_generated_ready_models/stylegan2/generated_images/087170.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.37
+852,datasets_generated_ready_models/stylegan2/generated_images/087170.png,2,"grille, radiator grille",0.01
+853,datasets_generated_ready_models/stylegan2/generated_images/087170.png,3,car wheel,0.01
+854,datasets_generated_ready_models/stylegan2/generated_images/087170.png,4,tray,0.0
+855,datasets_generated_ready_models/stylegan2/generated_images/087171.png,0,convertible,0.87
+856,datasets_generated_ready_models/stylegan2/generated_images/087171.png,1,"sports car, sport car",0.05
+857,datasets_generated_ready_models/stylegan2/generated_images/087171.png,2,car wheel,0.0
+858,datasets_generated_ready_models/stylegan2/generated_images/087171.png,3,"racer, race car, racing car",0.0
+859,datasets_generated_ready_models/stylegan2/generated_images/087171.png,4,"amphibian, amphibious vehicle",0.0
+860,datasets_generated_ready_models/stylegan2/generated_images/087172.png,0,car wheel,0.61
+861,datasets_generated_ready_models/stylegan2/generated_images/087172.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.23
+862,datasets_generated_ready_models/stylegan2/generated_images/087172.png,2,"grille, radiator grille",0.04
+863,datasets_generated_ready_models/stylegan2/generated_images/087172.png,3,"sports car, sport car",0.01
+864,datasets_generated_ready_models/stylegan2/generated_images/087172.png,4,"pickup, pickup truck",0.01
+865,datasets_generated_ready_models/stylegan2/generated_images/087173.png,0,"racer, race car, racing car",0.78
+866,datasets_generated_ready_models/stylegan2/generated_images/087173.png,1,"bobsled, bobsleigh, bob",0.03
+867,datasets_generated_ready_models/stylegan2/generated_images/087173.png,2,"sports car, sport car",0.02
+868,datasets_generated_ready_models/stylegan2/generated_images/087173.png,3,monitor,0.01
+869,datasets_generated_ready_models/stylegan2/generated_images/087173.png,4,speedboat,0.01
+870,datasets_generated_ready_models/stylegan2/generated_images/087174.png,0,car wheel,0.54
+871,datasets_generated_ready_models/stylegan2/generated_images/087174.png,1,"sports car, sport car",0.27
+872,datasets_generated_ready_models/stylegan2/generated_images/087174.png,2,"limousine, limo",0.02
+873,datasets_generated_ready_models/stylegan2/generated_images/087174.png,3,convertible,0.02
+874,datasets_generated_ready_models/stylegan2/generated_images/087174.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+875,datasets_generated_ready_models/stylegan2/generated_images/087175.png,0,"limousine, limo",0.54
+876,datasets_generated_ready_models/stylegan2/generated_images/087175.png,1,car wheel,0.23
+877,datasets_generated_ready_models/stylegan2/generated_images/087175.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.1
+878,datasets_generated_ready_models/stylegan2/generated_images/087175.png,3,"sports car, sport car",0.04
+879,datasets_generated_ready_models/stylegan2/generated_images/087175.png,4,convertible,0.01
+880,datasets_generated_ready_models/stylegan2/generated_images/087176.png,0,"pickup, pickup truck",0.91
+881,datasets_generated_ready_models/stylegan2/generated_images/087176.png,1,convertible,0.01
+882,datasets_generated_ready_models/stylegan2/generated_images/087176.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0
+883,datasets_generated_ready_models/stylegan2/generated_images/087176.png,3,car wheel,0.0
+884,datasets_generated_ready_models/stylegan2/generated_images/087176.png,4,"racer, race car, racing car",0.0
+885,datasets_generated_ready_models/stylegan2/generated_images/087177.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.78
+886,datasets_generated_ready_models/stylegan2/generated_images/087177.png,1,car wheel,0.09
+887,datasets_generated_ready_models/stylegan2/generated_images/087177.png,2,"limousine, limo",0.02
+888,datasets_generated_ready_models/stylegan2/generated_images/087177.png,3,"grille, radiator grille",0.02
+889,datasets_generated_ready_models/stylegan2/generated_images/087177.png,4,convertible,0.01
+890,datasets_generated_ready_models/stylegan2/generated_images/087178.png,0,"sports car, sport car",0.65
+891,datasets_generated_ready_models/stylegan2/generated_images/087178.png,1,convertible,0.1
+892,datasets_generated_ready_models/stylegan2/generated_images/087178.png,2,"grille, radiator grille",0.05
+893,datasets_generated_ready_models/stylegan2/generated_images/087178.png,3,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.05
+894,datasets_generated_ready_models/stylegan2/generated_images/087178.png,4,car wheel,0.04
+895,datasets_generated_ready_models/stylegan2/generated_images/087179.png,0,minivan,0.69
+896,datasets_generated_ready_models/stylegan2/generated_images/087179.png,1,"grille, radiator grille",0.05
+897,datasets_generated_ready_models/stylegan2/generated_images/087179.png,2,"sports car, sport car",0.04
+898,datasets_generated_ready_models/stylegan2/generated_images/087179.png,3,convertible,0.02
+899,datasets_generated_ready_models/stylegan2/generated_images/087179.png,4,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+900,datasets_generated_ready_models/stylegan2/generated_images/087180.png,0,"limousine, limo",0.37
+901,datasets_generated_ready_models/stylegan2/generated_images/087180.png,1,"racer, race car, racing car",0.11
+902,datasets_generated_ready_models/stylegan2/generated_images/087180.png,2,"lakeside, lakeshore",0.06
+903,datasets_generated_ready_models/stylegan2/generated_images/087180.png,3,car wheel,0.04
+904,datasets_generated_ready_models/stylegan2/generated_images/087180.png,4,"sports car, sport car",0.03
+905,datasets_generated_ready_models/stylegan2/generated_images/087181.png,0,"limousine, limo",0.43
+906,datasets_generated_ready_models/stylegan2/generated_images/087181.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.21
+907,datasets_generated_ready_models/stylegan2/generated_images/087181.png,2,car wheel,0.15
+908,datasets_generated_ready_models/stylegan2/generated_images/087181.png,3,"grille, radiator grille",0.09
+909,datasets_generated_ready_models/stylegan2/generated_images/087181.png,4,"cab, hack, taxi, taxicab",0.01
+910,datasets_generated_ready_models/stylegan2/generated_images/087182.png,0,street sign,0.41
+911,datasets_generated_ready_models/stylegan2/generated_images/087182.png,1,"streetcar, tram, tramcar, trolley, trolley car",0.19
+912,datasets_generated_ready_models/stylegan2/generated_images/087182.png,2,"cinema, movie theater, movie theatre, movie house, picture palace",0.1
+913,datasets_generated_ready_models/stylegan2/generated_images/087182.png,3,"trolleybus, trolley coach, trackless trolley",0.02
+914,datasets_generated_ready_models/stylegan2/generated_images/087182.png,4,scoreboard,0.01
+915,datasets_generated_ready_models/stylegan2/generated_images/087183.png,0,"grille, radiator grille",0.45
+916,datasets_generated_ready_models/stylegan2/generated_images/087183.png,1,convertible,0.27
+917,datasets_generated_ready_models/stylegan2/generated_images/087183.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.12
+918,datasets_generated_ready_models/stylegan2/generated_images/087183.png,3,ambulance,0.02
+919,datasets_generated_ready_models/stylegan2/generated_images/087183.png,4,"pickup, pickup truck",0.01
+920,datasets_generated_ready_models/stylegan2/generated_images/087184.png,0,"cab, hack, taxi, taxicab",0.63
+921,datasets_generated_ready_models/stylegan2/generated_images/087184.png,1,"racer, race car, racing car",0.15
+922,datasets_generated_ready_models/stylegan2/generated_images/087184.png,2,"sports car, sport car",0.02
+923,datasets_generated_ready_models/stylegan2/generated_images/087184.png,3,moving van,0.02
+924,datasets_generated_ready_models/stylegan2/generated_images/087184.png,4,"limousine, limo",0.02
+925,datasets_generated_ready_models/stylegan2/generated_images/087185.png,0,"grille, radiator grille",0.78
+926,datasets_generated_ready_models/stylegan2/generated_images/087185.png,1,convertible,0.08
+927,datasets_generated_ready_models/stylegan2/generated_images/087185.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.04
+928,datasets_generated_ready_models/stylegan2/generated_images/087185.png,3,"sports car, sport car",0.04
+929,datasets_generated_ready_models/stylegan2/generated_images/087185.png,4,car wheel,0.0
+930,datasets_generated_ready_models/stylegan2/generated_images/087186.png,0,"sports car, sport car",0.82
+931,datasets_generated_ready_models/stylegan2/generated_images/087186.png,1,"grille, radiator grille",0.02
+932,datasets_generated_ready_models/stylegan2/generated_images/087186.png,2,"racer, race car, racing car",0.02
+933,datasets_generated_ready_models/stylegan2/generated_images/087186.png,3,car wheel,0.01
+934,datasets_generated_ready_models/stylegan2/generated_images/087186.png,4,convertible,0.01
+935,datasets_generated_ready_models/stylegan2/generated_images/087187.png,0,"sports car, sport car",0.63
+936,datasets_generated_ready_models/stylegan2/generated_images/087187.png,1,convertible,0.23
+937,datasets_generated_ready_models/stylegan2/generated_images/087187.png,2,"racer, race car, racing car",0.02
+938,datasets_generated_ready_models/stylegan2/generated_images/087187.png,3,car wheel,0.0
+939,datasets_generated_ready_models/stylegan2/generated_images/087187.png,4,"grille, radiator grille",0.0
+940,datasets_generated_ready_models/stylegan2/generated_images/087188.png,0,minivan,0.81
+941,datasets_generated_ready_models/stylegan2/generated_images/087188.png,1,"grille, radiator grille",0.03
+942,datasets_generated_ready_models/stylegan2/generated_images/087188.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+943,datasets_generated_ready_models/stylegan2/generated_images/087188.png,3,cassette player,0.01
+944,datasets_generated_ready_models/stylegan2/generated_images/087188.png,4,car wheel,0.0
+945,datasets_generated_ready_models/stylegan2/generated_images/087189.png,0,"racer, race car, racing car",0.86
+946,datasets_generated_ready_models/stylegan2/generated_images/087189.png,1,"amphibian, amphibious vehicle",0.02
+947,datasets_generated_ready_models/stylegan2/generated_images/087189.png,2,"sports car, sport car",0.02
+948,datasets_generated_ready_models/stylegan2/generated_images/087189.png,3,"bullet train, bullet",0.01
+949,datasets_generated_ready_models/stylegan2/generated_images/087189.png,4,car wheel,0.0
+950,datasets_generated_ready_models/stylegan2/generated_images/087190.png,0,"racer, race car, racing car",0.63
+951,datasets_generated_ready_models/stylegan2/generated_images/087190.png,1,"tow truck, tow car, wrecker",0.05
+952,datasets_generated_ready_models/stylegan2/generated_images/087190.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.03
+953,datasets_generated_ready_models/stylegan2/generated_images/087190.png,3,"sports car, sport car",0.03
+954,datasets_generated_ready_models/stylegan2/generated_images/087190.png,4,car wheel,0.02
+955,datasets_generated_ready_models/stylegan2/generated_images/087191.png,0,"pickup, pickup truck",0.83
+956,datasets_generated_ready_models/stylegan2/generated_images/087191.png,1,"tow truck, tow car, wrecker",0.01
+957,datasets_generated_ready_models/stylegan2/generated_images/087191.png,2,"jeep, landrover",0.01
+958,datasets_generated_ready_models/stylegan2/generated_images/087191.png,3,"garbage truck, dustcart",0.0
+959,datasets_generated_ready_models/stylegan2/generated_images/087191.png,4,"snowplow, snowplough",0.0
+960,datasets_generated_ready_models/stylegan2/generated_images/087192.png,0,minivan,0.87
+961,datasets_generated_ready_models/stylegan2/generated_images/087192.png,1,minibus,0.05
+962,datasets_generated_ready_models/stylegan2/generated_images/087192.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.01
+963,datasets_generated_ready_models/stylegan2/generated_images/087192.png,3,"cab, hack, taxi, taxicab",0.0
+964,datasets_generated_ready_models/stylegan2/generated_images/087192.png,4,car wheel,0.0
+965,datasets_generated_ready_models/stylegan2/generated_images/087193.png,0,"tow truck, tow car, wrecker",0.49
+966,datasets_generated_ready_models/stylegan2/generated_images/087193.png,1,"cab, hack, taxi, taxicab",0.07
+967,datasets_generated_ready_models/stylegan2/generated_images/087193.png,2,moving van,0.03
+968,datasets_generated_ready_models/stylegan2/generated_images/087193.png,3,"motor scooter, scooter",0.02
+969,datasets_generated_ready_models/stylegan2/generated_images/087193.png,4,"jinrikisha, ricksha, rickshaw",0.02
+970,datasets_generated_ready_models/stylegan2/generated_images/087194.png,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.57
+971,datasets_generated_ready_models/stylegan2/generated_images/087194.png,1,"pickup, pickup truck",0.26
+972,datasets_generated_ready_models/stylegan2/generated_images/087194.png,2,car wheel,0.02
+973,datasets_generated_ready_models/stylegan2/generated_images/087194.png,3,"limousine, limo",0.02
+974,datasets_generated_ready_models/stylegan2/generated_images/087194.png,4,minivan,0.02
+975,datasets_generated_ready_models/stylegan2/generated_images/087195.png,0,"grille, radiator grille",0.53
+976,datasets_generated_ready_models/stylegan2/generated_images/087195.png,1,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.15
+977,datasets_generated_ready_models/stylegan2/generated_images/087195.png,2,convertible,0.07
+978,datasets_generated_ready_models/stylegan2/generated_images/087195.png,3,car wheel,0.06
+979,datasets_generated_ready_models/stylegan2/generated_images/087195.png,4,"pickup, pickup truck",0.02
+980,datasets_generated_ready_models/stylegan2/generated_images/087196.png,0,"cab, hack, taxi, taxicab",0.83
+981,datasets_generated_ready_models/stylegan2/generated_images/087196.png,1,minivan,0.02
+982,datasets_generated_ready_models/stylegan2/generated_images/087196.png,2,minibus,0.01
+983,datasets_generated_ready_models/stylegan2/generated_images/087196.png,3,"racer, race car, racing car",0.01
+984,datasets_generated_ready_models/stylegan2/generated_images/087196.png,4,car wheel,0.01
+985,datasets_generated_ready_models/stylegan2/generated_images/087197.png,0,"sports car, sport car",0.85
+986,datasets_generated_ready_models/stylegan2/generated_images/087197.png,1,"racer, race car, racing car",0.03
+987,datasets_generated_ready_models/stylegan2/generated_images/087197.png,2,convertible,0.01
+988,datasets_generated_ready_models/stylegan2/generated_images/087197.png,3,car wheel,0.01
+989,datasets_generated_ready_models/stylegan2/generated_images/087197.png,4,"grille, radiator grille",0.0
+990,datasets_generated_ready_models/stylegan2/generated_images/087198.png,0,"cab, hack, taxi, taxicab",0.76
+991,datasets_generated_ready_models/stylegan2/generated_images/087198.png,1,"grille, radiator grille",0.04
+992,datasets_generated_ready_models/stylegan2/generated_images/087198.png,2,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.02
+993,datasets_generated_ready_models/stylegan2/generated_images/087198.png,3,"racer, race car, racing car",0.02
+994,datasets_generated_ready_models/stylegan2/generated_images/087198.png,4,convertible,0.01
+995,datasets_generated_ready_models/stylegan2/generated_images/087199.png,0,"grille, radiator grille",0.52
+996,datasets_generated_ready_models/stylegan2/generated_images/087199.png,1,convertible,0.11
+997,datasets_generated_ready_models/stylegan2/generated_images/087199.png,2,"limousine, limo",0.1
+998,datasets_generated_ready_models/stylegan2/generated_images/087199.png,3,"sports car, sport car",0.05
+999,datasets_generated_ready_models/stylegan2/generated_images/087199.png,4,"cab, hack, taxi, taxicab",0.05

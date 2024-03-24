@@ -1,0 +1,251 @@
+,image_path,prediction_position,label,score
+0,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_0.png,0,"lion, king of beasts, Panthera leo",0.92
+1,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_0.png,1,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",0.0
+2,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_0.png,2,zebra,0.0
+3,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_0.png,3,"chow, chow chow",0.0
+4,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_0.png,4,"tiger, Panthera tigris",0.0
+5,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_1.png,0,"African elephant, Loxodonta africana",0.87
+6,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_1.png,1,tusker,0.04
+7,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_1.png,2,"Indian elephant, Elephas maximus",0.03
+8,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_1.png,3,zebra,0.0
+9,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_1.png,4,kite,0.0
+10,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_10.png,0,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.93
+11,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_10.png,1,"seashore, coast, seacoast, sea-coast",0.0
+12,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_10.png,2,"Arctic fox, white fox, Alopex lagopus",0.0
+13,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_10.png,3,"container ship, containership, container vessel",0.0
+14,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_10.png,4,volcano,0.0
+15,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_11.png,0,fountain,0.37
+16,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_11.png,1,comic book,0.09
+17,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_11.png,2,volcano,0.06
+18,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_11.png,3,"fire screen, fireguard",0.03
+19,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_11.png,4,goose,0.02
+20,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_12.png,0,"meerkat, mierkat",0.84
+21,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_12.png,1,mongoose,0.07
+22,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_12.png,2,"Madagascar cat, ring-tailed lemur, Lemur catta",0.0
+23,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_12.png,3,weasel,0.0
+24,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_12.png,4,"black-footed ferret, ferret, Mustela nigripes",0.0
+25,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_13.png,0,"bald eagle, American eagle, Haliaeetus leucocephalus",0.88
+26,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_13.png,1,kite,0.0
+27,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_13.png,2,black grouse,0.0
+28,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_13.png,3,coral reef,0.0
+29,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_13.png,4,"ostrich, Struthio camelus",0.0
+30,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_14.png,0,"king penguin, Aptenodytes patagonica",0.91
+31,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_14.png,1,alp,0.0
+32,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_14.png,2,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.0
+33,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_14.png,3,"albatross, mollymawk",0.0
+34,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_14.png,4,mountain tent,0.0
+35,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_15.png,0,otter,0.81
+36,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_15.png,1,weasel,0.04
+37,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_15.png,2,mink,0.01
+38,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_15.png,3,"sea slug, nudibranch",0.0
+39,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_15.png,4,"polecat, fitch, foulmart, foumart, Mustela putorius",0.0
+40,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_16.png,0,alp,0.35
+41,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_16.png,1,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",0.28
+42,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_16.png,2,"valley, vale",0.11
+43,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_16.png,3,barn,0.04
+44,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_16.png,4,"ram, tup",0.02
+45,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_17.png,0,coral reef,0.85
+46,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_17.png,1,scuba diver,0.04
+47,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_17.png,2,brain coral,0.0
+48,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_17.png,3,"rock beauty, Holocanthus tricolor",0.0
+49,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_17.png,4,snorkel,0.0
+50,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_18.png,0,"brown bear, bruin, Ursus arctos",0.92
+51,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_18.png,1,"sloth bear, Melursus ursinus, Ursus ursinus",0.0
+52,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_18.png,2,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.0
+53,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_18.png,3,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.0
+54,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_18.png,4,"black-footed ferret, ferret, Mustela nigripes",0.0
+55,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_19.png,0,"ibex, Capra ibex",0.43
+56,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_19.png,1,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",0.31
+57,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_19.png,2,"ram, tup",0.16
+58,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_19.png,3,alp,0.01
+59,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_19.png,4,"albatross, mollymawk",0.01
+60,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_2.png,0,zebra,0.19
+61,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_2.png,1,"fire screen, fireguard",0.09
+62,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_2.png,2,"Arabian camel, dromedary, Camelus dromedarius",0.06
+63,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_2.png,3,gazelle,0.03
+64,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_2.png,4,"impala, Aepyceros melampus",0.03
+65,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_20.png,0,toucan,0.92
+66,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_20.png,1,hornbill,0.0
+67,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_20.png,2,macaw,0.0
+68,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_20.png,3,comic book,0.0
+69,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_20.png,4,"king penguin, Aptenodytes patagonica",0.0
+70,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_21.png,0,bee,0.82
+71,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_21.png,1,"apiary, bee house",0.02
+72,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_21.png,2,honeycomb,0.01
+73,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_21.png,3,daisy,0.0
+74,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_21.png,4,nipple,0.0
+75,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_22.png,0,drake,0.46
+76,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_22.png,1,"lakeside, lakeshore",0.26
+77,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_22.png,2,goose,0.1
+78,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_22.png,3,"maze, labyrinth",0.03
+79,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_22.png,4,canoe,0.01
+80,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_23.png,0,"tiger, Panthera tigris",0.64
+81,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_23.png,1,tiger cat,0.17
+82,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_23.png,2,"theater curtain, theatre curtain",0.0
+83,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_23.png,3,"jaguar, panther, Panthera onca, Felis onca",0.0
+84,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_23.png,4,jack-o'-lantern,0.0
+85,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_24.png,0,"seashore, coast, seacoast, sea-coast",0.42
+86,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_24.png,1,"sandbar, sand bar",0.15
+87,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_24.png,2,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",0.13
+88,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_24.png,3,conch,0.03
+89,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_24.png,4,"loggerhead, loggerhead turtle, Caretta caretta",0.03
+90,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_25.png,0,sea lion,0.87
+91,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_25.png,1,"promontory, headland, head, foreland",0.0
+92,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_25.png,2,"seashore, coast, seacoast, sea-coast",0.0
+93,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_25.png,3,"cliff, drop, drop-off",0.0
+94,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_25.png,4,"breakwater, groin, groyne, mole, bulwark, seawall, jetty",0.0
+95,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_26.png,0,"great grey owl, great gray owl, Strix nebulosa",0.87
+96,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_26.png,1,kite,0.04
+97,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_26.png,2,"ruffed grouse, partridge, Bonasa umbellus",0.02
+98,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_26.png,3,quail,0.0
+99,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_26.png,4,partridge,0.0
+100,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_27.png,0,"tiger shark, Galeocerdo cuvieri",0.19
+101,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_27.png,1,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.15
+102,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_27.png,2,snorkel,0.13
+103,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_27.png,3,"dugong, Dugong dugon",0.1
+104,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_27.png,4,scuba diver,0.04
+105,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_28.png,0,flamingo,0.88
+106,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_28.png,1,crane,0.06
+107,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_28.png,2,goose,0.01
+108,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_28.png,3,"American egret, great white heron, Egretta albus",0.0
+109,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_28.png,4,"little blue heron, Egretta caerulea",0.0
+110,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_29.png,0,"kit fox, Vulpes macrotis",0.43
+111,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_29.png,1,"red fox, Vulpes vulpes",0.39
+112,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_29.png,2,"grey fox, gray fox, Urocyon cinereoargenteus",0.01
+113,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_29.png,3,"Arctic fox, white fox, Alopex lagopus",0.0
+114,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_29.png,4,"Dandie Dinmont, Dandie Dinmont terrier",0.0
+115,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_3.png,0,"leopard, Panthera pardus",0.89
+116,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_3.png,1,"jaguar, panther, Panthera onca, Felis onca",0.01
+117,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_3.png,2,"cheetah, chetah, Acinonyx jubatus",0.0
+118,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_3.png,3,"buckeye, horse chestnut, conker",0.0
+119,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_3.png,4,"long-horned beetle, longicorn, longicorn beetle",0.0
+120,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_30.png,0,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",0.59
+121,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_30.png,1,fountain,0.13
+122,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_30.png,2,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.01
+123,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_30.png,3,"seashore, coast, seacoast, sea-coast",0.01
+124,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_30.png,4,"submarine, pigboat, sub, U-boat",0.01
+125,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_31.png,0,mask,0.94
+126,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_31.png,1,"shield, buckler",0.0
+127,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_31.png,2,vase,0.0
+128,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_31.png,3,sundial,0.0
+129,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_31.png,4,spindle,0.0
+130,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_32.png,0,bison,0.75
+131,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_32.png,1,ox,0.02
+132,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_32.png,2,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.02
+133,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_32.png,3,"valley, vale",0.01
+134,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_32.png,4,"Arabian camel, dromedary, Camelus dromedarius",0.01
+135,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_33.png,0,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",0.92
+136,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_33.png,1,wombat,0.0
+137,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_33.png,2,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",0.0
+138,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_33.png,3,"Madagascar cat, ring-tailed lemur, Lemur catta",0.0
+139,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_33.png,4,Yorkshire terrier,0.0
+140,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_34.png,0,zebra,0.21
+141,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_34.png,1,"bearskin, busby, shako",0.03
+142,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_34.png,2,standard poodle,0.03
+143,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_34.png,3,wig,0.02
+144,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_34.png,4,toyshop,0.02
+145,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_35.png,0,"chimpanzee, chimp, Pan troglodytes",0.91
+146,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_35.png,1,"gorilla, Gorilla gorilla",0.0
+147,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_35.png,2,"siamang, Hylobates syndactylus, Symphalangus syndactylus",0.0
+148,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_35.png,3,"orangutan, orang, orangutang, Pongo pygmaeus",0.0
+149,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_35.png,4,"guenon, guenon monkey",0.0
+150,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_36.png,0,"king penguin, Aptenodytes patagonica",0.89
+151,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_36.png,1,alp,0.0
+152,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_36.png,2,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.0
+153,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_36.png,3,"albatross, mollymawk",0.0
+154,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_36.png,4,"television, television system",0.0
+155,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_37.png,0,"gorilla, Gorilla gorilla",0.92
+156,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_37.png,1,"patas, hussar monkey, Erythrocebus patas",0.0
+157,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_37.png,2,"chimpanzee, chimp, Pan troglodytes",0.0
+158,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_37.png,3,"titi, titi monkey",0.0
+159,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_37.png,4,"orangutan, orang, orangutang, Pongo pygmaeus",0.0
+160,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_38.png,0,water bottle,0.14
+161,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_38.png,1,"seashore, coast, seacoast, sea-coast",0.1
+162,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_38.png,2,bubble,0.08
+163,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_38.png,3,wine bottle,0.05
+164,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_38.png,4,beer bottle,0.04
+165,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_39.png,0,triceratops,0.13
+166,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_39.png,1,"ibex, Capra ibex",0.09
+167,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_39.png,2,llama,0.06
+168,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_39.png,3,ox,0.05
+169,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_39.png,4,gazelle,0.03
+170,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_4.png,0,zebra,0.71
+171,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_4.png,1,"Arabian camel, dromedary, Camelus dromedarius",0.09
+172,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_4.png,2,gazelle,0.01
+173,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_4.png,3,hartebeest,0.01
+174,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_4.png,4,"seashore, coast, seacoast, sea-coast",0.01
+175,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_40.png,0,"tiger shark, Galeocerdo cuvieri",0.84
+176,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_40.png,1,coral reef,0.02
+177,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_40.png,2,scuba diver,0.01
+178,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_40.png,3,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",0.0
+179,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_40.png,4,"hammerhead, hammerhead shark",0.0
+180,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_41.png,0,zebra,0.83
+181,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_41.png,1,goose,0.0
+182,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_41.png,2,hartebeest,0.0
+183,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_41.png,3,"seashore, coast, seacoast, sea-coast",0.0
+184,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_41.png,4,"ostrich, Struthio camelus",0.0
+185,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_42.png,0,"wallaby, brush kangaroo",0.91
+186,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_42.png,1,wombat,0.0
+187,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_42.png,2,gazelle,0.0
+188,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_42.png,3,hartebeest,0.0
+189,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_42.png,4,"skunk, polecat, wood pussy",0.0
+190,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_43.png,0,otter,0.85
+191,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_43.png,1,weasel,0.04
+192,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_43.png,2,mink,0.01
+193,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_43.png,3,"polecat, fitch, foulmart, foumart, Mustela putorius",0.0
+194,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_43.png,4,"black-footed ferret, ferret, Mustela nigripes",0.0
+195,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_44.png,0,"black swan, Cygnus atratus",0.44
+196,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_44.png,1,goose,0.36
+197,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_44.png,2,"lakeside, lakeshore",0.01
+198,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_44.png,3,boathouse,0.0
+199,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_44.png,4,fountain,0.0
+200,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_45.png,0,"hyena, hyaena",0.88
+201,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_45.png,1,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",0.02
+202,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_45.png,2,"red-breasted merganser, Mergus serrator",0.0
+203,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_45.png,3,"web site, website, internet site, site",0.0
+204,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_45.png,4,"patas, hussar monkey, Erythrocebus patas",0.0
+205,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_46.png,0,"meerkat, mierkat",0.29
+206,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_46.png,1,"African grey, African gray, Psittacus erithacus",0.16
+207,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_46.png,2,kite,0.07
+208,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_46.png,3,mongoose,0.02
+209,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_46.png,4,black grouse,0.01
+210,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_47.png,0,"Madagascar cat, ring-tailed lemur, Lemur catta",0.87
+211,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_47.png,1,"indri, indris, Indri indri, Indri brevicaudatus",0.04
+212,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_47.png,2,mongoose,0.0
+213,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_47.png,3,"gibbon, Hylobates lar",0.0
+214,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_47.png,4,keeshond,0.0
+215,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_48.png,0,flamingo,0.42
+216,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_48.png,1,goose,0.23
+217,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_48.png,2,pelican,0.02
+218,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_48.png,3,volcano,0.02
+219,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_48.png,4,sea lion,0.01
+220,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_49.png,0,"brown bear, bruin, Ursus arctos",0.82
+221,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_49.png,1,"dam, dike, dyke",0.03
+222,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_49.png,2,"valley, vale",0.01
+223,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_49.png,3,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.01
+224,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_49.png,4,fountain,0.0
+225,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_5.png,0,"Eskimo dog, husky",0.29
+226,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_5.png,1,"timber wolf, grey wolf, gray wolf, Canis lupus",0.24
+227,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_5.png,2,Siberian husky,0.16
+228,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_5.png,3,"white wolf, Arctic wolf, Canis lupus tundrarum",0.08
+229,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_5.png,4,"coyote, prairie wolf, brush wolf, Canis latrans",0.08
+230,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_6.png,0,"cheetah, chetah, Acinonyx jubatus",0.89
+231,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_6.png,1,"leopard, Panthera pardus",0.01
+232,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_6.png,2,"jaguar, panther, Panthera onca, Felis onca",0.0
+233,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_6.png,3,gazelle,0.0
+234,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_6.png,4,black grouse,0.0
+235,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_7.png,0,"hippopotamus, hippo, river horse, Hippopotamus amphibius",0.74
+236,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_7.png,1,"African elephant, Loxodonta africana",0.06
+237,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_7.png,2,"Indian elephant, Elephas maximus",0.0
+238,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_7.png,3,triceratops,0.0
+239,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_7.png,4,"tiger, Panthera tigris",0.0
+240,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_8.png,0,"spider monkey, Ateles geoffroyi",0.55
+241,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_8.png,1,"squirrel monkey, Saimiri sciureus",0.1
+242,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_8.png,2,langur,0.08
+243,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_8.png,3,"capuchin, ringtail, Cebus capucinus",0.04
+244,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_8.png,4,"colobus, colobus monkey",0.02
+245,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_9.png,0,macaw,0.6
+246,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_9.png,1,"seashore, coast, seacoast, sea-coast",0.1
+247,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_9.png,2,"sandbar, sand bar",0.08
+248,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_9.png,3,"promontory, headland, head, foreland",0.04
+249,/content/DALLE3/dalle_wildlife_zipped.zip/wildlife_img_9.png,4,"lakeside, lakeshore",0.02

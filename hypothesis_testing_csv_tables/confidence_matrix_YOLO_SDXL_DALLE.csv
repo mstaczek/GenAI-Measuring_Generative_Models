@@ -1,0 +1,3 @@
+Method,Experiment,N,Sn,p0=0.5,p0=0.6,p0=0.7,p0=0.8,p0=0.9,p0 for confidence=0.95
+YOLO,SDXL cars,50,0.94,1.0,1.0,0.997,0.859,0.148,0.767
+YOLO,DALLE cars,50,0.92,1.0,1.0,0.992,0.763,0.039,0.747

@@ -1,0 +1,2 @@
+Method,Experiment,N,Sn,p0=0.5,p0=0.6,p0=0.7,p0=0.8,p0=0.9,p0 for confidence=0.95
+YOLO,StyleGAN2 cars,200,0.9748743718592965,1.0,1.0,1.0,1.0,0.894,0.888
